@@ -2,13 +2,13 @@
 
 <div class="header article-header entry-header">
 
-# 第１章　天賦の光
+# Chương 1: Ánh sáng thiên phú (天賦の光)
 
 <div class="eye-catch-wrap display-none">
 
 <figure class="eye-catch" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
 <img src="https://examist.jp/wp-content/uploads/29604034d44edc7c0b7545b4528b0ec4.png" width="1280" height="720" />
-<span class="cat-label cat-label-1554">光と闇 ―恐るべき管理人の正体と悍ましきサイト誕生の背景―</span>
+<span class="cat-label cat-label-1554">Ánh sáng và bóng tối (光と闇) - Chân tướng đáng sợ của quản trị viên và bối cảnh ghê tởm phía sau sự ra đời của trang web -</span>
 </figure>
 
 </div>
@@ -23,80 +23,80 @@
 
 <div class="entry-content cf" itemprop="mainEntityOfPage">
 
-## 『光と闇』――本質探究の物語
+## "Ánh sáng và bóng tối" (光と闇) - Câu chuyện truy tìm bản chất
 
-もし諸君が、「これまで歩んできた自分の人生を一言で表せ」と問われたなら、何と答えるだろうか――。
-
-　
-
-**<span class="fz-22px">ある現象を貫くすべてを、たった一言へと凝縮したもの――それこそが</span>**
-
-<span class="bold-blue"><span class="fz-48px">本質</span></span>
-
-**<span class="fz-22px">自分の人生には、これ以外の答えなどあり得ない。</span>**
-
-**<span class="fz-22px">あの日以来、ずっとこれだけの人生だった。</span>**
-
-<span class="bold-red"><span class="fz-48px">文系への憎悪</span></span>
+Nếu có người hỏi các bạn: "Hãy tóm gọn cuộc đời mình đã đi qua bằng một từ", các bạn sẽ đáp thế nào...?
 
 　
 
-**<span class="fz-24px">どんなに、どんなに、どんなにどんなにどんなにどんなに憎んでも憎んでも憎み足りる事などない。</span>**
+**<span class="fz-22px">Thứ cô đọng tất cả những gì xuyên suốt một hiện tượng vào chỉ một từ... đó chính là</span>**
 
-<span class="fz-24px"><span class="cocoon-custom-text-1">常人では決して到達し得ない、桁違いのレベルの憎悪が、そこにはある。</span></span>
+<span class="bold-blue"><span class="fz-48px">Bản chất</span></span>
 
-### 最終警告――この先にある真実
+**<span class="fz-22px">Với cuộc đời tôi, không thể có câu trả lời nào khác ngoài điều đó.</span>**
 
-全８章、20万字以上にわたって延々と綴つづられているもの――。
+**<span class="fz-22px">Từ ngày hôm ấy, cuộc đời tôi chỉ còn có đúng một thứ này.</span>**
 
-それは、<span class="bold-red"><span class="fz-22px">「自分がどれほど文系を憎んでいるか」</span></span>の精緻な詳細である。
-
-単なる感情論ではなく、学術的理論を用いて解説する。ゆえに諸君は、これが単なる比喩や誇張などではなく、別次元の凄まじい「憎悪」であることを知ることになる。
+<span class="bold-red"><span class="fz-48px">Sự căm ghét dành cho khối xã hội (文系)</span></span>
 
 　
 
-**<span class="fz-22px">これが最終警告である。</span>**
+**<span class="fz-24px">Dù có hận, hận, hận, hận nữa, hận mãi hận mãi, cũng không bao giờ hận cho đủ.</span>**
 
-<span class="bold-red"><span class="fz-22px">筆者の人生とサイト誕生の背景に横たわる恐るべき真実、そしてそれを説明する数々の学術的理論を知り、これまで信じてきた世界観、人生観、価値観、教育観そのものが根底から覆される可能性を覚悟した者しか読み進めてはならない。</span></span>
+<span class="fz-24px"><span class="cocoon-custom-text-1">Ở đó tồn tại một tầng mức căm ghét chênh lệch hẳn một bậc, thứ mà người thường tuyệt đối không thể với tới.</span></span>
+
+### Cảnh báo cuối cùng - Sự thật ở phía trước
+
+Thứ được kể lể lê thê suốt 8 chương, trải dài hơn 200.000 chữ...
+
+Đó là những chi tiết tinh vi, tỉ mỉ về việc <span class="bold-red"><span class="fz-22px">"tôi căm ghét khối xã hội (文系) đến mức nào"</span></span>.
+
+Đây không phải thứ cảm xúc suông. Tôi sẽ giải thích bằng các lý thuyết học thuật. Vì thế, các bạn sẽ hiểu rằng đây không phải ẩn dụ hay phóng đại, mà là một "căm ghét" khủng khiếp ở một chiều kích khác.
+
+　
+
+**<span class="fz-22px">Đây là cảnh báo cuối cùng.</span>**
+
+<span class="bold-red"><span class="fz-22px">Chỉ những ai đã sẵn sàng đối mặt với sự thật đáng sợ nằm dưới cuộc đời tác giả và bối cảnh ra đời của trang web này, cũng như hàng loạt lý thuyết học thuật dùng để giải thích nó, và chấp nhận khả năng rằng thế giới quan, nhân sinh quan, giá trị quan, quan niệm giáo dục mà mình vẫn tin từ trước đến nay có thể bị lật tung tận gốc, mới được phép đọc tiếp.</span></span>
 
 ------------------------------------------------------------------------
 
 　
 
-## 天賦の才能を授かりし子供の誕生
+## Sự ra đời của đứa trẻ được ban tặng tài năng thiên phú
 
 <figure class="wp-block-image aligncenter size-full">
 <a href="https://examist.jp/wp-content/uploads/A7T00738.jpg" target="_self"><img src="https://examist.jp/wp-content/uploads/A7T00738.jpg" class="wp-image-31701" fetchpriority="high" decoding="async" width="2048" height="666" /></a>
-<figcaption>富山県氷見市朝日山公園から望む氷見市街(中央)と富山湾越しの立山連峰(右)</figcaption>
+<figcaption>Từ công viên Asahiyama (朝日山公園) ở thành phố Himi (氷見市), tỉnh Toyama (富山県), nhìn ra khu phố Himi (giữa) và dãy Tateyama (立山連峰) (phải) bên kia vịnh Toyama (富山湾)</figcaption>
 </figure>
 
-**198×年2月。能登半島で唯一、富山県に属する街、氷見市。**
+**Tháng 2 năm 198×. Thành phố Himi (氷見市), nơi duy nhất trên bán đảo Noto (能登半島) thuộc tỉnh Toyama (富山県).**
 
-**のちに学習サイト『受験の月』を運営し、この恐ろしい物語を執筆することになる一人の人間が、この世に生を受けてしまった。**
+**Một con người, kẻ sau này sẽ vận hành trang học tập "受験の月" (Juken no Tsuki) và viết nên câu chuyện đáng sợ này, đã lỡ sinh ra trên đời.**
 
-家族構成は、婿養子として迎えられた消防官の父、自宅でピアノ教室を営む専業主婦の母、そして2年後に誕生する妹。さらに同じ敷地内の離れには、高校理科教師の祖父、中学国語教師の祖母、そして元数学教師の曾祖母がいた。三代にわたって「教育者」が名を連ねる、教育的資源に満ちた7人家族。その第一子長男としての誕生であった。
+Gia đình gồm: người cha làm lính cứu hỏa được nhận làm con rể ở phía nhà vợ, người mẹ nội trợ mở lớp dạy piano tại nhà, cùng cô em gái sẽ ra đời hai năm sau. Trong cùng khu đất còn có một nhà phụ, nơi ở của ông nội là giáo viên khoa học cấp 3, bà nội là giáo viên quốc ngữ cấp 2, và cụ nội là cựu giáo viên toán. Một gia đình bảy người, ba thế hệ mang danh "nhà giáo", giàu tài nguyên giáo dục. Và tôi được sinh ra như người con cả, trưởng nam của gia đình ấy.
 
-出生体重は約3800g。一見すれば、どこにでもいる健康で、恵まれた体格の赤子に過ぎなかった。
+Cân nặng lúc sinh khoảng 3.800g. Thoạt nhìn, tôi chỉ là một đứa bé khỏe mạnh, thân hình khá to, không có gì khác thường.
 
-しかしこの時、その小さな体に<span class="bold-red"><span class="fz-22px">「恐るべき天賦てんぷの才能」</span></span>が宿っていることに、親も医師も気付けるはずはなかった。
+Nhưng vào thời điểm ấy, dĩ nhiên không ai - cả cha mẹ lẫn bác sĩ - có thể nhận ra rằng trong cơ thể nhỏ bé đó đang ngự trị <span class="bold-red"><span class="fz-22px">"một thứ tài năng thiên phú (天賦) đáng sợ"</span></span>.
 
-## 幼稚園時代――母親が描いた設計図
+## Thời mẫu giáo - Bản thiết kế do mẹ vẽ ra
 
-母親には、揺るぎない一つの夢があった。
+Mẹ tôi có một giấc mơ duy nhất, vững như bàn thạch.
 
-<span class="bold-blue"><span class="fz-24px">「我が子を東大に入れたい」</span></span>
+<span class="bold-blue"><span class="fz-24px">"Tôi muốn cho con mình vào Đại học Tokyo (東京大学)"</span></span>
 
-母親は、自身が苦労を重ねた経験から、「子供には同じ思いをさせたくない」と、当時から受験界で名を馳せていた和田秀樹氏の著作などを指針とし、独学で「東大合格へのロードマップ」を研究し始めた。
+Từ chính những năm tháng khổ sở của bản thân, mẹ nghĩ rằng "không thể để con phải nếm lại cảm giác ấy". Lấy những cuốn sách của Wada Hideki - người đã nổi danh trong giới luyện thi từ thời đó - làm kim chỉ nam, mẹ bắt đầu tự mình nghiên cứu một "roadmap đỗ Đại học Tokyo".
 
-最終目標である東大合格から逆算した結果、当面の目標として導かれたのは、自宅の最寄り駅から電車で30分ほどの距離にある<span class="bold-red"><span class="fz-20px">富山県No.2の進学校、富山県立高岡高校(偏差値68)への合格</span></span>であった。
+Khi lần ngược từ mục tiêu cuối cùng là đỗ Đại học Tokyo, đích đến trước mắt hiện ra là <span class="bold-red"><span class="fz-20px">đỗ vào Trường THPT Takaoka tỉnh Toyama (富山県立高岡高校), trường điểm đứng số 2 của tỉnh Toyama (độ lệch chuẩn 68)</span></span>, nơi cách ga gần nhà tôi khoảng 30 phút đi tàu.
 
-しかし、単に合格するだけでは不十分である。<span class="cocoon-custom-text-1">高岡高校において常に上位10位以内を維持する</span>ことこそが、東大合格の現実的なラインとなる。母親は、その高いハードルを越えるべく、幼児期からの教育戦略を練り上げていった。
+Nhưng chỉ đỗ thôi thì vẫn chưa đủ. <span class="cocoon-custom-text-1">Phải luôn duy trì vị trí trong top 10 ở Takaoka</span> mới là lằn ranh hiện thực để chạm tới Đại học Tokyo. Để vượt qua cái ngưỡng cao ngất đó, mẹ đã bắt đầu vạch chiến lược giáo dục ngay từ thời tôi còn rất nhỏ.
 
-母親が戦略の柱として白羽の矢を立てたのは、多くの東大生を輩出した実績を持つ
+Trụ cột chiến lược mà mẹ chọn chính là phương pháp đã sản sinh ra vô số sinh viên Đại học Tokyo:
 
-<span class="fz-32px"><span class="bold-blue">公文式くもんしき</span></span>
+<span class="fz-32px"><span class="bold-blue">Kumon (公文式)</span></span>
 
-公文式は、個人の能力に応じて、同じプリントを徹底的に反復したり、あるいは学年を超えて先へと突き進んだりできる計算ドリルであり、幼児レベルから大学教養レベルまで完備されている。
+Kumon là bộ bài luyện tính toán cho phép, tùy theo năng lực từng cá nhân, hoặc lặp đi lặp lại triệt để cùng một phiếu bài, hoặc vượt lớp mà lao thẳng về phía trước; hệ thống của nó trải dài từ mức mẫu giáo cho tới trình độ giáo dưỡng đại học.
 
 <div style="max-width:100%; margin:0 auto;">
 
@@ -104,139 +104,139 @@
 
 <figure style="width:32.3%; margin:0; text-align:center;">
 <a href="https://examist.jp/wp-content/uploads/sf_30a.jpg" target="_self"><img src="https://examist.jp/wp-content/uploads/sf_30a.jpg" style="width:100%; height:auto; display:block; border:1px solid #ccc; box-sizing:border-box;" decoding="async" alt="KUMON教材 F30a" /></a>
-<figcaption>F30a (小学校)</figcaption>
+<figcaption>F30a (tiểu học)</figcaption>
 </figure>
 
 <figure style="width:32.3%; margin:0; text-align:center;">
 <a href="https://examist.jp/wp-content/uploads/sh_35a.jpg" target="_self"><img src="https://examist.jp/wp-content/uploads/sh_35a.jpg" style="width:100%; height:auto; display:block; border:1px solid #ccc; box-sizing:border-box;" decoding="async" alt="KUMON教材 H35a" /></a>
-<figcaption>H35a (中学校)</figcaption>
+<figcaption>H35a (trung học cơ sở)</figcaption>
 </figure>
 
 <figure style="width:32.3%; margin:0; text-align:center;">
 <a href="https://examist.jp/wp-content/uploads/sl_48a.jpg" target="_self"><img src="https://examist.jp/wp-content/uploads/sl_48a.jpg" style="width:100%; height:auto; display:block; border:1px solid #ccc; box-sizing:border-box;" decoding="async" alt="KUMON教材 L48a" /></a>
-<figcaption>L48a (高校)</figcaption>
+<figcaption>L48a (trung học phổ thông)</figcaption>
 </figure>
 
 </div>
 
-※画像クリックでフルサイズ表示可能。\
-引用元：<a href="https://www.kumon.ne.jp/index.html" rel="noopener" target="_blank">KUMON公式ページ</a>
+※Nhấp vào ảnh để xem kích thước đầy đủ.\
+Nguồn: <a href="https://www.kumon.ne.jp/index.html" rel="noopener" target="_blank">Trang chính thức của KUMON</a>
 
 </div>
 
 　
 
-算数・数学に留まらず、国語、英語、さらには一時期ドイツ語までもがカリキュラムに組み込まれた。それ以外の習い事としては、「東大生が経験した習い事」の上位を占める<span class="bold-blue">書道、水泳、ピアノ</span>が選ばれた。
+Không chỉ dừng ở số học và toán học, chương trình còn nhét cả quốc ngữ, tiếng Anh, thậm chí có thời còn có cả tiếng Đức. Còn về các lớp năng khiếu khác, mẹ chọn những thứ luôn đứng đầu trong danh sách "những môn sinh viên Đại học Tokyo từng học": <span class="bold-blue">thư pháp, bơi lội và piano</span>.
 
-<span class="bold-red"><span class="fz-20px">こうして、完璧に整えられた教育環境の中で、天賦の才能はその萌芽を見せ始める。</span></span>
+<span class="bold-red"><span class="fz-20px">Và cứ thế, trong một môi trường giáo dục được dọn sẵn gần như hoàn hảo, tài năng thiên phú bắt đầu lộ ra những mầm đầu tiên.</span></span>
 
-<span class="bold-red"><span class="fz-20px">しかしそれは同時に、のちの人生を狂わせる「憎悪」の種が蒔まかれた瞬間でもあった。</span></span>
+<span class="bold-red"><span class="fz-20px">Nhưng đồng thời, đó cũng là khoảnh khắc hạt giống của thứ "căm ghét" sẽ làm méo mó cả đời tôi về sau được gieo xuống.</span></span>
 
-### 蹂躙じゅうりんされた食の快楽
+### Khoái cảm ăn uống bị chà đạp
 
-幼稚園時代の記憶はほぼ失われたが、知能面では、公文式の先取り教育により、<span class="bold-red">5歳の頃にはすでに九九を完全に習得し、簡単な二桁の掛け算もできていた</span>と記憶している。
+Ký ức thời mẫu giáo gần như đã mất sạch, nhưng về mặt trí lực, tôi nhớ rằng nhờ chương trình học vượt trước của Kumon, <span class="bold-red">ngay từ năm 5 tuổi tôi đã thuộc hoàn toàn bảng cửu chương và làm được những phép nhân hai chữ số đơn giản</span>.
 
-そんな中で、生活面において唯一、鮮烈に焼き付いている出来事がある。
+Giữa tất cả những điều đó, có một chuyện trong đời sống thường nhật là thứ duy nhất khắc cháy vào trí nhớ tôi.
 
-幼稚園の給食で<span class="cocoon-custom-text-1"><span class="fz-20px">「たらこスパゲッティ」</span></span>が出された時のことだ。
+Đó là hôm bữa trưa ở trường mẫu giáo có món <span class="cocoon-custom-text-1"><span class="fz-20px">"spaghetti trứng cá tuyết"</span></span>.
 
-一口含んだ瞬間、脳を突き抜けたのは、「糞まずい」という、吐き気を催もよおすほどの強烈な拒絶反応であった。しかし、当時の自分は、親のしつけによるものなのか、**「出されたものは全て食べなければならない」**という強迫的な義務感に支配されていたため、無理やりそれを喉の奥へと押し込み続けた。
+Ngay khoảnh khắc vừa cho vào miệng, thứ xuyên thẳng qua não tôi là một phản ứng khước từ dữ dội đến mức buồn nôn: "dở như cứt". Nhưng hồi ấy tôi bị chi phối bởi một thứ nghĩa vụ cưỡng bách - có lẽ do cách cha mẹ dạy dỗ - rằng **"thứ gì đã được dọn ra thì phải ăn cho hết"**, nên tôi vẫn cứ cố nhét nó sâu xuống cổ họng.
 
-結局、半分ほどを残して限界を迎えた。そして、その無謀な試みの代償は、あまりに大きすぎた。これが深いトラウマとなり、スパゲッティ全般はもちろん、あらゆる食材に対する心理的拒絶へと波及していった。
+Rốt cuộc, tôi chịu hết nổi khi mới ăn được khoảng một nửa. Và cái giá của nỗ lực liều lĩnh ấy lớn đến mức quá đáng. Nó trở thành chấn thương tâm lý sâu nặng, rồi lan từ việc ghét toàn bộ spaghetti sang sự khước từ tâm lý với đủ mọi loại thực phẩm khác.
 
-こうして、<span class="bold-red"><span class="fz-22px">生涯にわたる苛烈な「偏食」の歴史</span></span>が幕を開けた。
+Và cứ thế, <span class="bold-red"><span class="fz-22px">lịch sử "kén ăn" dữ dội kéo dài suốt đời tôi</span></span> đã mở màn.
 
-## 小学校時代――表面化した異質性
+## Thời tiểu học - Sự dị biệt bắt đầu lộ mặt
 
-通ったのは、全校生徒150人に満たない、今はなき小規模な小学校であった。自分の学年だけはなぜか例外的に児童数が多く、2クラスで約40名が在籍していた。
+Ngôi trường tôi theo học là một trường tiểu học nhỏ nay đã không còn nữa, toàn trường chưa tới 150 học sinh. Chỉ riêng khối của tôi chẳng hiểu sao lại là ngoại lệ, có khoảng 40 em chia thành 2 lớp.
 
-公文式は、母親の指導のもと、小学生のうちに**高校数学Ⅲの範囲である「微分・積分」の領域まで到達していた。**公文式による先取り学習の恩恵もあり、<span class="bold-red"><span class="fz-20px">成績は常に最上位。</span></span>
+Dưới sự chỉ dạy của mẹ, việc học Kumon của tôi khi còn đang học tiểu học đã **chạm tới phần "vi phân - tích phân" thuộc Toán III bậc THPT.** Nhờ hiệu quả của việc học vượt trước bằng Kumon, <span class="bold-red"><span class="fz-20px">thành tích của tôi lúc nào cũng nằm ở đỉnh đầu.</span></span>
 
-しかし、そこに驕おごりが生じることはなかった。母親から「世の中には上には上がいる。小学校で成績がいいくらいで調子に乗るな。井の中の蛙かわずになるな」と、幾度となく釘を刺されていたからである。実際、学年内には自分と同等、あるいはそれ以上の学力を有する者が少なくとも2名は存在し、その2名はいずれも親が医師であった。
+Nhưng tôi chưa từng vì thế mà sinh kiêu ngạo. Bởi mẹ đã vô số lần đóng đinh vào đầu tôi rằng: "Trên đời này luôn có người còn giỏi hơn. Đừng vì học tiểu học mà điểm cao rồi tưởng mình ghê gớm. Đừng làm ếch ngồi đáy giếng." Thực tế, trong khối chí ít cũng có hai đứa có học lực ngang tôi, thậm chí hơn tôi, và cả hai đều là con nhà bác sĩ.
 
-<span class="bold-red"><span class="fz-20px">非常に活発な性格</span></span>で、クラス内でも目立つ存在であった。
+Tôi <span class="bold-red"><span class="fz-20px">có tính cách cực kỳ hiếu động</span></span>, trong lớp cũng là đứa rất nổi bật.
 
-水泳の経験から、運動神経も小さな学校内ではいい方だった。50m走では7秒9を記録し、学校対抗リレーの選手として市の大会に出場した。市の水泳大会では、バタフライ50mで44秒を記録して2位に入賞した。自由形50mは37秒、100m個人メドレーは1分40秒くらいだったと記憶している。
+Nhờ từng học bơi, năng khiếu vận động của tôi trong một ngôi trường nhỏ như thế cũng thuộc hàng khá. Tôi chạy 50m hết 7 giây 9, từng đại diện trường thi tiếp sức cấp thành phố. Ở giải bơi của thành phố, tôi đạt hạng nhì nội dung bướm 50m với thành tích 44 giây. Tôi nhớ tự do 50m là 37 giây, còn 100m hỗn hợp cá nhân cỡ 1 phút 40.
 
-### 拒絶する脳と沈黙の生存戦略
+### Bộ não khước từ và chiến lược sinh tồn bằng im lặng
 
-幼稚園時代の「食のトラウマ」のせいで、自宅ではよく親に罵られた。その回数は、もはや数え切れない。
+Vì "chấn thương ăn uống" từ thời mẫu giáo, ở nhà tôi thường xuyên bị cha mẹ mắng chửi. Nhiều tới mức không thể nào đếm xuể.
 
-**「残さずに全部食べろ！」\
-「親の作ったものが食べられないのか！」\
-「栄養を考えて作っているのがわからないのか！」\
-「作ってくれた人に失礼だと思わないのか！」\
-「食費がいくらかかっているかわかっているのか！」\
-「迷い箸をするな！」\
-「食べる前にいちいち匂いを嗅ぐな！」**
+**"Ăn hết đi, không được chừa lại!"\
+"Đồ bố mẹ làm mà mày cũng không ăn được à!"\
+"Không hiểu là người ta nấu còn phải nghĩ tới dinh dưỡng cho mày à!"\
+"Mày không thấy như thế là thất lễ với người đã nấu cho mình sao!"\
+"Mày có biết tiền ăn tốn bao nhiêu không!"\
+"Đừng có gắp qua gắp lại do dự!"\
+"Trước khi ăn đừng có lần nào cũng lôi ra ngửi!"**
 
-こうした道徳や倫理を盾にした叱責は、学校でも同様であった。給食を完食するまで居残りさせられたこともあったが、誰に何と言われようとも、絶対に食べなかった。
+Những lời quở trách giương cao ngọn cờ đạo đức và luân lý như thế ở trường cũng y hệt. Có lần tôi còn bị bắt ở lại cho tới khi ăn hết suất cơm trưa, nhưng mặc ai nói gì thì nói, tôi tuyệt đối không ăn.
 
-この頃から、ずっと疑問だった。
+Từ khoảng thời gian ấy, trong đầu tôi luôn có một câu hỏi.
 
-<span class="fz-20px"><span class="cocoon-custom-text-1">「自分が何か悪いことをしたのか？」</span></span>
+<span class="fz-20px"><span class="cocoon-custom-text-1">"Rốt cuộc là tôi đã làm điều gì xấu sao?"</span></span>
 
-<span class="fz-20px"><span class="cocoon-custom-text-1">「なぜ毎日、こんな罰ゲームを強要されるんだ？」</span></span>
+<span class="fz-20px"><span class="cocoon-custom-text-1">"Tại sao ngày nào tôi cũng bị ép chơi cái trò tra tấn này?"</span></span>
 
-<span class="fz-20px"><span class="cocoon-custom-text-1">「食事とは本来、吐き気を抑えてまで遂行すべき苦行なのか？」</span></span>
+<span class="fz-20px"><span class="cocoon-custom-text-1">"Vốn dĩ ăn uống là thứ khổ hạnh phải cố nuốt xuống trong khi ghìm cơn buồn nôn à?"</span></span>
 
-こうした過酷な状況に追い込まれたとき、知能の高い子供がどのような行動をとるかわかるだろうか。
+Các bạn có biết một đứa trẻ thông minh sẽ hành xử thế nào khi bị dồn vào hoàn cảnh tàn nhẫn như vậy không.
 
-知能の低い子供であれば、泣き叫び、暴れることで抵抗を示すだろう。一方、知能の高い子供は、<span class="bold-red">必死に「抜け穴」を探索し、「人の裏をかく」技術の習得を試みる</span>ようになるのである。わざと床に落として不可食な状態にする、ティッシュに包んで隠蔽するなど、様々な手段を講じてその場を切り抜ける術を身につけていった。
+Nếu là đứa trẻ kém thông minh hơn, có lẽ nó sẽ khóc lóc, gào thét, quậy phá để phản kháng. Ngược lại, đứa trẻ thông minh lại <span class="bold-red">liều mạng đi tìm "lỗ hổng", rồi tập học kỹ thuật "qua mặt người khác"</span>. Tôi dần học được cách thoát thân bằng đủ phương pháp: cố tình làm rơi xuống sàn để món đó thành không thể ăn, bọc vào khăn giấy rồi phi tang, vân vân.
 
-自分とて、好んで偏食になったわけではない。できることなら、多様な食材を美味しく摂取したかった。その方が栄養的にも重要であることは理解していた。
+Bản thân tôi cũng đâu phải tự nguyện thích kén ăn. Nếu có thể, tôi cũng muốn ăn ngon đủ loại thực phẩm. Tôi hiểu điều đó tốt hơn cho dinh dưỡng.
 
-だが、<span class="bold-red">脳が「人間の食べ物ではないゴミ」と認識し、強烈な拒絶反応を示す</span>のである。この耐え難い苦痛は、偏食の契機となった幼稚園への底知れぬ憎悪へと変換され、<span class="bold-red">「大人になったらあの園を焼き討ちにしてやる」</span>という、過激な復讐心にまで至っていた。
+Nhưng <span class="bold-red">não tôi lại nhận diện nó thành "rác không phải thức ăn của con người" và phát ra phản ứng khước từ dữ dội</span>. Nỗi đau không chịu nổi ấy chuyển hóa thành lòng căm thù không đáy dành cho ngôi trường mẫu giáo đã châm ngòi cho chứng kén ăn, rồi đi xa đến mức thành ý muốn trả thù cực đoan: <span class="bold-red">"Lớn lên tao sẽ đốt trụi cái trường ấy."</span>
 
-こうした環境下で知能が発達した結果、自分は極めて狡猾こうかつな側面を持つようになった。意図せず問題が起きた際も、大人に報告せず、自力で隠蔽・処理する習慣が定着した。
+Khi trí óc phát triển trong môi trường như vậy, tôi dần mang một mặt cực kỳ xảo quyệt. Cứ hễ có chuyện xảy ra ngoài ý muốn, tôi không báo người lớn mà tự mình che giấu và xử lý.
 
-<span class="bold-red">「大人に話したところで、理由も聞かれず一方的に責め立てられるだけである」ことを学習した結果、「沈黙こそが最大の安全策である」という結論に達した</span>のである。
+<span class="bold-red">Bởi sau khi học được rằng "có nói với người lớn thì họ cũng chẳng buồn nghe lý do, chỉ đơn phương đổ tội cho mình", tôi đi đến kết luận rằng "im lặng mới là biện pháp an toàn lớn nhất"</span>.
 
-### 若い女性教師という光
+### Ánh sáng mang hình hài cô giáo trẻ
 
-小学5年生への進級に伴うクラス替えで、**教師2年目の若い女性教師(高岡高校卒)が担任となった。**
+Khi lên lớp 5 và đổi lớp, **chủ nhiệm của tôi là một cô giáo trẻ mới bước sang năm thứ hai đi dạy (tốt nghiệp THPT Takaoka).**
 
-この先生のことが大好きで、毎日先生に会うためだけに登校していたと言っても過言ではない。小柄で、明るく、ハキハキとした立ち振る舞いの女性であり、何より<span class="cocoon-custom-text-1">トップアイドルに比肩ひけんするほどの美人</span>だった。
+Tôi mê cô đến mức nói rằng ngày nào cũng tới trường chỉ để được gặp cô cũng chẳng hề quá lời. Cô nhỏ nhắn, tươi sáng, tác phong dứt khoát rành rọt, mà hơn hết còn là một người đẹp <span class="cocoon-custom-text-1">đủ sức đứng ngang hàng với các thần tượng top đầu</span>.
 
-「男子児童は年上の女性に惹かれやすい」といった俗説も存在するが、同級生に好きな女の子がいたので、先生に対する感情は初恋的なものではなかった。
+Người ta vẫn có thứ truyền miệng kiểu như "con trai tiểu học dễ bị phụ nữ lớn tuổi hơn thu hút", nhưng lúc ấy tôi đã thích một bạn gái cùng lớp rồi, nên cảm xúc dành cho cô không phải kiểu mối tình đầu.
 
-どうもこの時期から、自分の中で<span class="bold-red">「年上の若い女性」という存在が、ある特定の抽象的な概念へと変貌を遂げていた</span>ように思う。
+Có lẽ từ giai đoạn ấy, trong lòng tôi, <span class="bold-red">sự tồn tại mang tên "người phụ nữ trẻ lớn tuổi hơn mình" đã biến thành một khái niệm trừu tượng nhất định</span>.
 
-すなわち、<span class="bold-red"><span class="fz-20px">美、優しさ、慈愛、そして安らぎといった価値観を体現する「象徴」としての存在</span></span>である。「将来の上司は絶対に女性がいい」という志向も、この頃に形成された。
+Nói cách khác, đó là <span class="bold-red"><span class="fz-20px">một sự tồn tại như "biểu tượng" hiện thân cho những giá trị như cái đẹp, sự dịu dàng, lòng từ ái và sự bình yên</span></span>. Cũng từ thời đó mà khuynh hướng "sếp tương lai nhất định phải là nữ" của tôi hình thành.
 
-先生が自分のことを贔屓ひいきしていたわけではないが、クラス内で目立つ存在であったことも手伝い、他の同級生よりも人一倍、自分のことを気にかけてくれているようにも感じていた。
+Dĩ nhiên cô không thiên vị tôi, nhưng vì tôi vốn là đứa nổi bật trong lớp nên tôi cảm thấy cô để mắt đến tôi nhiều hơn hẳn các bạn khác.
 
-### 破滅への萌芽
+### Mầm mống của sự hủy diệt
 
-小学5年生の算数の授業中、先生が黒板に正方形、長方形、ひし形、平行四辺形の図を描き、ひし形を指し示して問うた。
+Trong một giờ toán lớp 5, cô giáo vẽ lên bảng hình vuông, hình chữ nhật, hình thoi và hình bình hành, rồi chỉ vào hình thoi và hỏi:
 
-<span class="fz-22px"><span class="bold-blue">「これが平行四辺形だと思う人は挙手！」</span></span>
+<span class="fz-22px"><span class="bold-blue">"Ai nghĩ cái này là hình bình hành thì giơ tay!"</span></span>
 
 <figure class="wp-block-image aligncenter size-full">
 <img src="https://examist.jp/wp-content/uploads/sikakukei.jpg" class="wp-image-35008" decoding="async" width="1370" height="768" />
 </figure>
 
-<span class="bold-red"><span class="fz-20px">自分は正解を知識として持っていなかったので、その場で考え、迷いなく挙手した。</span></span>
+<span class="bold-red"><span class="fz-20px">Khi ấy tôi không hề biết đáp án dưới dạng kiến thức có sẵn, nên đã tự suy nghĩ ngay tại chỗ và giơ tay không chút do dự.</span></span>
 
-クラス内で挙手したのは、自分ただ1人だった。同級生から「やーい、1人だけ間違えた〜」という嘲笑が聞こえたが、自信があったので気にならなかった。むしろ、「ああ、みんなわからないのか～」と冷ややかに達観していた。
+Trong cả lớp, người giơ tay chỉ có mỗi tôi. Tôi nghe thấy đám bạn cười nhạo kiểu "Ê, chỉ có một mình nó sai kìa", nhưng vì tôi rất tin vào mình nên cũng chẳng bận tâm. Thậm chí tôi còn lạnh lùng nghĩ: "À, ra là bọn nó không hiểu nhỉ." 
 
-自分が思考したのは、極めて単純な一点のみであった。
+Điều tôi nghĩ tới khi ấy chỉ có duy nhất một điểm, vô cùng đơn giản.
 
-**「二組の対辺が平行である」**という平行四辺形の定義を、ひし形が満たしているか否か。
+Liệu hình thoi có thỏa mãn định nghĩa của hình bình hành là **"hai cặp cạnh đối song song"** hay không.
 
-それ以上でも、それ以下でもない。結果そうはならなかったが、もし先生に否定された場合は、「いや、定義満たしてるから平行四辺形の一種やろ」と反論する心積もりですらいた。
+Ngoài chuyện đó ra thì chẳng có gì khác. Kết quả sau cùng tuy không tới mức ấy, nhưng nếu lúc đó cô phủ nhận thì trong đầu tôi thậm chí đã chuẩn bị sẵn ý phản bác: "Không, vì nó thỏa định nghĩa nên đương nhiên là một loại hình bình hành chứ còn gì." 
 
-公文式という計算技術の反復訓練を主軸としていたにもかかわらず、将来自らを破滅に導くことになる恐るべき能力が、いつの間にか身につきつつあった。
+Mặc dù trục chính của Kumon vốn là rèn lặp đi lặp lại kỹ thuật tính toán, nhưng không biết từ lúc nào, một năng lực khủng khiếp sẽ dẫn chính tôi tới hủy diệt sau này đã bắt đầu bám lấy tôi.
 
-**<span class="fz-22px">情緒や空気を排し、真理のみを峻別する能力</span>**
+**<span class="fz-22px">Năng lực gạt bỏ cảm xúc và không khí xung quanh, chỉ sàng lọc riêng chân lý</span>**
 
-<span class="bold-blue"><span class="fz-48px">論理的思考力</span></span>
+<span class="bold-blue"><span class="fz-48px">Tư duy logic</span></span>
 
-## 月の光――宇宙と女性象徴の結合
+## Ánh trăng - Sự kết hợp giữa vũ trụ và biểu tượng nữ tính
 
-小学校中学年の頃までは、戦隊ヒーローや仮面ライダーに夢中になっていた。
+Cho đến khoảng những năm giữa bậc tiểu học, tôi vẫn mê mẩn các siêu nhân sentai và Kamen Rider.
 
-高学年になり、自分の内面に新たな、そして決定的な影響を及ぼす対象が現れた。
+Nhưng rồi khi lên các lớp lớn, một đối tượng mới xuất hiện, gây ảnh hưởng mới mẻ và mang tính quyết định lên nội tâm tôi.
 
 <style>
 .sailor-moon-title{
@@ -339,17 +339,17 @@
 }
 </style>
 
-<span class="sailor-moon-title__text"> <span class="sailor-line1">美少女戦士</span><span class="sailor-line2">セーラームーン</span> </span>
+<span class="sailor-moon-title__text"> <span class="sailor-line1">Mỹ thiếu nữ chiến sĩ</span><span class="sailor-line2">Sailor Moon</span> </span>
 
 　
 
-富山県ではテレビ朝日系列が入らないため、最初にどこでこの作品を知ったのか、明確な記憶はない。都会より約１年遅れでテレビ放送が始まったときにはすでに大好きで、第１話から視聴していた。
+Vì tỉnh Toyama không bắt được hệ đài TV Asahi, tôi không còn nhớ rõ mình biết đến tác phẩm này lần đầu từ đâu. Nhưng vào lúc anime bắt đầu được phát sóng trên truyền hình ở quê tôi, chậm hơn thành thị khoảng một năm, thì tôi đã mê nó từ trước rồi và xem ngay từ tập đầu.
 
-学校でも話題になり、同級生の男子達が「タキシード仮面の登場シーンがキザで面白い」と言っていたのが印象に残っている。
+Ở trường nó cũng thành đề tài bàn tán, và tôi vẫn nhớ đám con trai cùng lớp từng bảo rằng "cảnh Tuxedo Kamen xuất hiện trông màu mè mà buồn cười".
 
-自分は、<span class="cocoon-custom-text-1">「興味がある対象ならば、より記憶力の強化に効果的ではないか」という仮説</span>を立て、第１期全46話のタイトル一言一句を全て暗記するというチャレンジを自らに課し、完遂した。
+Tôi dựng ra <span class="cocoon-custom-text-1">một giả thuyết rằng nếu đó là đối tượng mình hứng thú thì biết đâu sẽ càng có hiệu quả trong việc tăng cường trí nhớ</span>, rồi tự giao cho bản thân thử thách phải thuộc lòng từng chữ một trong tiêu đề của toàn bộ 46 tập mùa đầu, và tôi đã làm xong thật.
 
-また、この作品を通じて太陽系の惑星や準惑星の英語名(カタカナ)も自然と暗記した。実生活で役立つ場面は特になかったが、自分の知識体系に新たな語彙が組み込まれた。
+Ngoài ra, thông qua tác phẩm này, tôi cũng tự nhiên thuộc luôn tên tiếng Anh của các hành tinh và hành tinh lùn trong Hệ Mặt Trời. Chúng chẳng đặc biệt hữu ích trong đời sống thực, nhưng đã bổ sung thêm một lớp từ vựng mới vào hệ tri thức của tôi.
 
 <style>
 .planet-table-wrap {
@@ -460,16 +460,16 @@
 
 <div class="scrollable-table">
 
-| 日本語名 | 英語名       |
-|----------|--------------|
-| 水星     | マーキュリー |
-| 金星     | ヴィーナス   |
-| 火星     | マーズ       |
-| 木星     | ジュピター   |
-| 土星     | サターン     |
-| 天王星   | ウラヌス     |
-| 海王星   | ネプチューン |
-| 冥王星   | プルート     |
+| Tên tiếng Nhật | Tên tiếng Anh |
+|----------------|----------------|
+| Sao Thủy       | Mercury        |
+| Sao Kim        | Venus          |
+| Sao Hỏa        | Mars           |
+| Sao Mộc        | Jupiter        |
+| Sao Thổ        | Saturn         |
+| Sao Thiên Vương| Uranus         |
+| Sao Hải Vương  | Neptune        |
+| Sao Diêm Vương | Pluto          |
 
 </div>
 
@@ -479,37 +479,37 @@
 
 　
 
-自宅には以前から、宇宙、恐竜、人体、昆虫、植物など、多岐にわたる小学生向けの図鑑が揃えられていた。中でも自分は<span class="bold-red">「宇宙」と「恐竜」</span>に強い関心を抱き、<span class="cocoon-custom-text-1">小学生の時点で太陽系の構造(中学で学習)は理解していた。</span>
+Ở nhà tôi vốn đã có sẵn đủ loại bách khoa thư cho học sinh tiểu học về vũ trụ, khủng long, cơ thể người, côn trùng, thực vật và nhiều thứ khác. Trong số đó, tôi đặc biệt quan tâm sâu sắc tới <span class="bold-red">"vũ trụ" và "khủng long"</span>, đến mức <span class="cocoon-custom-text-1">ngay từ thời tiểu học tôi đã hiểu cấu trúc của Hệ Mặt Trời, thứ vốn lên trung học cơ sở mới học.</span>
 
-この「科学的知識としての宇宙」と、前述した「抽象的な象徴としての女性」が、自分の脳内で見事に結びついたものこそ、他ならぬセーラームーンであった。
+Và thứ kết nối hoàn hảo trong não tôi giữa "vũ trụ như tri thức khoa học" và "người phụ nữ như một biểu tượng trừu tượng" nói ở trên, không gì khác chính là Sailor Moon.
 
-<span class="fz-20px" style="color:#e754a6;">**「太陽系の各惑星を守護星として戦う美少女戦士」**</span>という設定は、当時の自分に強烈なインパクトを与えた。
+Thiết lập <span class="fz-20px" style="color:#e754a6;">**"một mỹ thiếu nữ chiến sĩ chiến đấu với từng hành tinh trong Hệ Mặt Trời làm sao hộ mệnh"**</span> đã giáng vào tôi khi đó một cú tác động cực mạnh.
 
-小学校高学年以降、自分の脳内の片隅には常にセーラームーンが存在し、<span class="bold-red">1つの強いこだわり</span>として、自分の人生や生活の随所に現れるようになった。
+Từ cuối bậc tiểu học trở đi, ở một góc trong đầu tôi lúc nào cũng có Sailor Moon tồn tại, và như <span class="bold-red">một nỗi cố chấp mãnh liệt</span>, nó bắt đầu hiện ra ở khắp nơi trong cuộc đời và sinh hoạt của tôi.
 
-結論を先取りして言えば、<span class="fz-20px" style="color:#e754a6;">**『受験の月』の“月”は、セーラームーンに由来する。**</span>それほどまでに、この作品が自分の精神構造に及ぼした影響は計り知れないものであった。
+Nói trước kết luận luôn thì, <span class="fz-20px" style="color:#e754a6;">**chữ "Mặt trăng" trong "受験の月" bắt nguồn từ Sailor Moon.**</span> Ảnh hưởng mà tác phẩm này gây lên cấu trúc tinh thần của tôi là thứ không thể nào đong đếm nổi.
 
-## 暴走する高知能――多発する他害
+## Trí thông minh mất kiểm soát - Hàng loạt hành vi gây hại cho người khác
 
-小学校4年生を迎える頃から、<span class="cocoon-custom-text-1">「自分がある行動を選択した際、未来にどのような結果が発生するか」</span>を予測する恐ろしい能力が芽生え始めた。
+Từ khoảng lúc bước vào lớp 4 tiểu học, trong tôi bắt đầu nảy ra một năng lực đáng sợ: dự đoán <span class="cocoon-custom-text-1">"nếu mình chọn một hành động nào đó thì tương lai sẽ xảy ra kết quả gì"</span>.
 
-<span class="bold-red"><span class="fz-24px">未来シミュレーション能力</span></span>
+<span class="bold-red"><span class="fz-24px">Năng lực mô phỏng tương lai</span></span>
 
-厄介なことに、<span class="bold-red">その能力は、「予測の正確さを検証したい」という歪ゆがんだ知的好奇心へと直結し、検証の手段として主に悪戯いたずらや他害が選ばれた。</span>
+Rắc rối ở chỗ, <span class="bold-red">năng lực đó nối thẳng với một thứ tò mò trí tuệ méo mó mang tên "muốn kiểm chứng độ chính xác của dự đoán", và phương tiện kiểm chứng được chọn chủ yếu lại là trò quậy phá hoặc hành vi gây hại cho người khác.</span>
 
-「この行動をとれば、教師にこの内容で叱責される」という結末を予見していながら、いや、予見できているからこそ、確信犯的にそれを実行した。
+Tôi đã làm những chuyện ấy ngay cả khi đã thấy trước kết cục kiểu như "nếu làm thế này thì giáo viên sẽ mắng mình bằng nội dung như thế kia". Không, chính vì dự đoán được nên tôi mới cố ý làm như một kẻ phạm tội có tính toán.
 
-案の定、予測通りの展開になれば、叱責の最中であっても「やはり的中した」という独りよがりの満足感に浸っていた。
+Và quả nhiên, nếu mọi chuyện diễn ra đúng như dự đoán, thì ngay cả giữa lúc bị mắng tôi vẫn chìm trong cảm giác thỏa mãn ích kỷ rằng "đúng là trúng thật rồi".
 
-教師から「反省の色が見えない」と指摘されたのは、至極当然の帰結である。そもそも、結果を見越して行っている以上、<span class="cocoon-custom-text-1">反省という概念そのものが存在しなかった。</span>むしろ、大好きな先生の関心を独占できているという、倒錯した喜びすら抱いていた。
+Việc giáo viên nhận xét rằng "không thấy chút vẻ hối cải nào" là hệ quả quá đỗi hiển nhiên. Vì ngay từ đầu, khi đã làm sau khi thấy trước kết quả, thì <span class="cocoon-custom-text-1">bản thân khái niệm hối hận gần như không tồn tại.</span> Thậm chí tôi còn thấy một niềm vui vặn vẹo rằng mình đang chiếm trọn sự chú ý của cô giáo mà tôi yêu quý.
 
-多くの児童は「罰」を恐れて行動を抑制する。しかし自分にとって、<span class="bold-red">罰はシミュレーションの「構成要素」</span>に過ぎず、行動を止める理由にはなり得なかった。
+Nhiều đứa trẻ biết sợ "hình phạt" nên tự kiềm chế hành vi. Nhưng với tôi, <span class="bold-red">hình phạt chẳng qua chỉ là "một thành tố" trong phép mô phỏng</span>, không thể trở thành lý do ngăn tôi lại.
 
-自分の行動は、回を重ねるごとに、**「より刺激的で、より面白い検証結果」を求めてエスカレートしていった。**
+Hành vi của tôi cứ thế leo thang qua từng lần, **nhằm tìm kiếm "kết quả kiểm chứng kích thích hơn, thú vị hơn".**
 
-<span class="bold-red"><span class="fz-20px">自分の「検証」において、特に深刻な事件が２件存在する。</span></span>
+<span class="bold-red"><span class="fz-20px">Trong những lần "kiểm chứng" của tôi, có hai vụ việc đặc biệt nghiêm trọng.</span></span>
 
-### 検証①
+### Kiểm chứng 1
 
 <style>
 .case-record-box {
@@ -571,107 +571,106 @@
 
 <div class="case-record-box__header">
 
-【重大事件①：穿刺せんし】
+【Sự cố nghiêm trọng 1: Đâm xuyên】
 
 </div>
 
 <div class="case-record-box__body">
 
-小学4年生のある日、**隣席の男子が着席する瞬間に、椅子の上で鉛筆を垂直に立てた。**もちろん、芯が上を向くようにである。
+Một ngày nọ vào năm lớp 4, **đúng lúc một thằng con trai ngồi cạnh chuẩn bị ngồi xuống ghế, tôi dựng thẳng đứng một cây bút chì trên mặt ghế.** Dĩ nhiên là để đầu nhọn chĩa lên trên.
 
-<span class="bold-red"><span class="fz-28px">「うぎゃああああ！」</span></span>
+<span class="bold-red"><span class="fz-28px">"Ugyaaaaaa!"</span></span>
 
-「鉛筆が肛門から大腸を突き破り、大量出血」という致命的な事態には、肛門から数cm逸れていたために至らなかったが、尻に鉛筆が刺さったことに変わりはなく、**当然病院送り。**
+Vì nó lệch khỏi hậu môn vài cm nên đã không dẫn tới thảm cảnh chí mạng kiểu "bút chì xuyên từ hậu môn lên ruột già gây xuất huyết ồ ạt", nhưng việc cái mông nó bị bút chì đâm vào vẫn là sự thật, nên **đương nhiên phải đưa đi bệnh viện.**
 
-両親と共に、その男子の自宅へ謝罪に行く羽目になった。
+Rốt cuộc tôi phải cùng bố mẹ tới tận nhà nó để xin lỗi.
 
-母親同士が知り合いだったこともあり、自分にとっては幸運にも、それ以上に問題が拡大することはなかった。
-
-</div>
+May cho tôi là hai bà mẹ vốn quen biết nhau, nên sự việc không bị làm lớn hơn nữa.
 
 </div>
 
-もし母親同士に面識がなく、これが「令和」の出来事であったなら――。
+</div>
 
-相手の親がSNS上で事件の経緯や怒りをぶちまけてネットニュースになり、学校や教育委員会に、\
-　「学校は加害者の味方なのか！」\
-　「危険な子供は即刻強制隔離しろ！」\
-　「痛みをわからせるには体罰も必要だ！」\
-といった抗議の電話が殺到していた可能性もあっただろう。
+Nếu hai bà mẹ không hề quen nhau, và nếu chuyện này xảy ra ở thời Reiwa, thì sao?
 
-### 検証②
+Rất có thể phụ huynh bên kia đã phun sạch diễn biến sự việc lẫn cơn giận lên mạng xã hội, biến nó thành tin tức mạng, rồi gọi tới tấp tới trường hay phòng giáo dục để gào lên rằng:\
+　"Nhà trường đứng về phía thủ phạm à!"\
+　"Đứa trẻ nguy hiểm như thế thì phải cách ly cưỡng chế ngay lập tức!"\
+　"Muốn cho nó biết đau thì phải có cả đòn roi!"\
 
-最初はバレることを前提としていた悪戯だが、徐々に**「発覚を免れるための巧妙な隠蔽いんぺい」**、さらには<span class="bold-red"><span class="fz-22px">「冤罪えんざいの創出」</span></span>へとシフトしていった。
+### Kiểm chứng 2
+
+Ban đầu những trò phá phách ấy vốn mặc định là sẽ bị lộ, nhưng dần dần nó chuyển hướng sang **"những màn che giấu tinh vi để tránh bị phát hiện"**, rồi xa hơn nữa là <span class="bold-red"><span class="fz-22px">"tạo ra oan án"</span></span>.
 
 <div class="case-record-box">
 
 <div class="case-record-box__header">
 
-【重大事件②：冤罪の創出】
+【Sự cố nghiêm trọng 2: Tạo ra oan án】
 
 </div>
 
 <div class="case-record-box__body">
 
-小学5年生のある日、自分を含む何人かが体育館のステージ上にいた。
+Một ngày nọ vào năm lớp 5, tôi cùng vài đứa khác đang đứng trên sân khấu của nhà thể chất.
 
-自分は、突然近くにいた男子に押され、その結果、1人の女子にぶつかってしまった。**女子はステージ上から転落し、両手両足を広げた大の字の腹這いのまま、約1m下の体育館の床に叩き付けられた。**
+Đột nhiên tôi bị một thằng con trai đứng gần đó đẩy, và kết quả là tôi va trúng một bạn gái. **Bạn ấy rơi từ trên sân khấu xuống, dang cả tay lẫn chân thành hình chữ đại, úp sấp và bị quật mạnh xuống nền nhà thể chất cách đó khoảng 1m.**
 
-極めて危険な転落であった。
+Đó là một cú ngã cực kỳ nguy hiểm.
 
-現場を見ていた教師は、直ちにその男子を厳しく糾弾した。その様子を傍かたわらで眺めながら、自分は心の中で呟つぶやいていた。
+Giáo viên nhìn thấy tại hiện trường lập tức nghiêm khắc quở trách cậu con trai kia. Vừa đứng cạnh nhìn cảnh ấy, tôi vừa lẩm bẩm trong lòng:
 
-<span class="bold-red"><span class="fz-28px">「計画通り!!!」</span></span>
+<span class="bold-red"><span class="fz-28px">"Đúng như kế hoạch!!!"</span></span>
 
-実は、その男子は何も悪くなかった。
+Thực ra, thằng đó chẳng làm gì sai cả.
 
-**「自分が教師の視線を確認した上で、その男子を死角から挑発して自分に手を出させるよう誘導し、彼が自分を突き飛ばした瞬間、過剰なまでに大きくよろめき、女子児童に体当たりして彼女をステージ下へと突き落とした」**というのが真実である。
+Sự thật là: **sau khi xác nhận ánh mắt của giáo viên, tôi đã khiêu khích cậu ta từ góc khuất để dụ cậu ta ra tay với mình; và đúng khoảnh khắc cậu ta đẩy tôi, tôi cố tình loạng choạng quá mức, lao vào bạn nữ rồi hất bạn ấy rơi xuống dưới sân khấu.**
 
-奇跡的に女子は無傷だった。
+May như phép màu là bạn nữ không bị thương.
 
-もし万が一、脊髄せきずい損傷などの重篤な後遺症が残っていたら――。
+Nhưng giả sử không may mà để lại di chứng nặng như tổn thương tủy sống thì sao?
 
-突き落としたとされた男子とその親は、多額の賠償に直面していただろう。そして自分は、その光景を「傍観者」として眺めていたに違いない。
+Cậu con trai bị cho là đã xô ngã bạn ấy cùng cha mẹ cậu ta hẳn đã phải đối mặt với khoản bồi thường khổng lồ. Còn tôi, chắc chắn đã đứng nhìn toàn bộ quang cảnh đó với tư cách một "kẻ ngoài cuộc".
 
-この真実を外部に明かすのは本稿が初めてであり、当然これまで誰にも知られていない。
-
-</div>
+Đây là lần đầu tiên tôi tiết lộ sự thật này ra bên ngoài, và dĩ nhiên từ trước tới nay chưa từng có ai biết.
 
 </div>
 
-事件②が真に深刻なのは、「自分が起こした問題を人になすりつけようとした結果として、たまたま冤罪が発生した」わけではなく、<span class="bold-red"><span class="fz-20px">自分があらかじめ普遍的冤罪構造を発見済みで、チャンスを待って現実に落とし込んだものであった点</span></span>にある。
+</div>
 
-つまり、「どうすれば構造的に冤罪を創出できるか」という日常の抽象的思考実験により、<span class="cocoon-custom-text-1">「第三者Cが見ている状態で、挑発するなど何らかの方法でAに自分を攻撃させ、その結果として生じた不慮の事故を装ってBに攻撃したならば、第三者Cから見るとAが完全な加害者であり、<span class="cocoon-custom-text-1">心を読まれない限り</span></span>、<span class="cocoon-custom-text-1">自分が真の加害者であることは第三者Cには見抜けない」</span>という、普遍的冤罪構造にすでに気付いていたのであった。
+Điều thực sự nghiêm trọng ở vụ 2 không phải là "tôi định đổ lỗi chuyện mình gây ra cho người khác nên tình cờ làm phát sinh oan án", mà là ở chỗ <span class="bold-red"><span class="fz-20px">tôi đã phát hiện sẵn một cấu trúc oan án mang tính phổ quát, rồi chờ cơ hội để hiện thực hóa nó</span></span>.
 
-<span class="bold-red"><span class="fz-20px">自分の思考は既に、特定の誰かを陥おとしいれたいとかそういう次元ではなく、構造そのものの把握や作成へと向かっていた</span></span>のである。
+Nói cách khác, thông qua những thí nghiệm tư duy trừu tượng thường nhật kiểu "làm sao để tạo ra oan án về mặt cấu trúc", tôi đã sớm nhận ra một cấu trúc phổ quát như sau: <span class="cocoon-custom-text-1">"trong tình huống có bên thứ ba C đang quan sát, nếu bằng cách khiêu khích hay thủ đoạn nào đó khiến A tấn công mình, rồi giả thành một tai nạn ngoài ý muốn phát sinh từ đó để tấn công B, thì từ góc nhìn của C, A sẽ là thủ phạm hoàn toàn; và <span class="cocoon-custom-text-1">trừ phi người ta đọc được suy nghĩ của mình</span></span>, <span class="cocoon-custom-text-1">C sẽ không thể nhìn thấu rằng mình mới là hung thủ thực sự"</span>.
 
-そして、その実験的確認は成功裏に終わった。
+<span class="bold-red"><span class="fz-20px">Tư duy của tôi khi ấy đã vượt khỏi cái mức muốn hãm hại riêng một ai đó, mà hướng sang việc nắm bắt và tạo dựng chính bản thân cấu trúc</span></span>.
 
-### 検証③
+Và cuộc kiểm chứng mang tính thực nghiệm ấy đã kết thúc thành công.
 
-さらに、未遂が１件あった。
+### Kiểm chứng 3
+
+Ngoài ra còn có một vụ bất thành.
 
 <div class="case-record-box">
 
 <div class="case-record-box__header">
 
-【重大事件③ (未遂)：衝動と論理の拮抗】
+【Sự cố nghiêm trọng 3 (bất thành): Sự giằng co giữa xung động và logic】
 
 </div>
 
 <div class="case-record-box__body">
 
-ある日、自宅敷地内にある二階建ての蔵の屋上に登って遊んでいた際、階下を祖父が通りかかった。蔵の屋上には、経年劣化で剥離した数kgのコンクリートブロックが散乱していた。
+Một ngày nọ, khi tôi trèo lên mái của một kho hai tầng trong khuôn viên nhà để chơi, ông nội đi ngang qua phía dưới. Trên mái kho nằm vương vãi những mảng bê tông nặng vài kg đã bong ra vì xuống cấp theo năm tháng.
 
-この時、**「このブロックを祖父の頭上に投下すれば、何が起こるか」**という猛烈な衝動に駆られた。しかし、数秒のシミュレーションの後、**「これはマジで取り返しがつかない」**という論理的な判断が働き、寸前で思い止まった。
-
-</div>
+Lúc ấy tôi bị một xung động mãnh liệt xâm chiếm: **"nếu thả cục bê tông này xuống đầu ông nội thì sẽ xảy ra chuyện gì?"** Nhưng sau vài giây mô phỏng trong đầu, một phán đoán logic bật lên: **"cái này mà làm là đéo cứu vãn nổi thật"**, và tôi dừng lại ngay trước bờ vực.
 
 </div>
 
-### 問題行動と確率の綱渡り
+</div>
 
-記憶の底をさらえば、これら以外にも問題行動は枚挙に暇いとまがない。
+### Hành vi lệch chuẩn và màn đi dây trên xác suất
+
+Nếu cào xuống tận đáy ký ức, ngoài những chuyện trên thì các hành vi có vấn đề của tôi còn nhiều đến mức kể mãi không hết.
 
 <style>
 /* 親ボックス：はみ出しを確実に防止 */
@@ -781,7 +780,7 @@
 
 <div class="case-record-box__header">
 
-小学校時代における主な問題行動
+Những hành vi có vấn đề chính ở thời tiểu học
 
 </div>
 
@@ -793,13 +792,13 @@
 
 <div class="case-record-label">
 
-小学2学年
+Lớp 2 tiểu học
 
 </div>
 
 <div class="case-record-content">
 
-「下が土だから大丈夫じゃね？」と思って自宅2階の窓から飛び降りた（3階は危険と認識していた）。無傷。
+Nghĩ rằng "bên dưới là đất nên chắc ổn thôi nhỉ", tôi nhảy từ cửa sổ tầng 2 nhà mình xuống (còn tầng 3 thì tôi nhận thức là nguy hiểm). Không hề hấn gì.
 
 </div>
 
@@ -809,13 +808,13 @@
 
 <div class="case-record-label">
 
-小学4年生
+Lớp 4 tiểu học
 
 </div>
 
 <div class="case-record-content">
 
-車から降りようとしていた妹が、車体に手をかけたタイミングで意図的に車の扉を閉め、妹の指をドアの間に挟ませた。
+Cố ý đóng cửa xe đúng lúc em gái đang đặt tay lên thân xe để bước xuống, khiến ngón tay nó bị kẹp vào giữa cửa.
 
 </div>
 
@@ -825,13 +824,13 @@
 
 <div class="case-record-label">
 
-小学4年生
+Lớp 4 tiểu học
 
 </div>
 
 <div class="case-record-content">
 
-自宅の庭で火遊びをした後の消火が不十分で、祖父に警察に通報されかけた。
+Nghịch lửa ngoài vườn nhà, dập không kỹ sau đó, suýt bị ông nội báo cảnh sát.
 
 </div>
 
@@ -841,13 +840,13 @@
 
 <div class="case-record-label">
 
-小学4年生
+Lớp 4 tiểu học
 
 </div>
 
 <div class="case-record-content">
 
-公道を走行中の車に雪玉を投げてぶつけた。
+Ném quả cầu tuyết vào ô tô đang chạy trên đường công cộng.
 
 </div>
 
@@ -857,13 +856,13 @@
 
 <div class="case-record-label">
 
-小学5年生
+Lớp 5 tiểu học
 
 </div>
 
 <div class="case-record-content">
 
-コンセントの二つの穴に同時に1本の導線を挿入し、意図的に小さい爆発を引き起こした。その際、自分自身も激しく感電。漫画の描写そのままに、数秒間にわたって身体が振動し、導線から手が離せなくなるという死線に触れた。
+Cắm đồng thời một sợi dây dẫn vào cả hai lỗ ổ điện, cố tình gây ra một vụ nổ nhỏ. Khi đó chính tôi cũng bị điện giật dữ dội. Y như trong truyện tranh, cơ thể rung lên trong vài giây và tay không rút ra khỏi dây được, chạm sát ranh giới sống chết.
 
 </div>
 
@@ -873,13 +872,13 @@
 
 <div class="case-record-label">
 
-小学5年生
+Lớp 5 tiểu học
 
 </div>
 
 <div class="case-record-content">
 
-ストーブで加熱した豆を女子の衣服の中に投げ込んだ。
+Ném hạt đậu đã làm nóng trên bếp sưởi vào trong quần áo của một bạn gái.
 
 </div>
 
@@ -889,13 +888,13 @@
 
 <div class="case-record-label">
 
-小学5年生
+Lớp 5 tiểu học
 
 </div>
 
 <div class="case-record-content">
 
-誰かの筆箱を盗み、ある女子の机の中に隠して冤罪の創出を試みた。
+Ăn cắp hộp bút của ai đó rồi giấu vào trong bàn của một bạn gái để thử tạo ra oan án.
 
 </div>
 
@@ -905,13 +904,13 @@
 
 <div class="case-record-label">
 
-小学6年生
+Lớp 6 tiểu học
 
 </div>
 
 <div class="case-record-content">
 
-同級生の男子を煽って、理科室にあったホウ酸(H₃BO₃)を舐めさせた。
+Xúi đểu một bạn nam cùng lớp liếm axit boric (H₃BO₃) có trong phòng thí nghiệm khoa học.
 
 </div>
 
@@ -925,37 +924,37 @@
 
 　
 
-これら以外にも、単純に同級生や下級生を殴った、嫌がらせしたみたいな行動は複数思い起こされる。
+Ngoài ra, tôi còn nhớ ra nhiều hành vi đơn giản như đánh bạn cùng lớp, đánh đàn em, hay đi quấy phá người khác.
 
-**自分は長い間、「小学生なんて、みんなこんなもん」と思い込んでいた。しかし、今にして冷静に振り返れば、小学校高学年にもなって、これほど次から次へと問題行動を繰り返す児童が「普通」であるはずがない。**
+**Trong một thời gian dài, tôi vẫn mặc định rằng "trẻ con tiểu học thì đứa nào mà chả thế". Nhưng giờ bình tĩnh nhìn lại, thì một đứa đã lên cuối cấp tiểu học mà còn lặp đi lặp lại những hành vi lệch chuẩn hết chuyện này sang chuyện khác như thế, tuyệt đối không thể gọi là "bình thường".**
 
-担任の先生は、<span class="bold-red">「この子は知能が高いのに、なぜ問題ばかり起こすのか」</span>と、困惑していたかもしれない。
+Cô chủ nhiệm khi ấy có lẽ cũng đã bối rối mà nghĩ rằng: <span class="bold-red">"Đứa này thông minh như thế, sao lại cứ toàn gây chuyện?"</span>
 
-これほどの暴挙を繰り返しながら、他者の、あるいは自分自身の人生を完全に破滅させる事態に至らなかった理由を問われれば、答えは一つしかない。
+Nếu hỏi vì sao sau ngần ấy trò điên rồ mà tôi vẫn chưa đẩy cuộc đời của người khác, hoặc của chính mình, tới chỗ hủy diệt hoàn toàn, thì chỉ có đúng một câu trả lời.
 
-<span class="bold-red"><span class="fz-28px">ただ、</span></span><span class="bold-red"><span class="fz-28px">運が良かった。</span></span>
+<span class="bold-red"><span class="fz-28px">Chỉ là</span></span><span class="bold-red"><span class="fz-28px"> tôi may thôi.</span></span>
 
-特に、③の祖父の件が未遂で済んだのは、奇跡に近い。思い返せば、ブロックを持ち上げて手を離すだけなので、本当に紙一重だった。「よくぞ思い留まった」と、小学生の時の自分を抱きしめて褒めてあげたいと、振り返って思っている。
+Đặc biệt, chuyện số 3 với ông nội mà chỉ dừng ở mức chưa thành là điều gần như kỳ tích. Nghĩ lại thì khi ấy chỉ cần nhấc cục bê tông lên rồi buông tay là xong, thật sự chỉ cách một sợi tóc. Giờ nhìn lại, tôi chỉ muốn ôm chầm lấy thằng bé tiểu học là chính mình ngày đó mà khen một câu: "Mày đã biết dừng lại, giỏi lắm." 
 
-## 家庭崩壊の序曲――母親の豹変
+## Khúc dạo đầu của sự sụp đổ gia đình - Cú biến dạng dữ dội của mẹ
 
-当時、自分は母親が運転する車で、自宅から30分ほどの距離にある高岡市のスイミングスクールに通っていた。
+Hồi đó, tôi được mẹ lái xe chở tới một trường dạy bơi ở thành phố Takaoka, cách nhà chừng 30 phút.
 
-ある日、レッスンを終えて車に戻ったが、**運転席の母親は無言のまま、一向に車を出そうとしなかった。**自分と妹は苛立ち、後部座席から「早く出せ」と怒鳴り散らし、運転席を蹴り飛ばしたが、膠着こうちゃく状態は2時間にも及んだ。施設管理者が「もう閉めますよ」と告げに来てようやく、母親は「わかりました」と一言だけ発し、車を出した。帰路の国道では、時速30kmという異常な低速運転だった。
+Một ngày nọ, sau khi học xong và quay lại xe, **mẹ ngồi im lặng ở ghế lái, nhất quyết không chịu cho xe chạy.** Tôi và em gái sốt ruột, gào từ ghế sau rằng "đi nhanh lên", còn đá cả vào ghế lái, nhưng trạng thái giằng co ấy kéo dài tới tận 2 tiếng. Chỉ tới khi người quản lý cơ sở ra báo "chúng tôi sắp đóng cửa rồi", mẹ mới buông đúng một câu "vâng, tôi hiểu rồi" và nổ máy. Trên quốc lộ đường về, mẹ lái với tốc độ bất thường chỉ 30 km/h.
 
-また別のある日、自分が居間で勉強していると、**突如として母親が金槌かなづちを持ち出し、ブラウン管テレビを粉砕し始めた。**破壊の対象は固定電話や他の電化製品にも及び、自分は何が起きているのか理解できぬまま、その光景を呆然と眺めるしかなかった。帰宅した父親が「自分のやったことがわかっているのか」と問い詰めても、母親はただ無言でうつむくのみであった。
+Lại có một ngày khác, khi tôi đang học ở phòng khách, **mẹ đột nhiên cầm búa lên rồi bắt đầu đập nát cái TV màn hình CRT.** Đối tượng bị phá không chỉ có TV mà còn cả điện thoại bàn và những đồ điện khác. Tôi chẳng hiểu chuyện gì đang xảy ra, chỉ biết đứng chết lặng nhìn cảnh tượng đó. Đến khi bố đi làm về, gặng hỏi rằng "bà có biết mình vừa làm gì không", mẹ cũng chỉ cúi đầu im lặng.
 
-この頃、<span class="cocoon-custom-text-1">母親は突然暴れ出したり、奇声を発したりするなどの異常行動を繰り返すようになった。</span>
+Khoảng thời gian đó, <span class="cocoon-custom-text-1">mẹ bắt đầu lặp đi lặp lại những hành vi bất thường như đột nhiên nổi cơn điên, hoặc phát ra những tiếng hét quái dị.</span>
 
-そしてある日、自宅の玄関前に、近くに住む父親の兄が運転する車が止まった。自分は、母親がその車に乗せられ、どこかに連れて行かれる姿を見た。後に、母親が高岡市内の精神病院に入院したことを知らされた。病名は
+Rồi có một ngày, trước cửa nhà tôi xuất hiện chiếc xe do anh trai của bố, người sống gần đó, lái tới. Tôi đã nhìn thấy mẹ bị đưa lên xe ấy và chở đi đâu đó. Sau này tôi mới được biết mẹ đã nhập viện tại một bệnh viện tâm thần ở Takaoka. Chẩn đoán là:
 
-<span class="bold-red"><span class="fz-40px">精神分裂病</span></span>
+<span class="bold-red"><span class="fz-40px">bệnh tâm thần phân liệt</span></span>
 
-### 統合失調症（旧：精神分裂病）
+### Tâm thần phân liệt (統合失調症, trước đây gọi là 精神分裂病)
 
-<span class="fz-20px">**統合失調症**：<span class="bold-red">脳の情報処理のバランスが崩れ、思考・感情・現実感覚などの「統合」が困難になる病気。</span></span>
+<span class="fz-20px">**Tâm thần phân liệt (統合失調症)**: <span class="bold-red">một căn bệnh mà sự cân bằng trong xử lý thông tin của não bị phá vỡ, khiến việc "tích hợp" suy nghĩ, cảm xúc, cảm nhận thực tại v.v. trở nên khó khăn.</span></span>
 
-実態を正確に表して偏見を減らすため、2002年に改称された。
+Tên gọi này được đổi vào năm 2002 nhằm phản ánh thực chất chính xác hơn và giảm bớt định kiến.
 
 <figure class="wp-block-table">
 <div class="scrollable-table">
@@ -966,81 +965,81 @@
 </colgroup>
 <thead>
 <tr>
-<th>項目</th>
-<th>内容</th>
+<th>Mục</th>
+<th>Nội dung</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>主な症状</td>
-<td><strong>陽性症状</strong>： 幻聴・幻覚、妄想、思考の混乱など<br />
-<strong>陰性症状</strong>： 感情の平板化、意欲の低下、引きこもりなど<br />
-<strong>認知機能障害</strong>： 注意力・記憶力・判断力の低下</td>
+<td>Triệu chứng chính</td>
+<td><strong>Triệu chứng dương tính</strong>: ảo thanh, ảo giác, hoang tưởng, rối loạn tư duy...<br />
+<strong>Triệu chứng âm tính</strong>: cảm xúc phẳng lặng, giảm động lực, thu mình...<br />
+<strong>Suy giảm chức năng nhận thức</strong>: suy giảm chú ý, trí nhớ, năng lực phán đoán</td>
 </tr>
 <tr>
-<td>発症の割合</td>
-<td>約100人に1人（誰でもかかりうる）</td>
+<td>Tỷ lệ mắc</td>
+<td>Khoảng 1 trên 100 người (ai cũng có thể mắc)</td>
 </tr>
 <tr>
-<td>原因</td>
-<td><strong>遺伝的要因</strong>（家族歴など）<br />
-<strong>環境要因</strong>（強いストレス、生活リズムの乱れなど）<br />
-<strong>脳内物質</strong>（ドーパミンなどのバランス異常）</td>
+<td>Nguyên nhân</td>
+<td><strong>Yếu tố di truyền</strong> (tiền sử gia đình...)<br />
+<strong>Yếu tố môi trường</strong> (stress mạnh, rối loạn nhịp sinh hoạt...)<br />
+<strong>Chất dẫn truyền trong não</strong> (mất cân bằng dopamine v.v.)</td>
 </tr>
 <tr>
-<td>治療と支援</td>
-<td><strong>薬物療法</strong>： 抗精神病薬で脳内のバランスを整える<br />
-<strong>心理社会的療法</strong>： 認知行動療法・家族支援・社会復帰プログラムなど<br />
-<strong>環境調整</strong>： 睡眠・食事・ストレス管理、家族の理解</td>
+<td>Điều trị và hỗ trợ</td>
+<td><strong>Điều trị bằng thuốc</strong>: dùng thuốc chống loạn thần để điều chỉnh cân bằng trong não<br />
+<strong>Liệu pháp tâm lý - xã hội</strong>: liệu pháp nhận thức hành vi, hỗ trợ gia đình, chương trình tái hòa nhập xã hội...<br />
+<strong>Điều chỉnh môi trường</strong>: giấc ngủ, ăn uống, quản lý stress, sự thấu hiểu từ gia đình</td>
 </tr>
 </tbody>
 </table>
 </div>
 </figure>
 
-統合失調症は、「不治の病」ではない。一方で、**再発のリスク**もある。
+Rối loạn tâm thần phân liệt không phải là một "bệnh vô phương cứu chữa". Nhưng đồng thời, nó cũng có **nguy cơ tái phát**.
 
-<span class="bold-red">早期発見および早期治療とその継続により、症状の安定(寛解)を維持し、自分らしい社会生活を送ることが可能になる。</span>
+<span class="bold-red">Nếu được phát hiện sớm, điều trị sớm và duy trì điều trị liên tục, người bệnh có thể giữ triệu chứng ở trạng thái ổn định (thuyên giảm) và sống một đời sống xã hội theo cách của chính mình.</span>
 
-### 完治ではなく、闘いの始まり
+### Không phải chữa khỏi, mà là khởi đầu của cuộc chiến
 
-入院からしばらく経って母親の症状が落ち着いた頃、自分は父親に連れられて見舞いに赴おもむいた。当時の自分には、事態の全容など到底理解できていなかったが、院長先生がかけてくれた言葉だけは鮮明に記憶している。
+Một thời gian sau khi nhập viện, khi tình trạng của mẹ đã dịu xuống, bố dẫn tôi tới thăm bệnh. Hồi đó tôi hoàn toàn không thể hiểu nổi toàn bộ sự việc, nhưng có một câu của viện trưởng thì đến giờ tôi vẫn nhớ rành rọt.
 
-<span class="bold-blue"><span class="fz-22px">「必ずお母さんを元に戻してあげるからね」</span></span>
+<span class="bold-blue"><span class="fz-22px">"Bác nhất định sẽ đưa mẹ cháu trở lại như cũ."</span></span>
 
-3ヶ月ほどの入院生活を経て、正気を取り戻した母親は退院した。しかし、それは「完治」を意味するものではなかった。この時から現在に至るまで続く、<span class="bold-red">家族と母親の病気との果てしない闘いの幕が開けただけに過ぎなかった。</span>
+Sau khoảng 3 tháng nằm viện, mẹ hồi phục lại thần trí và xuất viện. Nhưng điều đó không đồng nghĩa với "khỏi hẳn". Từ khoảnh khắc đó trở đi, thứ được mở màn chỉ là <span class="bold-red">cuộc chiến vô tận giữa gia đình tôi và căn bệnh của mẹ, kéo dài suốt tới hiện tại.</span>
 
-母親がスイミングスクールの帰路に沈黙し、低速運転を強行した理由を後に聞いたところ、**「道路がパズルピースのように分裂し、次々と浮き上がってくる」**という凄絶な幻覚が見えていたのだという。
+Sau này tôi mới nghe lý do vì sao trên đường từ trường bơi về hôm đó mẹ lại im lặng và lái xe chậm bất thường: mẹ đã nhìn thấy một ảo giác dữ dội rằng **"mặt đường tách ra như những mảnh ghép xếp hình, rồi lần lượt trồi lên"**.
 
-### 母親の不在と卒業式の伴奏
+### Sự vắng mặt của mẹ và phần đệm piano trong lễ tốt nghiệp
 
-母親の入院中、小学校の卒業が目前に迫っていた。
+Trong lúc mẹ nhập viện, ngày tốt nghiệp tiểu học đã tới rất gần.
 
-ある日、担任の先生から「卒業式の合唱でピアノ伴奏をやってくれないか」と打診された。
+Một hôm, cô chủ nhiệm hỏi tôi có thể đệm piano cho phần hợp xướng ở lễ tốt nghiệp được không.
 
-自分は「絶対に無理」と拒絶した。ピアノ教師でもある母親が入院中で、指導を仰ぐことが不可能だったからである。しかし、先生からの「もう二度と君にお願いすることはないから」という半ば強引な説得に屈し、自分は伴奏を引き受けることになってしまった。
+Tôi từ chối ngay: "Tuyệt đối không thể." Bởi mẹ - người cũng là giáo viên piano - đang nằm viện, tôi không thể nhờ mẹ hướng dẫn. Thế nhưng, bị câu thuyết phục nửa như ép buộc của cô rằng "đây là lần cuối cùng cô nhờ em thôi", tôi rốt cuộc vẫn phải nhận lời.
 
-<span class="cocoon-custom-text-1">当時は、まだ精神疾患に対する社会の理解が乏しく、「世間体」を考慮して、他言すべきではないという空気が支配的であった。</span>そのため、担任の先生にも母親の入院の事実は伏せていた。
+<span class="cocoon-custom-text-1">Thời đó xã hội vẫn còn rất thiếu hiểu biết với bệnh tâm thần, và bầu không khí chung là phải giữ kín chuyện này vì "thể diện".</span> Vì thế, ngay cả cô chủ nhiệm tôi cũng không nói cho biết chuyện mẹ đang nằm viện.
 
-本格的にピアノを習っていたのは小学校低学年までであり、数年のブランクがある自分にとって、この大役は絶望的な状況であった。
+Tôi chỉ học piano nghiêm túc đến những năm đầu tiểu học, nên với một đứa đã bỏ mấy năm như tôi, nhiệm vụ lớn đó chẳng khác nào tuyệt vọng.
 
-<span class="fz-20px"><span class="bold-red">「母親入院中なんだけど、一人でどうすんのこれ･･･」</span></span>
+<span class="fz-20px"><span class="bold-red">"Mẹ đang nhập viện mà cái này thì mình phải xoay một mình kiểu đéo gì đây..."</span></span>
 
-窮地に立たされた自分を救ったのは、母親の快復であった。試験外泊が許可されるまでに症状が安定し、その期間を利用して、集中的に教えを請うことができた。加えて、放課後にはピアノの弾ける二人の女子の助力を仰いで練習し、なんとか卒業式の本番までに演奏を形にすることができた。
+Cứu tôi khỏi ngõ cụt ấy chính là việc mẹ hồi phục. Triệu chứng của mẹ ổn định đến mức được cho phép về ngoài viện trong thời gian ngắn, và tôi tận dụng quãng đó để nhờ mẹ chỉ dạy tập trung. Ngoài ra, sau giờ học tôi còn nhờ hai bạn nữ biết chơi piano giúp luyện tập, và cuối cùng cũng xoay xở để đưa phần biểu diễn vào khuôn trước ngày tốt nghiệp.
 
-## 中学校時代――内なる乙女心と美意識の覚醒
+## Thời trung học cơ sở - Sự thức tỉnh của thiếu nữ tính nội tâm và mỹ cảm
 
-中学生になると、学習の主体は母親から自分自身へと移った。それに伴い、<span class="bold-red">独自のこだわり</span>が随所に現れ始めた。
+Khi lên trung học cơ sở, chủ thể của việc học chuyển từ mẹ sang chính tôi. Cùng với đó, <span class="bold-red">những nỗi cố chấp rất riêng</span> cũng bắt đầu hiện ra ở khắp nơi.
 
-顕著であったのは、ノート作成への執着である。授業中、自分は<span class="bold-red">「美しいノート」を作ることに心血を注ぐ</span>ようになった。しかし、その美しさとは、「東大生的ノート術」のような機能美ではなかった。自分が高揚感を覚えたのは、ラメ入りのカラーペンを多色使いし、見た目をキラキラと可愛らしく彩ることであった。仕上がったノートは、一見すれば女子が作成したとしか思えないものであった。
+Nổi bật nhất là sự ám ảnh với việc làm vở ghi. Trong giờ học, tôi bắt đầu <span class="bold-red">dốc hết tâm huyết để tạo ra "một cuốn vở đẹp"</span>. Nhưng cái đẹp ấy không phải vẻ đẹp chức năng kiểu "kỹ thuật ghi chép của học sinh Đại học Tokyo". Thứ khiến tôi phấn khích là dùng bút màu có nhũ nhiều màu, trang trí bề ngoài sao cho lấp lánh, đáng yêu. Thành phẩm nhìn qua thì chỉ có thể nghĩ là vở của con gái.
 
-<span class="bold-red">自分が当時どんなノートを理想としていたか、そして現在、本当はどんなデザインのサイトを理想としているか、自分の脳内の「kawaii」世界</span>は、現在AIの画像生成によって容易に具現化でき、もう少し読み進めると掲載されている。
+<span class="bold-red">Thế giới "kawaii" trong đầu tôi - tức là kiểu vở mà hồi đó tôi lý tưởng hóa, và cả kiểu thiết kế web mà thật lòng bây giờ tôi mới thực sự muốn -</span> giờ đây hoàn toàn có thể được AI dựng hình dễ dàng, và nếu đọc tiếp thêm chút nữa sẽ thấy nó xuất hiện trong bài.
 
-また、美術の授業で幾何学的抽象画を描く課題が出された際、周囲が円や四角形を組み合わせた無機質な構成に終始する中、自分は三日月やハートを組み合わせた図形を描いた。そのイメージの源泉は、言うまでもなく「セーラームーン」であった。
+Ngoài ra, trong giờ mỹ thuật có bài tập vẽ tranh trừu tượng hình học. Trong khi xung quanh ai cũng chỉ ghép hình tròn và hình vuông thành những bố cục vô cơ, thì tôi lại vẽ những hình được ghép từ lưỡi liềm và trái tim. Không cần phải nói, nguồn gốc của hình ảnh ấy chính là Sailor Moon.
 
-断っておくが、自分は当時も今も<span class="cocoon-custom-text-1">性自認は完全に「男」</span>であり、昨今語られるLGBTQの文脈とは異なる。「女になりたい」「女装したい」などと思ったことも一度もない。しかし、自分の内面では、男性的な力強さや剛健さよりも、<span class="cocoon-custom-text-1">流麗さや可愛らしさを尊ぶ傾向</span>が確実に存在していた。それを自分では、<span class="bold-red">純真な「乙女心」のような抽象的な感性</span>として捉えていた。
+Nói trước cho rõ: cả hồi đó lẫn bây giờ, <span class="cocoon-custom-text-1">nhận thức giới tính của tôi hoàn toàn là "nam"</span>, nên khác với mạch ngữ cảnh LGBTQ ngày nay. Tôi chưa từng một lần nghĩ kiểu như "muốn thành con gái" hay "muốn cross-dress". Thế nhưng trong nội tâm tôi, rõ ràng tồn tại một khuynh hướng <span class="cocoon-custom-text-1">tôn quý sự uyển chuyển và đáng yêu</span> hơn là sự mạnh mẽ hay cứng cáp kiểu nam tính. Còn tôi thì tự nhận diện nó như một <span class="bold-red">cảm tính trừu tượng kiểu "trái tim thiếu nữ" thuần khiết</span>.
 
-また、この頃から<span class="bold-red">「フォント」という造形美にも強く惹かれ始めていた。</span>期末試験の美術において、「漢字一文字を、指定された枠内にゴシック体と明朝体でそれぞれ描き分けよ」という問題が出された。書道の経験に加え、日頃からノートの余白でそれをやっていた自分にとって造作もないことで、完璧に描き出されたレタリングは満点を記録した。
+Và cũng từ khoảng này, <span class="bold-red">tôi bắt đầu bị hút mạnh bởi vẻ đẹp tạo hình mang tên "phông chữ".</span> Trong bài thi cuối kỳ môn mỹ thuật có câu yêu cầu: "hãy viết một chữ Hán trong khung cho sẵn, một lần bằng phông Gothic và một lần bằng phông Mincho". Với kinh nghiệm thư pháp, cộng thêm việc tôi vốn ngày nào cũng nghịch trò đó trong lề vở, bài ấy quá dễ. Phần lettering mà tôi vẽ ra hoàn hảo tới mức được điểm tuyệt đối.
 
 <style>
 .shodo-wrap {
@@ -1131,7 +1130,7 @@
 
 <div class="shodo-label">
 
-ゴシック体
+Phông Gothic
 
 </div>
 
@@ -1151,7 +1150,7 @@
 
 <div class="shodo-label">
 
-明朝体
+Phông Mincho
 
 </div>
 
@@ -1159,41 +1158,41 @@
 
 </div>
 
-こうした文字の構造に対する執着は、今も変わらない。現在でもiPadを用いてゴシック体や明朝体を描き、暇を潰すことがある。
+Sự ám ảnh với cấu trúc của con chữ như thế đến giờ vẫn chưa đổi. Ngay cả hiện tại, đôi khi tôi vẫn dùng iPad để vẽ kiểu Gothic và Mincho giết thời gian.
 
-## 知性では測れない友情
+## Tình bạn không thể đo bằng trí tuệ
 
-中学時代、自分には特に仲の良い3人の友人がいた。交流がほぼ途絶えた現在においても、**自分は彼らを大切な「親友」として深く心に刻んでいる。**
+Thời trung học cơ sở, tôi có ba người bạn đặc biệt thân. Dù hiện giờ gần như đã mất liên lạc, **tôi vẫn khắc họ sâu trong tim như những "tri kỷ" vô cùng quý giá.**
 
-この3人には、学年240名中200位以下と、成績の低さにおける共通点があった。しかし、自分は彼らとの間に学力差による壁を一切感じることがなかった。会話の主題は、常に<span class="bold-blue">テレビ、アニメ、漫画、ゲーム</span>であった。いわゆる<span class="bold-red">「オタク仲間」としての連帯が、知性の優劣を無意味なものにしてくれていた。</span>
+Cả ba đứa đó đều có một điểm chung: thành tích học tập kém, đều đứng ngoài top 200 trong tổng số 240 học sinh. Thế nhưng giữa tôi và họ, tôi chưa từng cảm thấy bất cứ bức tường nào vì chênh lệch học lực. Chủ đề bọn tôi nói với nhau lúc nào cũng là <span class="bold-blue">TV, anime, manga và game</span>. Có thể nói, <span class="bold-red">sự liên đới của những "đồng bọn otaku" đã khiến hơn thua về trí tuệ trở thành thứ vô nghĩa.</span>
 
-これらの娯楽は、小学生の時は親によってかなり制限されていたが、中学生になると干渉が希薄になり、のめり込む時間も多くなった。中学3年時には親友のうちの2人と同じクラスになったことも重なり、毎日が楽しかった記憶しかない。
+Những món giải trí này hồi tiểu học bị cha mẹ hạn chế khá nhiều, nhưng lên trung học cơ sở thì sự can thiệp thưa dần, còn thời gian để tôi chìm vào đó ngày một nhiều. Đến năm lớp 9, lại có thêm chuyện hai trong số ba người bạn thân học cùng lớp với tôi, nên ký ức tôi giữ về quãng ấy gần như chỉ toàn là niềm vui.
 
-当時、テレビゲームにおいては、アクション、シューティング、パズル、レース、格闘、ロールプレイングゲーム(RPG)と、ジャンルを問わず広範に触れていた。親友たちとは『マリオカート』や『ポケットモンスター』で対戦し、攻略法について電話で語り合った。
+Về game điện tử, hồi đó tôi chơi rất rộng, bất kể thể loại: hành động, bắn súng, giải đố, đua xe, đối kháng, hay nhập vai (RPG). Tôi thường đấu với đám bạn thân trong Mario Kart hay Pokemon, rồi gọi điện bàn với nhau về cách phá đảo.
 
-自分は、特に<span class="bold-green">「タイムアタック」</span>を得意としていた。**小学生時代に公文式の反復練習によって培われた集中力と忍耐力は、同じコースを数百回試行し続けるという反復作業を、苦痛ではなく快楽へと変えていた。**また、<span class="bold-green">「RPG」</span>においては、攻略本を精査してイベント発生条件や宝箱の位置をすべて把握し、<span class="bold-red">最短かつ最も効率的な攻略ルートを構築する</span>ことに喜びを感じていた。
+Tôi đặc biệt giỏi ở thể loại <span class="bold-green">"time attack"</span>. **Sự tập trung và sức chịu đựng được tôi rèn từ thời tiểu học qua việc lặp bài ở Kumon đã biến công việc thử đi thử lại cùng một màn hàng trăm lần từ đau khổ thành khoái cảm.** Còn với <span class="bold-green">"RPG"</span>, tôi thấy sung sướng khi săm soi sách hướng dẫn, nắm toàn bộ điều kiện phát sinh sự kiện lẫn vị trí rương báu, rồi <span class="bold-red">dựng nên tuyến phá đảo ngắn nhất và hiệu quả nhất</span>.
 
-中学時代の自分は、名目上は英会話部に所属していたものの、実態は「帰宅部」に等しかった。
+Danh nghĩa thì tôi thuộc câu lạc bộ hội thoại tiếng Anh, nhưng thực tế đời sống trung học cơ sở của tôi chẳng khác gì một đứa "về thẳng nhà".
 
-<span class="cocoon-custom-text-1"><span class="fz-20px">自宅では、テレビ、ゲーム、漫画の世界に没頭し、学業に対して真摯しんしに励んだ記憶は皆無に近い。</span></span>
+<span class="cocoon-custom-text-1"><span class="fz-20px">Ở nhà, tôi chìm đầu trong thế giới của TV, game và manga, gần như không có nổi ký ức nào về việc nghiêm túc chuyên chú vào học hành.</span></span>
 
-<span class="cocoon-custom-text-1"><span class="fz-20px">公立中学の平易な宿題を適宜てきぎこなし、試験前に最低限の確認作業を行う。それだけで、240人中1～10位という自分の学力順位が脅かされることはなかった。</span></span>
+<span class="cocoon-custom-text-1"><span class="fz-20px">Tôi chỉ làm vừa đủ đống bài tập dễ của trường công, rồi trước kỳ thi kiểm tra qua loa tối thiểu. Chỉ thế thôi cũng chẳng có gì đe dọa nổi thứ hạng học lực từ hạng 1 đến hạng 10 trong tổng số 240 học sinh của tôi.</span></span>
 
-## 理系の覚醒――世界の根源への没入
+## Sự thức tỉnh của khối tự nhiên - Sự đắm chìm vào căn nguyên của thế giới
 
-中学2年生になる頃、自分は一つの明確な確信を持つに至った。
+Khoảng khi lên năm thứ hai trung học cơ sở, tôi đi tới một niềm xác tín rõ ràng.
 
-<span class="fz-28px"><span class="bold-red">「自分は100%純粋な理系の人間である」</span></span>
+<span class="fz-28px"><span class="bold-red">"Mình là con người tự nhiên thuần khiết 100%."</span></span>
 
-なぜそう断言できたのか、当時の自分に明確な根拠があったわけではない。しかし、数学や理科で高得点を叩き出す一方で、文系科目に苦手意識を抱いていたことが、その自己定義を後押ししたのだろう。
+Tại sao tôi có thể khẳng định vậy, chính tôi khi ấy cũng không có căn cứ thật rõ ràng. Nhưng việc tôi liên tục nện ra điểm cao ở toán và khoa học, trong khi lại mang cảm giác yếu thế với các môn xã hội, có lẽ đã đẩy mạnh định nghĩa bản thân đó.
 
-そしてこの時期、自分の中で、<span class="cocoon-custom-text-1"><span class="fz-20px">自然科学への興味が爆発的に膨れ上がった。</span></span>
+Và đúng vào giai đoạn này, trong tôi, <span class="cocoon-custom-text-1"><span class="fz-20px">sự hứng thú đối với khoa học tự nhiên bùng nổ dữ dội.</span></span>
 
-自宅に多くあった偉人の伝記漫画の中でも、特にニュートンやアインシュタインといった自然科学者たちの生涯に強く惹かれた。<span class="bold-red"><span class="fz-20px">科学雑誌『Newton』を愛読し、物理学、とりわけ宇宙論、相対性理論、量子力学、素粒子といった、世界の根源に迫る領域に強烈な好奇心を抱くようになった。</span></span>物理学においては、「中学生でもわかる◯◯」といった入門的な解説本も愛読していた。
+Trong số đống truyện tranh tiểu sử danh nhân có sẵn ở nhà, tôi đặc biệt bị hút mạnh bởi cuộc đời của những nhà khoa học tự nhiên như Newton hay Einstein. <span class="bold-red"><span class="fz-20px">Tôi say mê tạp chí khoa học Newton, rồi bắt đầu ôm một lòng hiếu kỳ dữ dội với vật lý học, nhất là những lĩnh vực truy tận gốc thế giới như vũ trụ học, thuyết tương đối, cơ học lượng tử và hạt cơ bản.</span></span> Với vật lý, tôi cũng thích đọc những cuốn giải thích nhập môn kiểu "ngay cả học sinh cấp 2 cũng hiểu được XX".
 
-### 光は粒子か、波か――二重性という知の成熟
+### Ánh sáng là hạt hay là sóng - Sự trưởng thành của nhận thức mang tên lưỡng tính
 
-1660年代、20代の<span class="bold-green">アイザック・ニュートン</span>は、自宅でプリズム実験を繰り返す中で、白色光が屈折して赤から紫へと滑らかなグラデーションを描く、<span class="bold-red"><span class="fz-22px">連続した色の帯(スペクトル；spectrumスペクトラム)</span></span>に分かれることを発見した。
+Vào thập niên 1660, <span class="bold-green">Isaac Newton</span> ở độ tuổi đôi mươi, trong khi lặp đi lặp lại các thí nghiệm lăng kính tại nhà, đã phát hiện ra rằng ánh sáng trắng khi khúc xạ sẽ tách thành <span class="bold-red"><span class="fz-22px">một dải màu liên tục (quang phổ; spectrum)</span></span> vẽ nên một gradation mượt từ đỏ đến tím.
 
 <figure class="wp-block-image aligncenter size-full">
 <img src="https://examist.jp/wp-content/uploads/newton-prism.png" class="wp-image-34015" decoding="async" width="1448" height="1086" />
@@ -1201,19 +1200,19 @@
 
 　
 
-その後、1704年出版『Opticks』において、光を小さな粒子として扱う<span class="bold-blue">「光の粒子説」</span>を提唱した。反射・屈折を説明できる点やニュートンの権威もあり、**「光は粒子である」**という見方は長く主流となった。
+Sau đó, trong cuốn *Opticks* xuất bản năm 1704, ông đề xuất <span class="bold-blue">"thuyết hạt của ánh sáng"</span>, xem ánh sáng như những hạt nhỏ. Nhờ việc nó giải thích được phản xạ và khúc xạ, lại thêm uy tín của Newton, quan điểm **"ánh sáng là hạt"** đã thống trị suốt một thời gian dài.
 
-一方、ホイヘンスは<span class="bold-blue">「光の波動説」</span>を主張した。しかし、実験的証拠が少なく、支持は広がらなかった。
+Trong khi đó, Huygens lại chủ trương <span class="bold-blue">"thuyết sóng của ánh sáng"</span>. Nhưng vì chứng cứ thực nghiệm còn quá ít, nó không lan rộng được sự ủng hộ.
 
-19世紀に入ると、ヤングの二重スリット実験やフレネルの回折理論によって、**光が干渉・回折する波として振る舞う**ことが、実験的にも数学的にも明確になった。さらに、<span class="bold-green">ジェームズ・クラーク・マクスウェル</span>が、<span class="bold-blue">「光＝電磁波」</span>を数学的に証明した。これにより、光の本質を探る議論は、一度は完全に決着した――かに思われた。
+Khi bước sang thế kỷ 19, nhờ thí nghiệm hai khe của Young và lý thuyết nhiễu xạ của Fresnel, việc **ánh sáng hành xử như một làn sóng có giao thoa và nhiễu xạ** đã trở nên rõ ràng cả về thực nghiệm lẫn toán học. Hơn nữa, <span class="bold-green">James Clerk Maxwell</span> còn chứng minh bằng toán học rằng <span class="bold-blue">"ánh sáng = sóng điện từ"</span>. Nhờ đó, cuộc tranh luận về bản chất của ánh sáng tưởng như đã khép lại hoàn toàn - hay ít nhất là người ta đã nghĩ thế.
 
-ところが20世紀に入り、「光＝波」では説明できない現象が発見され始める。
+Thế nhưng khi bước sang thế kỷ 20, người ta lại bắt đầu phát hiện ra những hiện tượng không thể giải thích chỉ bằng công thức "ánh sáng = sóng".
 
-<span class="bold-green">アルベルト・アインシュタイン</span>は、光電効果の説明を通して、<span class="bold-blue">光は光子として振る舞う</span>ことを示した(1921年ノーベル物理学賞)。さらに、コンプトン散乱も光の粒子的性質を裏付けた。
+<span class="bold-green">Albert Einstein</span>, thông qua việc giải thích hiệu ứng quang điện, đã chỉ ra rằng <span class="bold-blue">ánh sáng hành xử như photon</span> (giải Nobel Vật lý năm 1921). Hơn nữa, tán xạ Compton cũng củng cố tính chất hạt của ánh sáng.
 
-19世紀に完全決着したはずの波動説に、再び揺らぎが生じたのである。さらにド・ブロイは、<span class="bold-blue">粒子であるはずの電子にも波動性がある</span>と予測した。そして、その予測は電子回折の実験によって実証された。
+Vậy là thuyết sóng, vốn tưởng đã giải quyết xong xuôi trong thế kỷ 19, lại một lần nữa lung lay. Rồi de Broglie còn dự đoán rằng <span class="bold-blue">ngay cả electron, thứ lẽ ra là hạt, cũng có tính sóng</span>. Và dự đoán đó đã được chứng thực bằng thí nghiệm nhiễu xạ electron.
 
-もはや、**光も物質も、「粒子」と「波」のどちらか一方だけで説明することが困難になった。**
+Từ đó trở đi, **cả ánh sáng lẫn vật chất đều trở nên khó có thể giải thích chỉ bằng một phía duy nhất là "hạt" hay "sóng".**
 
 <style>
 .simple-emphasis {
@@ -1233,66 +1232,66 @@
 }
 </style>
 
-<span class="emphasis-red">一見矛盾する2つの性質がどちらも確かに観測されるとき、一方を否定するのではなく、「両方を併せ持つ」と解釈することこそが、最も合理的な態度である。</span>
+<span class="emphasis-red">Khi hai tính chất thoạt nhìn có vẻ mâu thuẫn đều thật sự được quan sát thấy, thái độ hợp lý nhất không phải là phủ định một bên, mà là diễn giải rằng "nó đồng thời mang cả hai".</span>
 
-これは、**人類の思考の成熟**そのものを示している。最終的に量子力学が整備され、**光は状況に応じて粒子的にも波動的にも振る舞う、**<span class="bold-blue"><span class="fz-24px">「粒子・波動の二重性」</span></span>を持つという現代の理解に到達した。
+Điều đó tự thân nó đã cho thấy **sự trưởng thành của tư duy nhân loại**. Cuối cùng, khi cơ học lượng tử được xây dựng hoàn chỉnh, nhận thức hiện đại đã đi đến chỗ hiểu rằng **ánh sáng, tùy theo hoàn cảnh, có thể hành xử vừa như hạt vừa như sóng**, và mang <span class="bold-blue"><span class="fz-24px">"lưỡng tính hạt - sóng"</span></span>.
 
-<span class="bold-red"><span class="fz-20px">光は、観測されていない間は波動関数として広がる確率的な存在としてふるまい、観測の瞬間には特定の位置に粒子的な結果として現れる。</span></span>
+<span class="bold-red"><span class="fz-20px">Ánh sáng, trong lúc chưa bị quan sát, hành xử như một tồn tại xác suất trải rộng dưới dạng hàm sóng; còn vào khoảnh khắc bị quan sát, nó lại xuất hiện như một kết quả mang tính hạt ở một vị trí xác định.</span></span>
 
-### 秩序を作る悪魔とエントロピーの謎
+### Con quỷ tạo ra trật tự và bí ẩn của entropy
 
-1871年、<span class="bold-green">ジェームズ・クラーク・マクスウェル</span>は、一つの思考実験を提示した。
+Năm 1871, <span class="bold-green">James Clerk Maxwell</span> đã đưa ra một thí nghiệm tư duy.
 
-<span class="bold-red"><span class="fz-20px">「分子を1個ずつ見分けて選別できる存在(悪魔)がいれば、エントロピー(無秩序さ)を減少させることができるのではないか」</span></span>
+<span class="bold-red"><span class="fz-20px">"Nếu tồn tại một kẻ (con quỷ) có thể nhận diện rồi chọn lọc từng phân tử một, liệu nó có thể làm giảm entropy (độ hỗn loạn) hay không?"</span></span>
 
-これは、<span class="cocoon-custom-text-1">物理学の基本原理である熱力学第二法則(エントロピー増大の法則)と矛盾しているように見える思考実験</span>であった。
+Đó là một thí nghiệm tư duy <span class="cocoon-custom-text-1">trông như mâu thuẫn với định luật thứ hai của nhiệt động lực học - tức định luật tăng entropy, nguyên lý cơ bản của vật lý</span>.
 
-この思考実験では、仕切りで二つに分けられた箱の中に、気体分子が一様に存在している。
+Trong thí nghiệm tư duy này, các phân tử khí tồn tại đồng đều bên trong một chiếc hộp bị vách ngăn chia thành hai phần.
 
-- <span class="bold-green">第1段階(初期状態)</span>：**すべての分子が均一に混ざり合い、温度が一律な状態(高エントロピー)である。**
-- <span class="bold-green">第2段階(悪魔の操作)</span>：**悪魔が「分子の速さを見極め」、扉を開閉して仕分けを行う(仕事はしない)。**
-- <span class="bold-green">第3段階(最終状態)</span>：**左側には高速分子が集まって熱くなり、右側には低速分子が集まって冷たくなり、温度差が生じる。外部からエネルギーを与えていないにもかかわらず、秩序が生まれ、エントロピーが減少するように見える。**
+- <span class="bold-green">Giai đoạn 1 (trạng thái ban đầu)</span>: **tất cả các phân tử trộn đều với nhau, nhiệt độ đồng nhất, tức trạng thái entropy cao.**
+- <span class="bold-green">Giai đoạn 2 (con quỷ thao tác)</span>: **con quỷ "nhìn ra tốc độ của từng phân tử", rồi đóng mở cánh cửa để phân loại chúng (mà không làm công).**
+- <span class="bold-green">Giai đoạn 3 (trạng thái cuối)</span>: **bên trái tập trung các phân tử tốc độ cao nên nóng lên, bên phải tập trung các phân tử tốc độ thấp nên lạnh đi, từ đó phát sinh chênh lệch nhiệt độ. Dù không hề truyền năng lượng từ bên ngoài vào, trật tự vẫn dường như được sinh ra và entropy trông như đã giảm xuống.**
 
-熱力学第二法則によると、孤立系において自然に進む過程では、エントロピーは増大する。ところが悪魔は、単なる扉の開閉だけで分子を選別し、温度差を生み出してしまう。
+Theo định luật thứ hai của nhiệt động lực học, trong một hệ cô lập, entropy sẽ tăng lên trong các quá trình diễn ra tự nhiên. Thế nhưng con quỷ ấy lại chỉ bằng việc đóng mở cánh cửa mà phân loại được phân tử và tạo ra chênh lệch nhiệt độ.
 
-もしこれが可能なら、その温度差を利用して仕事を取り出すことができ、周囲の熱だけを利用して動き続ける**第二種永久機関が実現してしまう**ことになる。
+Nếu điều đó có thể xảy ra, thì người ta sẽ có thể lợi dụng chênh lệch nhiệt độ đó để rút công ra, biến **máy vĩnh cửu loại hai** thành hiện thực - tức cỗ máy cứ thế hoạt động mãi chỉ bằng nhiệt từ môi trường xung quanh.
 
 <figure class="wp-block-image aligncenter size-full">
 <img src="https://examist.jp/wp-content/uploads/maxwell-demon.png" class="wp-image-34007" loading="lazy" decoding="async" width="1448" height="1086" />
 </figure>
 
-<span class="bold-red"><span class="fz-22px">「悪魔は仕事をしないのに、なぜ熱力学第二法則が破れるのか？」</span></span>
+<span class="bold-red"><span class="fz-22px">"Con quỷ chẳng hề làm công, vậy tại sao định luật thứ hai nhiệt động lực học vẫn bị phá vỡ?"</span></span>
 
-この矛盾は、その後100年以上にわたって物理学者を悩ませ続けた。
+Mâu thuẫn đó đã hành hạ giới vật lý suốt hơn 100 năm sau.
 
-### 光が開いた莫大なエネルギーへの扉
+### Cánh cửa dẫn tới nguồn năng lượng khổng lồ do ánh sáng mở ra
 
-1905年、<span class="bold-green">アインシュタイン</span>は、「すべての慣性系で物理法則は同じ形で成り立つ(相対性原理)」と「光の速さは観測者によらず常に一定である(光速度不変の原理)」を出発点として<span class="bold-blue"><span class="fz-22px">特殊相対性理論</span></span>を築き上げた。
+Năm 1905, <span class="bold-green">Einstein</span> đã xây dựng <span class="bold-blue"><span class="fz-22px">thuyết tương đối hẹp (special relativity / 特殊相対性理論)</span></span> trên hai điểm xuất phát: "các định luật vật lý đều có cùng dạng trong mọi hệ quy chiếu quán tính" (nguyên lý tương đối) và "tốc độ ánh sáng luôn không đổi, bất kể người quan sát là ai" (nguyên lý bất biến của tốc độ ánh sáng).
 
-その背景には、<span class="cocoon-custom-text-1">「もし光と同じ速さで移動できたら、光はどのように見えるのか」といった思考実験</span>があった。
+Phía sau nó là những thí nghiệm tư duy kiểu như <span class="cocoon-custom-text-1">"nếu ta có thể chuyển động bằng đúng tốc độ của ánh sáng, thì ánh sáng sẽ trông ra sao?"</span>.
 
-この理論は、<span class="bold-red"><span class="fz-20px">時間の進み方も空間の長さも絶対ではなく、観測者の運動状態によって異なる相対的な量である</span></span>ことを明らかにした。たとえば、地上で10年が経過する間に、光速の99.5％で移動する宇宙船内では約1年しか経過しない。
+Lý thuyết này đã làm rõ rằng <span class="bold-red"><span class="fz-20px">cả tốc độ trôi của thời gian lẫn độ dài của không gian đều không phải những đại lượng tuyệt đối, mà là những đại lượng tương đối thay đổi theo trạng thái chuyển động của người quan sát</span></span>. Chẳng hạn, trong lúc 10 năm trôi qua trên mặt đất, thì bên trong con tàu vũ trụ chuyển động với 99,5% tốc độ ánh sáng chỉ trôi qua khoảng 1 năm.
 
-その論理的帰結の一つが
+Một trong những hệ quả logic của nó là
 
 <span class="fz-24px">$`E=mc^2`$</span>
 
-**(質量とエネルギーは本質的に同じものである)**
+**(khối lượng và năng lượng về bản chất là cùng một thứ)**
 
-光速 $`c`$ (秒速30万km)は極めて大きいため、その2乗は天文学的な数値になる。つまり、<span class="bold-red">ほんのわずかな質量 $`m`$ であっても、想像を絶する莫大なエネルギー $`E`$ へ変換され得る</span>のである。
+Vì tốc độ ánh sáng $`c`$ (300.000 km/giây) là con số cực kỳ lớn nên bình phương của nó trở thành một giá trị mang tầm thiên văn. Nói cách khác, <span class="bold-red">ngay cả một khối lượng rất nhỏ $`m`$ cũng có thể bị chuyển hóa thành một năng lượng $`E`$ khổng lồ vượt quá sức tưởng tượng</span>.
 
-1939年、原子核が分裂する<span class="cocoon-custom-text-1">「核分裂」</span>という現象の正体が明らかとなった。それは、<span class="bold-red">原子核の内部に、途方もないエネルギーが眠っている</span>ことを示す発見であった。\
-$`E=mc^2`$ は、その恐るべき原理を理論的に裏付けていた。
+Đến năm 1939, bản chất của hiện tượng <span class="cocoon-custom-text-1">"phân hạch hạt nhân" (nuclear fission / 核分裂)</span> được làm sáng tỏ. Đó là một phát hiện cho thấy <span class="bold-red">bên trong hạt nhân nguyên tử đang ngủ yên một nguồn năng lượng khổng lồ đến không tưởng</span>.\
+$`E=mc^2`$ chính là nền tảng lý thuyết chống lưng cho nguyên lý đáng sợ ấy.
 
-**1945年8月、広島と長崎で投下された原子爆弾**は、上空数百mで炸裂し、内部の核分裂性物質が<span class="bold-red"><span class="fz-22px">臨界条件</span></span>に達したことで、連鎖的な核分裂反応が生じた。その結果、<span class="bold-red"><span class="fz-20px">わずか1gにも満たない質量が、一瞬にして莫大な光と熱のエネルギーへと変換</span></span>され、両都市で合計20万人以上の命を消し去った。
+**Vào tháng 8 năm 1945, những quả bom nguyên tử thả xuống Hiroshima và Nagasaki** phát nổ ở độ cao vài trăm mét trên không, và khi vật chất phân hạch bên trong đạt tới <span class="bold-red"><span class="fz-22px">điều kiện tới hạn</span></span>, phản ứng phân hạch dây chuyền đã nổ ra. Kết quả là <span class="bold-red"><span class="fz-20px">một khối lượng chưa đến nổi 1g bị chuyển hóa trong chớp mắt thành nguồn năng lượng ánh sáng và nhiệt khổng lồ</span></span>, xóa sổ hơn 200.000 sinh mạng ở cả hai thành phố cộng lại.
 
-## 悪への傾倒――残酷さに宿る人間本質の探究
+## Sự ngả về cái ác - Truy tìm bản chất con người trú ngụ trong tàn nhẫn
 
-中学生に進学して以降、自分の中から、かつてのような他害の衝動は消失していった。
+Kể từ khi lên trung học cơ sở, những xung động muốn gây hại cho người khác như trước kia đã dần biến mất khỏi tôi.
 
-物理的に他者を傷つけることへの興味が薄れる一方で、<span class="bold-red"><span class="fz-22px">異常なまでの「悪」への興味</span></span>が芽生え始めていた。
+Trong khi hứng thú với việc làm tổn thương người khác về thể xác nhạt dần, thì <span class="bold-red"><span class="fz-22px">một niềm hứng thú dị thường với "cái ác"</span></span> lại bắt đầu nảy mầm.
 
-それは、身近な人間に危害を加えるといった卑近なレベルのものではなく、<span class="bold-blue"><span class="fz-20px">「本質」を問う、より抽象的で哲学的な探究心</span></span>であった。
+Nó không còn ở cái mức thấp lè tè kiểu làm hại người ngay quanh mình nữa, mà là <span class="bold-blue"><span class="fz-20px">một thôi thúc truy cứu mang tính trừu tượng và triết học hơn, đặt câu hỏi về "bản chất"</span></span>.
 
 <style>
 .generic-elegant-title{
@@ -1377,13 +1376,13 @@ $`E=mc^2`$ は、その恐るべき原理を理論的に裏付けていた。
 
 <div class="generic-elegant-title__inner">
 
-<span class="generic-elegant-title__label">◇ 本質の探究 ◇</span>
+<span class="generic-elegant-title__label">◇ Truy tìm bản chất ◇</span>
 
 <div class="generic-elegant-title__divider">
 
 </div>
 
-<span class="generic-elegant-title__main">そもそも<span class="generic-elegant-title__accent">悪</span>とは何か</span>
+<span class="generic-elegant-title__main">Rốt cuộc <span class="generic-elegant-title__accent">cái ác</span> là gì</span>
 
 </div>
 
@@ -1391,7 +1390,7 @@ $`E=mc^2`$ は、その恐るべき原理を理論的に裏付けていた。
 
 　
 
-**当時の自分がどれほど「悪」という概念に魅了されていたかは、夏休みの読書感想文として提出した一冊の書名が、雄弁に物語っている。**
+**Hồi đó tôi bị mê hoặc bởi khái niệm "cái ác" tới mức nào, chỉ cần nhìn vào nhan đề cuốn sách tôi nộp làm bài cảm nhận đọc sách dịp nghỉ hè là đủ hiểu.**
 
 <div style="width:100%; margin:1.5em 0; padding:1.3em; border:1px solid #3a3a3a; border-radius:12px; background:linear-gradient(180deg, #1f1f1f 0%, #2b2b2b 100%); box-shadow:0 6px 18px rgba(0,0,0,0.25); box-sizing:border-box; color:#f2f2f2;">
 
@@ -1407,22 +1406,22 @@ $`E=mc^2`$ は、その恐るべき原理を理論的に裏付けていた。
 
 <div style="display:inline-block; margin-bottom:0.8em; padding:0.25em 0.7em; border:1px solid #7a7a7a; border-radius:999px; font-size:0.82em; color:#d8d8d8; letter-spacing:0.05em;">
 
-角川ホラー文庫
+Tủ sách kinh dị Kadokawa
 
 </div>
 
-### 美しき殺人法100
+### 100 phương pháp giết người mỹ lệ
 
 <div style="padding:1em 1.1em; background:rgba(255,255,255,0.06); border-left:4px solid #b44; line-height:2; color:#f1f1f1;">
 
-口づけによる殺人から、逆さはりつけ、塗り込めまで、古今東西の殺人法を集めた戦慄の百選。 人間の残酷さや異常性、そして歴史の暗部をのぞかせる、異様な読書体験をもたらす内容である。\
-花びら／ワイン／人身御供／毒ニンジン／バラ／包丁／愛撫／免疫体質／ペニス／逆さ十字／乳房／血管／殺人ゲーム／接吻 他
+Một trăm kiểu giết người rợn gáy, gom đủ các phương pháp sát nhân từ giết bằng nụ hôn, đóng đinh ngược cho tới chôn kín xây bịt, trải khắp đông tây kim cổ. Nội dung của nó mang lại một trải nghiệm đọc dị thường, phơi bày sự tàn nhẫn, tính bất thường của con người và cả phần bóng tối của lịch sử.\
+Cánh hoa / rượu vang / hiến tế người sống / cà rốt độc / hoa hồng / dao bếp / vuốt ve / thể chất miễn dịch / dương vật / thập tự ngược / bầu ngực / mạch máu / trò chơi giết người / nụ hôn v.v.
 
 </div>
 
 <div style="margin:1em 0 0 0; display:flex; gap:0.7em; flex-wrap:wrap; align-items:center;">
 
-<a href="https://www.amazon.co.jp/%E7%BE%8E%E3%81%97%E3%81%8D%E6%AE%BA%E4%BA%BA%E6%B3%95100-%E8%A7%92%E5%B7%9D%E3%83%9B%E3%83%A9%E3%83%BC%E6%96%87%E5%BA%AB-%E6%A1%90%E7%94%9F-%E6%93%8D-ebook/dp/B00EAEYNDW?&amp;linkCode=ll2&amp;tag=examoonist-22&amp;linkId=df5c812cba0d1c39766054cf5857f0b9&amp;ref_=as_li_ss_tl" rel="nofollow sponsored noopener" target="_blank" style="display:inline-block; min-width:8.5em; padding:0.68em 1.15em; background:#8b2d2d; color:#fff; text-decoration:none; border-radius:6px; text-align:center;">Amazonで見る</a> <a href="https://hb.afl.rakuten.co.jp/ichiba/15088820.413453d2.15088821.b337fb47/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F848508%2F%3Fscid%3Daf_pc_bbtn&amp;link_type=picttext&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==" rel="nofollow sponsored noopener" target="_blank" style="display:inline-block; min-width:8.5em; padding:0.68em 1.15em; background:#bf0000; color:#fff; text-decoration:none; border-radius:6px; text-align:center;">楽天で見る</a>
+<a href="https://www.amazon.co.jp/%E7%BE%8E%E3%81%97%E3%81%8D%E6%AE%BA%E4%BA%BA%E6%B3%95100-%E8%A7%92%E5%B7%9D%E3%83%9B%E3%83%A9%E3%83%BC%E6%96%87%E5%BA%AB-%E6%A1%90%E7%94%9F-%E6%93%8D-ebook/dp/B00EAEYNDW?&amp;linkCode=ll2&amp;tag=examoonist-22&amp;linkId=df5c812cba0d1c39766054cf5857f0b9&amp;ref_=as_li_ss_tl" rel="nofollow sponsored noopener" target="_blank" style="display:inline-block; min-width:8.5em; padding:0.68em 1.15em; background:#8b2d2d; color:#fff; text-decoration:none; border-radius:6px; text-align:center;">Xem trên Amazon</a> <a href="https://hb.afl.rakuten.co.jp/ichiba/15088820.413453d2.15088821.b337fb47/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F848508%2F%3Fscid%3Daf_pc_bbtn&amp;link_type=picttext&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ==" rel="nofollow sponsored noopener" target="_blank" style="display:inline-block; min-width:8.5em; padding:0.68em 1.15em; background:#bf0000; color:#fff; text-decoration:none; border-radius:6px; text-align:center;">Xem trên Rakuten</a>
 
 </div>
 
@@ -1432,21 +1431,21 @@ $`E=mc^2`$ は、その恐るべき原理を理論的に裏付けていた。
 
 </div>
 
-この本は、通学路にある書店で偶然見つけたものだった。中学生が夏休みの課題としてこの書を選び、感想文を提出するという行為そのものが、当時の自分の異様な精神状態を象徴していたと言える。
+Tôi tình cờ bắt gặp cuốn sách này ở hiệu sách trên đường đi học. Chỉ riêng hành động một đứa học sinh cấp 2 chọn chính cuốn này làm bài tập nghỉ hè rồi nộp bài cảm nhận đọc sách cũng đã đủ nói lên trạng thái tinh thần dị thường của tôi lúc ấy.
 
-感想文の詳細な文面こそ記憶の彼方にあるが、<span class="bold-red">「人間とは恐ろしい生き物だ」</span>という畏怖いふを綴つづった覚えがある。
+Tôi không còn nhớ chi tiết câu chữ bài cảm nhận ra sao, nhưng vẫn nhớ mình đã viết về một nỗi kinh sợ rằng <span class="bold-red">"con người là một sinh vật đáng sợ"</span>.
 
-## 血塗られた過去――正義が反転する瞬間
+## Quá khứ nhuốm máu - Khoảnh khắc chính nghĩa đảo chiều
 
-中学生になると、戦隊ヒーローや仮面ライダーといった実写特撮モノからは距離を置くようになり、代わってアニメや漫画の世界へ深く没入していった。
+Khi lên trung học cơ sở, tôi dần rời xa những tác phẩm tokusatsu người đóng kiểu siêu nhân sentai hay Kamen Rider, rồi thay vào đó chìm ngày càng sâu vào thế giới anime và manga.
 
-『セーラームーン』は言わずもがな、『ドラゴンボール』『幽遊白書』『るろうに剣心』『シティーハンター』――。
+Sailor Moon thì khỏi phải nói, rồi Dragon Ball, Yu Yu Hakusho, Rurouni Kenshin, City Hunter...
 
-当時の自分は、自らを単なる「アニメオタク」「漫画オタク」と認識していた。
+Hồi đó tôi tự nhận mình đơn thuần chỉ là một thằng otaku anime, otaku manga.
 
-その作品群の中で、<span class="cocoon-custom-text-1">自分の精神構造に最も深く、そして不穏な爪痕を残した</span>のが**<span class="fz-22px">『幽遊白書』の</span>**<span class="bold-red"><span class="fz-22px">「仙水編」</span></span>であった。
+Và trong đám tác phẩm ấy, thứ để lại <span class="cocoon-custom-text-1">vết cào sâu nhất, bất ổn nhất lên cấu trúc tinh thần của tôi</span> lại là **<span class="fz-22px">arc</span>** <span class="bold-red"><span class="fz-22px">Sensui</span></span> trong *Yu Yu Hakusho*.
 
-幽遊白書第14巻の**「血塗られた過去!!の巻」**を中心として、「仙水編」のあらすじをまとめると以下のようになる。
+Nếu lấy trọng tâm là chương **"Quá khứ nhuốm máu!!"** trong tập 14 của *Yu Yu Hakusho*, thì tóm lược arc Sensui sẽ như sau.
 
 <style>
 .dark-incident-box{
@@ -1539,242 +1538,240 @@ $`E=mc^2`$ は、その恐るべき原理を理論的に裏付けていた。
 
 <div class="dark-incident-box__header">
 
-血塗られた過去
+Quá khứ nhuốm máu
 
 </div>
 
 <div class="dark-incident-box__body">
 
-幼い頃から並外れた霊力を持っていた仙水忍せんすいしのぶは、若くして霊界から霊界探偵に任命され、人間界と霊界を魔界の妖怪から守り続けていた。**仙水は、常軌を逸するほど潔癖な正義の信奉者**であり、「妖怪は存在自体が悪。等しく無に還すべきだ」と、一点の曇りもなく信じていた。
+Sensui Shinobu, người từ nhỏ đã mang linh lực phi thường, khi còn rất trẻ đã được Linh giới bổ nhiệm làm Thám tử Linh giới, liên tục bảo vệ thế giới loài người và Linh giới khỏi lũ yêu quái từ Ma giới. **Sensui là kẻ tôn thờ công lý với mức thanh sạch lệch hẳn khỏi bình thường**, tin không một gợn mây rằng "yêu quái tự thân sự tồn tại đã là ác. Tất cả đều phải trở về hư vô như nhau".
 
-だが、ある任務の最中、仙水は決して見てはならない光景を目撃してしまう。\
-それは、彼がこれまで信じてきた価値観を根底から粉砕する、この世のものとは思えぬ悪の宴だった。**正義であるはずの人間が、欲望のままに妖怪を弄もてあそび、貪むさぼり、踏みにじり、嬲なぶりものにしていたのである。そこにあったのは、妖怪の邪悪さではなく、人間の底知れぬ醜悪さそのものだった。**
+Nhưng trong một lần làm nhiệm vụ, Sensui đã tận mắt chứng kiến một cảnh tượng lẽ ra anh tuyệt đối không được thấy.\
+Đó là một bữa tiệc của cái ác, thứ nghiền nát từ tận gốc những giá trị mà anh đã tin đến nay. **Chính loài người - lẽ ra phải là hiện thân của chính nghĩa - lại tùy dục vọng mà đùa bỡn, ngấu nghiến, chà đạp, hành hạ yêu quái. Thứ ở đó không phải sự tà ác của yêu quái, mà chính là vẻ xấu xí vô đáy của con người.**
 
-<span class="dark-incident-box__big">仙水「うわあああああああああああ」</span>
+<span class="dark-incident-box__big">Sensui: "Aaaaaaaaaaaaaaaaaa!"</span>
 
-**その瞬間、仙水の中で何かが決定的に壊れた。\
-彼は、そこにいたすべての人間を殺した。**
+**Trong khoảnh khắc đó, có thứ gì đó bên trong Sensui đã vỡ hẳn.\
+Anh giết sạch toàn bộ đám người có mặt ở đó.**
 
-<span class="dark-incident-box__big">仙水「ここに人間はいなかった。1人もな」</span>
+<span class="dark-incident-box__big">Sensui: "Ở đây vốn chẳng có con người nào cả. Không một ai."</span>
 
-人間こそが悪なのではないか。守るべき存在などではなく、むしろ滅ぼされるべきものではないのか。\
-その疑念はやがて確信へと変わり、仙水は人間そのものに断罪を下すようになっていく。そして、ある日忽然こつぜんと姿を消した。人間がこれまで積み重ねてきた最悪最凶の罪が、何万時間にもわたって記録された霊界の極秘資料、禁断のビデオテープ**「黒の章」**を奪い去って。
+Chẳng phải chính con người mới là cái ác sao? Chẳng phải thứ cần bị hủy diệt lại là loài người, chứ không phải đối tượng phải bảo vệ sao?\
+Nỗi ngờ vực ấy rồi biến thành xác tín, và Sensui bắt đầu tuyên án lên chính loài người. Sau đó, vào một ngày nọ, anh đột ngột biến mất, cướp đi cuộn băng cấm **"Hắc Chương" (黒の章)** - tư liệu tuyệt mật của Linh giới ghi lại suốt hàng chục nghìn giờ những tội ác tồi tệ nhất, hung bạo nhất mà loài người từng chồng chất.
 
-それから10年後。仙水は、新たな霊界探偵・浦飯幽助うらめしゆうすけ(主人公)とその仲間達の前に再び姿を現した。
+Mười năm sau. Sensui một lần nữa xuất hiện trước mặt vị thám tử Linh giới mới là Urameshi Yusuke (nhân vật chính) cùng những đồng đội của cậu.
 
-<span class="dark-incident-box__big">人間は存在自体が悪。\
-その罪を償わせなければならない。</span>
+<span class="dark-incident-box__big">Loài người tự thân sự tồn tại đã là ác.\
+Chúng phải chuộc tội của mình.</span>
 
-仙水は、人間そのものを裁くために帰ってきたのだった。
+Sensui trở về là để phán xét chính loài người.
 
-<span class="dark-incident-box__big">幽助「トチ狂ったそうだな？」</span>
+<span class="dark-incident-box__big">Yusuke: "Nghe nói mày hóa điên rồi à?"</span>
 
-<span class="dark-incident-box__big">仙水「真実に目覚めたのさ」</span>
+<span class="dark-incident-box__big">Sensui: "Tao chỉ thức tỉnh trước chân lý thôi."</span>
 
-霊界の長：閻魔えんま大王の息子であるコエンマが幽助に告げる。\
-「奴は手強い。一度動き出した仙水は目的を果たすまで決して止まらない。」
+Koenma, con trai của Đại Vương Enma - kẻ đứng đầu Linh giới - nói với Yusuke:\
+"Hắn rất khó đối phó. Một khi Sensui đã bắt đầu chuyển động thì trước lúc hoàn thành mục đích, hắn tuyệt đối không dừng lại." 
 
-<span class="dark-incident-box__big">ぶつかり合うのは、善と悪ではない。\
-互いに譲れない、二つの正義。</span>
+<span class="dark-incident-box__big">Thứ va chạm nhau không phải thiện và ác.\
+Mà là hai thứ chính nghĩa, không bên nào chịu nhường.</span>
 
-仙水は、10年の間に、幽助の師：幻海ですら到達できなかった究極の闘気「聖光気」をその身に宿していた。人間でありながらA級妖怪をはるかに超え、魔界最強のS級妖怪と同格の力を手にしていたのである。
+Trong 10 năm đó, Sensui đã mang vào thân mình cực hạn đấu khí mang tên **Thánh quang khí (聖光気)**, thứ mà ngay cả sư phụ của Yusuke là Genkai cũng chưa thể chạm tới. Dù là con người, hắn đã vượt xa yêu quái cấp A, nắm trong tay sức mạnh ngang hàng với yêu quái cấp S mạnh nhất Ma giới.
 
-かつて人間界と霊界を守っていた最強の男は、今や人間界と霊界の前に立ちはだかる最悪最強の敵となった。幽助は仙水の凶行を止めるべく挑む。しかし、B級妖怪並の霊力しか持たない幽助にとって、S級の仙水はあまりにも別次元であった。抗あらがう術すべもないまま、幽助はあっけなく殺された。
-
-</div>
+Người đàn ông mạnh nhất từng bảo vệ thế giới loài người và Linh giới, giờ đây lại thành kẻ địch hung ác và mạnh nhất chắn ngang trước chính hai thế giới đó. Yusuke đứng ra ngăn tội ác của Sensui. Nhưng với Yusuke - kẻ chỉ có linh lực ngang yêu quái cấp B - Sensui cấp S là một tồn tại ở chiều không gian hoàn toàn khác. Không còn cách nào chống cự, Yusuke bị giết dễ dàng.
 
 </div>
 
-### 自分の内面に潜む危険な影
+</div>
 
-当時の自分は、普段から<span class="bold-red"><span class="fz-20px">「法律もルールも糞食らえ」「学校や社会のルールの抜け穴を突いてやる」「屁理屈でルールを論理的に無効化してやる」</span></span>といった思考回路にあった。
+### Bóng tối nguy hiểm ẩn trong nội tâm tôi
 
-そんな自分の自己評価は
+Hồi đó, tư duy thường ngày của tôi vốn đã là kiểu <span class="bold-red"><span class="fz-20px">"luật pháp với quy tắc thì ăn cứt hết đi", "tao sẽ moi bằng được lỗ hổng trong luật lệ của nhà trường và xã hội", "tao sẽ dùng ngụy biện để vô hiệu hóa quy tắc bằng logic"</span></span>.
 
-<span class="bold-red"><span class="fz-22px">「自分って、正義感が全くない人間だなあ(笑)」</span></span>
+Thành ra, cách tôi tự đánh giá mình là:
 
-だからこそ
+<span class="bold-red"><span class="fz-22px">"Mình đúng là loại người đéo có chút tinh thần chính nghĩa nào nhỉ (cười)."</span></span>
 
-<span class="bold-red"><span class="fz-24px">「<span class="bold-red"><span class="fz-24px">正義感の強い人間は</span></span>、</span></span><span class="bold-red"><span class="fz-24px">自分の価値観と真逆の現実に直面した時、狂気へと反転してしまうものなのか？」</span></span>
+Chính vì thế, tôi mới xoáy đi xoáy lại vào những suy tưởng kiểu:
 
-といった思索を巡らせていた。
+<span class="bold-red"><span class="fz-24px">"Phải chăng <span class="bold-red"><span class="fz-24px">một con người có tinh thần chính nghĩa quá mạnh</span></span>,</span></span><span class="bold-red"><span class="fz-24px"> khi đối diện với một hiện thực trái ngược hoàn toàn với hệ giá trị của mình, sẽ đảo ngược thành cơn điên loạn?"</span></span>
 
-「所詮は漫画の話」と自分に言い聞かせつつも、思考の連鎖は止まらなかった。
+Tôi vẫn tự nhủ với mình rằng "suy cho cùng cũng chỉ là truyện tranh thôi", nhưng chuỗi suy nghĩ ấy không chịu dừng lại.
 
-<span class="bold-red"><span class="fz-24px">「もし『黒の章』が実在していたら、何が記録されている？」</span></span>\
-<span class="bold-red"><span class="fz-24px">「人間が犯してきた最悪最凶の罪って何だ？」</span></span>\
-<span class="bold-red"><span class="fz-24px">「戦争？虐殺？拷問？レイプ？」</span></span>\
-<span class="bold-red"><span class="fz-24px">「これ以上の悪なんて存在するのか？」</span></span>\
-<span class="bold-red"><span class="fz-24px">「自分で人類最強の拷問を生み出せないかな？」</span></span>
+<span class="bold-red"><span class="fz-24px">"Nếu Hắc Chương thực sự tồn tại, trong đó sẽ ghi lại thứ gì?"</span></span>\
+<span class="bold-red"><span class="fz-24px">"Tội ác tồi tệ nhất, hung bạo nhất mà loài người từng gây ra là gì?"</span></span>\
+<span class="bold-red"><span class="fz-24px">"Chiến tranh? Thảm sát? Tra tấn? Hiếp dâm?"</span></span>\
+<span class="bold-red"><span class="fz-24px">"Liệu còn tồn tại cái ác nào vượt quá những thứ đó không?"</span></span>\
+<span class="bold-red"><span class="fz-24px">"Liệu mình có thể tự tạo ra cực hình mạnh nhất của nhân loại không?"</span></span>
 
-正義感が皆無で、延々と「悪」ばかり考えている――。
+Không có tinh thần chính nghĩa, lại cứ nghĩ mãi không thôi về "cái ác"...
 
-**自分は、自分自身の内面に潜む危うさに気付き始めていた。**
+**Tôi đã bắt đầu nhận ra sự nguy hiểm đang nằm phục trong chính nội tâm mình.**
 
-<span class="bold-red"><span class="fz-22px">「自分って、一歩間違えると、とんでもなくヤバい方向に行くのではないか？」</span></span>
+<span class="bold-red"><span class="fz-22px">"Chẳng phải chỉ cần đi lệch một bước thôi là mình sẽ rơi vào một hướng cực kỳ kinh khủng sao?"</span></span>
 
-## 頂点への無関心――学力と進路の乖離
+## Sự thờ ơ với đỉnh cao - Độ lệch giữa học lực và con đường tương lai
 
-定期試験や外部模試の校内順位は、国語や社会が足を引っ張っていたため、**240人中5～10位**に留まることが多かったが、1位だったことも数回あった。**数学だけなら常に1,2番**を争う位置におり、順位以前に**「満点」**であることが多かった。
+Trong các kỳ thi định kỳ và các đợt thi thử bên ngoài, thứ hạng của tôi trong trường thường chỉ dừng ở **hạng 5 đến 10 trên 240 học sinh** vì môn quốc ngữ và xã hội kéo tụt xuống, dù cũng có vài lần tôi đứng thứ nhất. Nhưng nếu chỉ tính riêng toán thì tôi luôn ở vị trí tranh chấp hạng 1 hoặc 2, và trước cả chuyện xếp hạng, thứ hiện ra thường xuyên hơn là **"điểm tuyệt đối"**.
 
-小学校の頃から、英検合格を目指して英会話スクールAEONにも通っていた。**小学4年時に英検4級、中学1年時に英検3級、中学2年時に英検準2級に合格**した。その後、2級合格にも挑んだが二度敗退。高校進学後は英検2級を取得する意味も薄れ、結局、2級は取得していない。
+Từ hồi tiểu học, để hướng tới việc đỗ các kỳ thi Eiken, tôi còn học ở trường hội thoại tiếng Anh AEON. **Năm lớp 4 tiểu học tôi đỗ Eiken cấp 4, năm đầu trung học cơ sở đỗ cấp 3, và năm thứ hai trung học cơ sở đỗ dự bị cấp 2.** Sau đó tôi cũng thử thi cấp 2 nhưng trượt hai lần. Lên cao trung rồi thì việc lấy Eiken cấp 2 cũng chẳng còn nhiều ý nghĩa, nên rốt cuộc tôi không bao giờ đỗ cấp đó.
 
-中学3年2学期の定期試験の数学において、一番最後に膨大な計算量を要求される難問が出題された。試験終了ギリギリまで計算を続け、何とか答えに辿り着いた。絶対に間違っていると思いながら解答欄を埋めたが、結果は正解。その試験で満点を獲得したのは、自分だけであった。非常に印象的だったので、今でも答えが 61/6 であった事を覚えている。
+Trong kỳ thi định kỳ học kỳ hai năm lớp 9, có một bài toán cực khó ở câu cuối cùng đòi hỏi lượng tính toán khổng lồ. Tôi tính tới tận những giây cuối cùng của bài thi và cuối cùng cũng lần ra được đáp án. Tôi điền vào ô trả lời với tâm trạng tin chắc là mình sai, vậy mà kết quả lại đúng. Trong bài kiểm tra đó, người duy nhất đạt điểm tuyệt đối chính là tôi. Ấn tượng quá mạnh nên đến giờ tôi vẫn nhớ đáp án là 61/6.
 
-**地方都市において、高校受験は人生初の「選別」の場**となる。しかし、受験生となった自分に、<span class="bold-red"><span class="fz-22px">学歴や進路に対する向上心は皆無</span></span>であった。「朝は一分でも長く寝ていたい」というだけの理由から、自宅からほど近い距離にある氷見高校を第一志望に据すえていた。
+**Ở một thành phố tỉnh lẻ, kỳ thi vào cao trung chính là sân khấu "phân loại" đầu tiên của đời người.** Thế nhưng khi trở thành thí sinh, trong tôi lại <span class="bold-red"><span class="fz-22px">không hề tồn tại bất kỳ ý chí vươn lên nào với học lịch hay con đường tương lai</span></span>. Chỉ vì muốn buổi sáng được ngủ thêm dù chỉ một phút, tôi từng đặt nguyện vọng một là trường Himi, nằm khá gần nhà.
 
-しかし、担任の先生の説得を受けて<span class="bold-red"><span class="fz-20px">志望校を富山県立高岡高校に変更</span></span>、倍率は1.2倍ほどで、特に波乱もなく合格した。
+Nhưng sau khi được giáo viên chủ nhiệm thuyết phục, tôi <span class="bold-red"><span class="fz-20px">đổi nguyện vọng sang Trường THPT Takaoka tỉnh Toyama</span></span>. Tỷ lệ chọi khoảng 1,2, và tôi đỗ mà không gặp biến động gì đặc biệt.
 
 <figure class="wp-block-image aligncenter size-full">
 <img src="https://examist.jp/wp-content/uploads/A7T07122.jpg" class="wp-image-31830" loading="lazy" decoding="async" width="1024" height="576" />
-<figcaption>富山県立高岡高校（4月）</figcaption>
+<figcaption>Trường THPT Takaoka tỉnh Toyama (tháng 4)</figcaption>
 </figure>
 
-## 高岡高校時代――急激に変わりゆく人格
+## Thời THPT Takaoka - Nhân cách đổi khác dữ dội
 
-氷見駅から、1時間に1本しかない氷見線に乗り、30分の通学。
+Từ ga Himi, tôi lên tuyến Himi chỉ có đúng một chuyến mỗi giờ, đi học mất 30 phút.
 
-車窓には、**世界でも稀有けうな「海越しに望む3000m級の山々」を擁する、全国屈指の景勝地：雨晴あまはらし海岸**が広がる。晴天の日には、海越しの立山連峰が拝めるが、当たり前の光景すぎて誰も気にしない。
+Ngoài cửa sổ tàu là **bãi biển Amaharashi (雨晴海岸), một thắng cảnh vào hàng bậc nhất cả nước, nơi hiếm hoi trên thế giới có thể nhìn thấy những dãy núi cao 3000m từ bên kia mặt biển**. Vào ngày trời quang, người ta có thể ngắm dãy Tateyama bên kia biển, nhưng vì đó là phong cảnh quá đỗi hiển nhiên nên chẳng ai thèm để ý.
 
 <figure class="wp-block-image aligncenter size-full">
 <img src="https://examist.jp/wp-content/uploads/A7T00384-1.jpg" class="wp-image-31728" decoding="async" />
-<figcaption>雨晴海岸を通過するハットリ君電車と海越しの立山連峰（1月）</figcaption>
+<figcaption>Tàu Hattori-kun chạy ngang bãi biển Amaharashi và dãy Tateyama nhìn qua mặt biển (tháng 1)</figcaption>
 </figure>
 
-高岡高校の最寄り駅である越中中川駅周辺には、複数の私立高校も集中している。その1つに通う、中学時代からの親友と一緒の通学は楽しかった。
+Xung quanh ga Etchu-Nakagawa, ga gần trường Takaoka nhất, còn tập trung nhiều trường tư thục khác. Việc đi học cùng người bạn thân từ thời trung học cơ sở, vốn học ở một trong số các trường đó, là một khoảng thời gian rất vui.
 
-**高校時代、塾などの習い事は一切なし。**名目上は英会話部に籍を置いていたが、実態は中学時と同様の**帰宅部**であった。
+**Suốt thời cao trung, tôi hoàn toàn không học thêm hay đi luyện thi gì cả.** Danh nghĩa thì tôi có tên trong câu lạc bộ hội thoại tiếng Anh, nhưng thực chất cũng như thời trung học cơ sở, tôi chỉ là một đứa **về thẳng nhà**.
 
-放課後は自宅に直帰し、ずっとテレビを見たり、ゲームをしたりしていた。バラエティ番組を好んで視聴したが、特に見たい番組がない時でも、ニュース、ドラマ、映画、スポーツ、アニメなど、何かしらの番組を見ていた。
+Tan học là tôi về nhà ngay, rồi cứ thế xem TV hoặc chơi game suốt. Tôi thích các chương trình giải trí tạp kỹ, nhưng ngay cả khi không có gì thật sự muốn xem, tôi vẫn bật đại một thứ gì đó: thời sự, phim truyền hình, điện ảnh, thể thao, anime, kiểu gì cũng phải có gì đó đang chạy.
 
-<span class="cocoon-custom-text-1"><span class="fz-20px">定期試験では、毎回学年240人中100位前後を推移</span></span>していた。
+<span class="cocoon-custom-text-1"><span class="fz-20px">Ở các kỳ thi định kỳ, thứ hạng của tôi quanh quẩn khoảng hạng 100 trên 240 học sinh mỗi lần.</span></span>
 
-一方、<span class="cocoon-custom-text-1"><span class="fz-20px">国数英だけの校内実力試験や外部模試では、30位前後</span></span>に浮上した。国語が足を引っ張っていただけで、<span class="cocoon-custom-text-1"><span class="fz-20px">進研記述模試では、数学は最高3位、英語は最高9位</span></span>だった。
+Ngược lại, ở các bài thi đánh giá năng lực trong trường hay thi thử bên ngoài chỉ gồm quốc ngữ, toán và tiếng Anh, tôi lại bật lên <span class="cocoon-custom-text-1"><span class="fz-20px">quanh hạng 30</span></span>. Chỉ là môn quốc ngữ kéo chân tôi xuống, chứ trong các kỳ thi tự luận của Shinken, <span class="cocoon-custom-text-1"><span class="fz-20px">toán cao nhất từng đứng thứ 3, tiếng Anh cao nhất từng đứng thứ 9</span></span>.
 
-## 母親に切り落とされかけた指
+## Ngón tay suýt bị mẹ chặt đứt
 
-高校1年生のある日、二階の自室にいた自分は、父親の異様な怒号によって、一階で異変が起きていることを察知した。
+Một ngày nọ vào năm nhất cao trung, khi tôi đang ở phòng riêng trên tầng hai, tiếng gào thét khác thường của bố khiến tôi nhận ra có chuyện bất ổn xảy ra ở tầng một.
 
-階段を駆け下りた先で目にしたのは、<span class="bold-red"><span class="fz-22px">血まみれで泣き叫ぶ、中学生の妹の姿</span></span>であった。
+Thứ đập vào mắt tôi khi lao xuống cầu thang là hình ảnh <span class="bold-red"><span class="fz-22px">đứa em gái đang học cấp 2, mình đầy máu, vừa khóc vừa gào</span></span>.
 
-その傍かたわらでは、**父親が「子供に何しとるんや！」と怒鳴りながら、母親の顔面を殴りつけていた。**後にも先にも、父親が母親に手を上げる光景を見たのは、この時限り。殴打された後も、**母親は「こいつは泥棒や！」といった、意味不明な言動を繰り返していた。**
+Bên cạnh đó, **bố vừa gào "Bà làm cái quái gì với con thế!" vừa đấm thẳng vào mặt mẹ.** Trước đó chưa từng có, sau đó cũng không hề có thêm lần nào, đây là duy nhất lần tôi thấy bố xuống tay với mẹ. Ngay cả sau khi bị đánh, **mẹ vẫn lặp đi lặp lại những câu vô nghĩa kiểu "Con này là đồ ăn trộm!"**
 
-<span class="bold-red"><span class="fz-20px">母親がハサミを持ち出し、妹の指を切り落とそうとして、その親指の付け根を深く切り裂いた</span></span>のだった。幸い、どこにでもある玩具に近いハサミであったため、病院で縫合するのみで済んだ。妹が病院で「自分で切った」と虚偽の申告をしたため、警察沙汰にはならなかった。
+Chuyện đã xảy ra là <span class="bold-red"><span class="fz-20px">mẹ lấy kéo ra, định cắt phăng ngón tay của em gái tôi, và rạch toạc sâu vào tận gốc ngón cái của nó</span></span>. May là cái kéo ấy chỉ là loại kéo phổ thông gần như đồ chơi, nên chỉ cần khâu ở bệnh viện là xong. Vì em tôi khai gian ở bệnh viện rằng "em tự cắt", sự việc cũng không thành chuyện cảnh sát.
 
-「母親」とだけ聞くと体重50kg程度の体格の女性を連想するかもしれないが、自分の母親は体重70～80kgに達する巨漢なので、こんなものが我を忘れて暴れ始めた日には、成人男性2人がかりでも制圧は困難を極める。
+Nghe tới hai chữ "người mẹ", có lẽ các bạn sẽ hình dung một phụ nữ cỡ 50kg. Nhưng mẹ tôi là một người đàn bà béo lớn tới 70-80kg, nên một khi cái thứ ấy mất trí mà lao vào quậy loạn, thì đến hai người đàn ông trưởng thành hợp sức cũng khó mà khống chế nổi.
 
-**<span class="fz-24px">「どうしてこうなった？」</span>**
+**<span class="fz-24px">"Rốt cuộc tại sao lại thành ra thế này?"</span>**
 
-統合失調症のせいなのは、まず間違いない。しかし自分は、さらなる根源的な理由を思索せずにはいられなかった。
+Gần như chắc chắn nguyên nhân là bệnh tâm thần phân liệt. Nhưng tôi không thể không truy tới một lý do còn căn nguyên hơn nữa.
 
-<span class="fz-24px"><span class="bold-red">「そもそもなぜ、統合失調症になったのか」</span></span>
+<span class="fz-24px"><span class="bold-red">"Rốt cuộc vì sao mẹ lại mắc tâm thần phân liệt?"</span></span>
 
-統合失調症は、およそ100人に1人が発症するとされる。当然、「たまたま」統合失調症になった可能性も十分考えられる。
+Người ta nói tâm thần phân liệt phát bệnh ở khoảng 1 trên 100 người. Đương nhiên, khả năng mẹ chỉ đơn giản là "tình cờ" mắc nó hoàn toàn có thể có.
 
-しかし、以前に母親自身から、統合失調症になった理由を<span class="bold-red"><span class="fz-20px">「勉強をしすぎたから」</span></span>と聞かされていたことが、ずっと引っ掛かっていた。そんなことを言われても、**<span class="fz-24px">「は？」</span>**としか思えなかった。
+Thế nhưng có một điều cứ mắc lại trong tôi mãi: trước đây chính miệng mẹ từng nói nguyên nhân mình mắc tâm thần phân liệt là <span class="bold-red"><span class="fz-20px">"vì học quá nhiều"</span></span>. Dù có nghe vậy, phản ứng duy nhất tôi bật ra vẫn chỉ là **<span class="fz-24px">"Hả?"</span>**
 
-### 弱者の本能的選別
+### Sự sàng lọc bản năng nhắm vào kẻ yếu
 
-何が厄介って、精神の均衡を失った人間が他者を襲うとき、その対象が真に無差別であるとは限らない。
+Điều phiền phức là, khi một con người đánh mất thăng bằng tinh thần rồi lao vào tấn công người khác, đối tượng của họ chưa chắc đã thật sự là ngẫu nhiên hoàn toàn.
 
-<span class="bold-red">加害の矛先は、本能的に「自分より弱いもの」へと向けられる。</span>
+<span class="bold-red">Mũi nhọn gây hại sẽ theo bản năng hướng về "thứ yếu hơn mình".</span>
 
-もし母親が自分を襲えば、自分は容赦のない報復を叩き込んでいただろう。正気を失った淵にあっても、その可能性を無意識に嗅ぎ取っているからこそ、報復能力を持たない妹が常に標的になる。
+Nếu mẹ lao vào tôi, có lẽ tôi đã nện trả không chút thương tay. Chính vì ngay cả ở bên bờ vực mất trí, mẹ vẫn vô thức ngửi ra được khả năng đó, nên người luôn trở thành mục tiêu là em gái tôi - kẻ không có khả năng trả đũa.
 
-もし、あの場に父親がいなかったなら――。\
-もし、妹の流血を前にした自分が、論理ではなく激情に支配されていたなら――。
+Nếu lúc ấy không có bố ở đó thì sao?\
+Nếu trước cảnh em gái chảy máu, tôi bị điều khiển không phải bởi logic mà bởi cơn cuồng nộ thì sao?
 
-**自分は、母親を殴り殺していたのではないか。**その可能性がゼロではなかったと、思い返すことがある。
+**Có khi chính tôi đã đánh chết mẹ rồi.** Đôi khi nhìn lại, tôi vẫn nghĩ khả năng đó không phải bằng không.
 
-## 文系科目への敗北と嫌悪
+## Thất bại và sự ghê tởm với các môn xã hội
 
-**国語は、現代文については勉強方法がわからず、学校の授業と宿題以外、ほとんど何もしなかった。古文・漢文も、単語や文法の最低限の暗記をしただけだった。**
+**Với môn quốc ngữ, tôi không biết phải học hiện đại văn như thế nào, nên ngoài giờ học và bài tập ở trường ra thì hầu như chẳng làm gì. Còn cổ văn và Hán văn, tôi cũng chỉ học thuộc tối thiểu từ vựng và ngữ pháp.**
 
-<span class="bold-red">「そもそも古文・漢文なんて理系に必要ないやろ」</span>という不満を抱いていた。その感覚は、現在でも変わっていない。
+Tôi luôn ôm sẵn nỗi bất mãn rằng <span class="bold-red">"ngay từ đầu thì cổ văn với Hán văn có ích chó gì cho dân tự nhiên đâu"</span>. Cảm giác ấy đến giờ vẫn không đổi.
 
-社会は、2年生からは世界史が必修となり、さらに地理と日本史の選択を迫られた。当時の自分は、依然として<span class="bold-red">学業・学歴に対する向上心に乏しく、受験知識も皆無</span>だった。「理系の大半は地理を選択する」という常識すら把握していなかった。
+Đến năm hai cao trung, môn xã hội bắt buộc là lịch sử thế giới, rồi còn phải chọn thêm giữa địa lý và lịch sử Nhật Bản. Khi ấy tôi vẫn <span class="bold-red">thiếu hẳn tham vọng với học hành và học lịch, cũng chẳng có tí kiến thức thi cử nào</span>. Tôi thậm chí còn không biết đến cả thứ thường thức rằng "đa số học sinh khối tự nhiên sẽ chọn địa lý".
 
-自宅には小学生の時にサンタさんに貰った日本史と世界史の漫画の全巻があり、それを愛読していたというだけの安易な理由で、愚かにも**「日本史」を選択**した。担任からは、「暗記量が膨大であり、理系には向かない」と忠告を受けたが、自らの記憶力に自信を抱いていた。
+Ở nhà tôi có đủ bộ manga lịch sử Nhật và lịch sử thế giới mà hồi tiểu học ông già Noel đã tặng. Chỉ vì cái lý do ngu xuẩn là tôi thích đọc đống đó, tôi đã dại dột **chọn "lịch sử Nhật Bản"**. Dù chủ nhiệm đã cảnh báo rằng nó có lượng ghi nhớ khổng lồ và không hợp với dân tự nhiên, tôi vẫn tin vào trí nhớ của mình.
 
-結果、理系の日本史選択者は学年でわずか5人ほど。そして、実際に授業が始まると、ただただ苦痛で、速攻で勉強しなくなった。
+Kết quả là trong cả khối tự nhiên, người chọn lịch sử Nhật chỉ có khoảng 5 đứa. Và khi giờ học thật sự bắt đầu, nó chỉ toàn là đau khổ, đến mức tôi bỏ học môn đó gần như ngay lập tức.
 
 <div style="border:1px solid #ccc; padding:12px 14px; font-size:0.9em; line-height:1.8; background:#fafafa; border-radius:4px;">
 
-鎌倉幕府は、源頼朝が1185年に朝廷から守護・地頭の設置を認められるなどして全国支配の基盤を築き、1192年に征夷大将軍に任じられたことで体制を整えた、日本最初の本格的な武家政権である。侍所・政所・問注所を中央機構とし、将軍と御家人が御恩と奉公で結ばれる主従関係を基盤とした。頼朝の死後は北条氏が執権として実権を握り、承久の乱後には六波羅探題を設置して朝廷の監視と西国支配を強めた。しかし、元寇が防衛戦で新たな領地を獲得できなかったため御家人に十分な恩賞を与えられず、御家人の困窮も進んだことで、幕府の求心力は次第に低下していった。
+Mạc phủ Kamakura là chính quyền võ sĩ thực thụ đầu tiên của Nhật Bản. Minamoto no Yoritomo đã xây dựng nền tảng thống trị toàn quốc khi vào năm 1185 được triều đình cho phép đặt ra các chức shugo và jito, rồi hoàn chỉnh bộ máy vào năm 1192 khi được phong làm Chinh di Đại tướng quân. Cơ cấu trung ương gồm Samurai-dokoro, Mandokoro và Monchujo, lấy quan hệ chủ tớ giữa shogun và gokenin gắn với ân thưởng và phụng sự làm nền tảng. Sau khi Yoritomo chết, gia tộc Hojo nắm thực quyền với tư cách shikken; sau loạn Jokyu, họ lập Rokuhara Tandai để siết việc giám sát triều đình và cai trị miền Tây. Nhưng vì các cuộc xâm lăng Nguyên Mông là chiến tranh phòng thủ nên không có lãnh địa mới để ban thưởng đầy đủ cho gokenin, lại thêm cảnh khốn quẫn của gokenin ngày càng sâu, nên lực hút trung tâm của mạc phủ dần dần suy yếu.
 
 </div>
 
-**<span class="fz-22px">「何百年も前の話を暗記して何が面白いねん」</span>**
+**<span class="fz-22px">"Học thuộc chuyện của mấy trăm năm trước thì có cái đéo gì vui chứ"</span>**
 
-期末試験では、選択問題だけを適当に答えて9点だった。漫画が好きだっただけで、日本史そのものが好きだったわけではなかったことに気付き、「あ～、地理をとっておくべきだった･･･(泣)」と後悔した。
+Trong bài thi cuối kỳ, tôi trả lời đại mỗi phần trắc nghiệm và được 9 điểm. Tôi nhận ra rằng mình chỉ thích manga lịch sử chứ không hề thích bản thân môn lịch sử Nhật, rồi ngồi hối hận: "A a, lẽ ra mình nên chọn địa lý mới phải..." (khóc).
 
-中学生のときは、漠然と「国語や社会がちょっと苦手かな」と感じる程度だった。しかし、この頃から<span class="bold-red"><span class="fz-20px">文系科目に対して、単なる苦手意識や興味が湧かないというレベルではない、根本的な苦痛や生理的な嫌悪感のようなものを感じる</span></span>ようになった。
+Hồi cấp 2, tôi chỉ cảm thấy mơ hồ kiểu như "chắc mình hơi yếu môn quốc ngữ với xã hội nhỉ". Nhưng chính từ khoảng thời gian này, tôi bắt đầu cảm thấy với các môn xã hội một thứ <span class="bold-red"><span class="fz-20px">không còn đơn giản là yếu hay không hứng thú, mà giống một nỗi đau tận gốc hay sự ghê tởm mang tính sinh lý</span></span>.
 
-ここに来て、<span class="cocoon-custom-text-1">文系科目は「やる気が出ない」→「点が取れない」→「やる気が出ない」という恐怖の永久機関が完成した。</span>
+Đến lúc này, ở các môn xã hội đã hoàn thành một cỗ máy vĩnh cửu kinh hoàng: <span class="cocoon-custom-text-1">"không có động lực" → "không lấy được điểm" → "không có động lực".</span>
 
-## 東大数学科卒教師との静かな衝突
+## Va chạm lặng lẽ với người thầy tốt nghiệp khoa Toán Đại học Tokyo
 
-**高校2年生の時、東大数学科卒の男性教師が担任になった。**\
-この先生は、<span class="bold-red"><span class="fz-22px">「本質を掴つかむことが重要だ」</span></span>と説いていた。
+**Năm hai cao trung, chủ nhiệm của tôi là một giáo viên nam tốt nghiệp khoa Toán Đại học Tokyo.**\
+Thầy luôn giảng rằng <span class="bold-red"><span class="fz-22px">"điều quan trọng là phải nắm được bản chất"</span></span>.
 
-ある数学の授業中、自分は机の上に教科書だけを置き、腕を組みながら板書を眺めていた。巡回を始めた教師が、自分の手元にノートがないことに気付き、歩み寄ってきた。
+Trong một giờ toán, tôi chỉ đặt đúng quyển sách giáo khoa lên bàn rồi khoanh tay nhìn bảng. Thầy bắt đầu đi xuống lớp, phát hiện trước mặt tôi không hề có quyển vở nào, rồi tiến lại gần.
 
-先生　「ノートはどうした？」\
-<span class="bold-green">自分　「ないです」</span>\
-先生　「なぜないのか」\
-<span class="bold-green">自分　「必要ないから」</span>\
-先生　「必要ないって、お前は一番か(怒)」\
-<span class="bold-green">自分　「いや、一番というわけでは･･･(苦笑)」</span>
+Thầy: "Vở đâu rồi?"\
+<span class="bold-green">Tôi: "Em không có ạ."</span>\
+Thầy: "Tại sao lại không có?"\
+<span class="bold-green">Tôi: "Vì em không cần."</span>\
+Thầy: "Không cần á? Mày đứng nhất chắc?" (cáu)\
+<span class="bold-green">Tôi: "Không, cũng không hẳn là đứng nhất..." (cười khổ)</span>
 
-自分には、なぜ先生が激昂げきこうしているのか、その理由が全く理解できなかった。それどころか、**周囲の同級生たちがなぜ一心不乱にノートを取っているのか、その行為自体に強い違和感を抱いていた。**
+Tôi hoàn toàn không hiểu nổi vì sao thầy lại nổi giận dữ dội như vậy. Không chỉ thế, **bản thân việc đám bạn xung quanh cắm đầu cắm cổ ghi chép lấy ghi chép để cũng khiến tôi thấy cực kỳ khó chịu.**
 
-中学時代には、あれほど執着して「可愛らしいノート」を作っていた。しかし、高校生になって気付いた。
+Hồi trung học cơ sở, tôi từng cố chấp đến thế với việc tạo ra "những cuốn vở đáng yêu". Nhưng rồi khi lên cao trung, tôi nhận ra một điều.
 
-**<span class="fz-28px">「意味ねーな、これ」</span>**
+**<span class="fz-28px">"Cái này đéo có nghĩa lý gì cả."</span>**
 
-どれほど美麗なノートを仕上げようとも、それは単なる「作業」であって「学習」ではない。当然、試験の得点に直結しない。<span class="bold-red">普段からノートを見返し、その内容の理解と暗記をしなければ意味がない。</span>
+Dù có làm ra một quyển vở đẹp đến đâu, thì đó cũng chỉ là "lao động tay chân" chứ không phải "học". Dĩ nhiên nó không trực tiếp kéo điểm thi lên được. <span class="bold-red">Nếu bình thường không lôi vở ra xem lại, không hiểu và không học thuộc nội dung của nó, thì nó chẳng có ý nghĩa gì.</span>
 
-ならば、「ノートを作って見返せばいいではないか」という反論があるだろう。一般論としてはその通りなのだが、自分の場合、<span class="bold-red">自作ノートを見返す気が全く起こらなかった。</span>
+Dĩ nhiên sẽ có người phản bác rằng: "Thì cứ làm vở xong rồi xem lại là được mà?" Về mặt lý thuyết chung thì đúng. Nhưng với tôi, <span class="bold-red">tôi hoàn toàn không hề có nổi ý muốn xem lại chính cuốn vở do mình tự làm.</span>
 
-### 審美性の呪縛と「解法暗記」の確立
+### Lời nguyền của mỹ cảm và sự xác lập của "học thuộc cách giải"
 
-中学で芽生えたフォントへの希求は、高校生になると、<span class="bold-red">「手書き文字全般に対する生理的嫌悪感」</span>のレベルにまで変貌を遂げていた。
+Khao khát với phông chữ nảy ra từ thời trung học cơ sở, lên cao trung đã biến thành cấp độ <span class="bold-red">"sự ghê tởm mang tính sinh lý với toàn bộ chữ viết tay"</span>.
 
-洗練されたレイアウトや美しい活字でなければ、読む意欲が根底から削そがれてしまう。
+Nếu không phải một bố cục được mài giũa và kiểu chữ in đẹp đẽ, thì ngay từ gốc tôi đã mất sạch ý muốn đọc nó.
 
-<span class="bold-red"><span class="fz-24px">自作ノートも教師の板書も見るに耐えない。</span></span>
+<span class="bold-red"><span class="fz-24px">Cả vở tự làm lẫn chữ giáo viên viết bảng đều khiến tôi không tài nào nhìn nổi.</span></span>
 
-**<span class="fz-20px">「なぜ、板書の内容が最初から教科書に印刷されていないのか」</span>**
+**<span class="fz-20px">"Tại sao nội dung viết bảng không được in sẵn trong sách giáo khoa ngay từ đầu?"</span>**
 
-そんな不満を抱きながら、自分は授業中、<span class="bold-red">『チャート式』を眺め、いわゆる「解法暗記」をひたすら行っていた。</span>
+Ôm nỗi bất mãn ấy, trong giờ học tôi cứ <span class="bold-red">chằm chằm nhìn bộ `Chart` và mải miết làm cái gọi là "học thuộc cách giải".</span>
 
-計算力には絶対的な自信があったため、解答の論理構成さえ頭の中でイメージできれば、式を紙に書き出すことは無駄な手間でしかなかった。
+Vì tôi có sự tự tin tuyệt đối vào năng lực tính toán, chỉ cần có thể hình dung được cấu trúc logic của lời giải trong đầu thì việc lôi công thức ra viết lên giấy chẳng qua chỉ là thứ phiền phức thừa thãi.
 
-<span class="cocoon-custom-text-1">高校以降、数学のみならず、物理や化学においても、紙面上で試行錯誤した記憶がほとんどない。</span>ルーズリーフは持っていたが、ノートに至っては持ってすらいなかった。数学も物理・化学も、英単語の暗記と同じ感覚だった。
+<span class="cocoon-custom-text-1">Kể từ cao trung trở đi, không chỉ toán mà cả vật lý và hóa học, tôi gần như chẳng có ký ức nào về việc thử sai trên mặt giấy.</span> Tôi có mang loose-leaf, nhưng đến cả vở thì tôi còn chẳng buồn có. Với tôi, toán, vật lý và hóa học cũng cùng một cảm giác như học thuộc từ vựng tiếng Anh.
 
-自宅での学習風景も異様であった。<span class="bold-red">バラエティ番組を視聴して笑いながら、30％程度の集中力で問題集やその解答を眺め、解法を脳内に転写していく。</span>
+Khung cảnh học ở nhà của tôi cũng quái dị hết mức. <span class="bold-red">Vừa xem chương trình tạp kỹ vừa cười, với mức tập trung chừng 30%, tôi lướt qua sách bài tập và đáp án của nó, rồi chép phương pháp giải vào trong não.</span>
 
-このような学習方法であったため、<span class="cocoon-custom-text-1">勉強と娯楽の境界線は存在せず、「一日何時間勉強していたか」という問いには答えようがない。</span>静寂がかえって苦痛であったため、図書館や自習室を利用したことも一度としてない。
+Chính vì phương pháp học kiểu đó, <span class="cocoon-custom-text-1">giữa học tập và giải trí không hề tồn tại đường biên, đến mức câu hỏi "mỗi ngày mày học bao nhiêu tiếng" là thứ tôi không thể trả lời.</span> Vì sự yên tĩnh còn khiến tôi đau khổ hơn, nên tôi chưa từng một lần sử dụng thư viện hay phòng tự học.
 
-やがて、自分の数学の成績が上位であることがわかると、教師も何も言わなくなった。
+Rồi đến khi giáo viên nhận ra thành tích toán của tôi thuộc nhóm đầu, thầy cũng không nói gì nữa.
 
-### 本質を説く教師が見落とした本質
+### Bản chất mà người thầy giảng về bản chất đã bỏ sót
 
-表面に現れていた事象は
+Hiện tượng lộ ra trên bề mặt là:
 
-<span class="fz-24px"><span class="bold-red">ノートを取らない生徒</span></span>
+<span class="fz-24px"><span class="bold-red">một học sinh không ghi chép</span></span>
 
-しかし、本質を重視していた東大卒の教師でさえ、**<span class="fz-20px">「そもそもなぜ、この生徒はノートを取らないのか」</span>**という根源的な理由を考えようとはしなかった。
+Nhưng ngay cả người thầy tốt nghiệp Đại học Tokyo, kẻ vẫn luôn coi trọng bản chất, cũng chưa từng thử nghĩ đến cái lý do tận gốc rằng **<span class="fz-20px">"rốt cuộc vì sao học sinh này lại không ghi chép"</span>**.
 
-そして、あまりに重大な本質は見落とされた。
+Và vì thế, một bản chất quá đỗi quan trọng đã bị bỏ sót.
 
-ただ、それも致し方のないこと。まさか、<span class="bold-red">この事象のとてつもなく深いところに、驚くべき本質が隠れていようなど、当時の高校教師が洞察できるはずもなかった。</span>
+Dĩ nhiên điều đó cũng khó trách. Bởi vào thời điểm ấy, không đời nào một giáo viên cao trung có thể nhìn thấu rằng <span class="bold-red">ở tận tầng sâu khủng khiếp phía dưới hiện tượng này đang ẩn giấu một bản chất kinh người đến thế.</span>
 
-## 言葉を奪う知性――論理という檻おり
+## Trí tuệ cướp mất ngôn từ - Cái lồng mang tên logic
 
-**高校2年生になっても、進学や進路に対する意識は皆無に等しかった。**自分の学力的な立ち位置を客観視しようとも思わず、「行ける大学に行けばいい、さすがに富山大学には行けるやろ」という、冷めた感覚の中にいた。
+**Ngay cả khi đã lên năm hai cao trung, ý thức về chuyện học lên hay hướng đi tương lai trong tôi vẫn gần như bằng không.** Tôi cũng chẳng buồn nhìn vị trí học lực của mình một cách khách quan, chỉ sống trong cảm giác lạnh tanh rằng: "đại học nào vào được thì vào, chứ cùng lắm chắc cũng đỗ Toyama University thôi".
 
-転機は、<span class="cocoon-custom-text-1">2年生の夏に行われた担任との二者面談</span>であった。ここで自分は、初めて<span class="bold-red">日本の国立大学(医学部以外の理系)の序列</span>を知ることとなった。
+Bước ngoặt xuất hiện ở <span class="cocoon-custom-text-1">cuộc phỏng vấn hai người giữa tôi và chủ nhiệm vào mùa hè năm hai</span>. Tại đó, lần đầu tiên tôi mới biết tới <span class="bold-red">thứ bậc các đại học quốc lập ở Nhật (khối tự nhiên, trừ y khoa)</span>.
 
 <style>
 .univ-rank-box {
@@ -1876,65 +1873,65 @@ $`E=mc^2`$ は、その恐るべき原理を理論的に裏付けていた。
 
 <div class="univ-rank-box">
 
-1.  <span class="univ-rank-num">1</span> <span class="univ-rank-name">東京大学</span> <span class="univ-rank-note super">超難関</span>
-2.  <span class="univ-rank-num">2</span> <span class="univ-rank-name">京都大学</span> <span class="univ-rank-note super">超難関</span>
-3.  <span class="univ-rank-num">3</span> <span class="univ-rank-name">東京工業大学<span style="font-size:0.9em;">（現：東京科学大学）</span></span> <span class="univ-rank-note super">超難関</span>
-4.  <span class="univ-rank-num">4</span> <span class="univ-rank-name">大阪大学</span> <span class="univ-rank-note high">難関上位</span>
-5.  <span class="univ-rank-num">5</span> <span class="univ-rank-name">名古屋大学</span> <span class="univ-rank-note high">難関上位</span>
+1.  <span class="univ-rank-num">1</span> <span class="univ-rank-name">Đại học Tokyo</span> <span class="univ-rank-note super">siêu khó</span>
+2.  <span class="univ-rank-num">2</span> <span class="univ-rank-name">Đại học Kyoto</span> <span class="univ-rank-note super">siêu khó</span>
+3.  <span class="univ-rank-num">3</span> <span class="univ-rank-name">Viện Công nghệ Tokyo<span style="font-size:0.9em;"> (nay là Đại học Khoa học Tokyo)</span></span> <span class="univ-rank-note super">siêu khó</span>
+4.  <span class="univ-rank-num">4</span> <span class="univ-rank-name">Đại học Osaka</span> <span class="univ-rank-note high">khó hàng đầu</span>
+5.  <span class="univ-rank-num">5</span> <span class="univ-rank-name">Đại học Nagoya</span> <span class="univ-rank-note high">khó hàng đầu</span>
 
 </div>
 
 　
 
-担任からは、「優れた教育・研究環境がある東大を目指すべきだ」と説得された。しかし、校内成績や外部模試の結果から、「自分は文系科目の成績が悪く、東大は無理だろう」という認識があった。
+Chủ nhiệm thuyết phục tôi rằng "em nên nhắm tới Đại học Tokyo, nơi có môi trường giáo dục và nghiên cứu vượt trội". Nhưng nhìn vào điểm số trong trường và kết quả thi thử bên ngoài, tôi hiểu rằng "các môn xã hội của mình quá tệ, chắc Đại học Tokyo là bất khả thi".
 
-一方で、首都・東京への強い憧れがあり、最初から関西や中京という選択肢は志向の外にあった。必然的に、この時初めて存在を知った「東工大」(地方では無名)への想いが強くなっていった。
+Mặt khác, tôi lại có một nỗi khát khao rất mạnh với thủ đô Tokyo, nên ngay từ đầu các lựa chọn như Kansai hay Chukyo đã nằm ngoài gu của tôi. Vì thế, tình cảm dành cho "Viện Công nghệ Tokyo" - một cái tên lần đầu tôi biết tới lúc ấy, và ở tỉnh lẻ thì gần như vô danh - cứ thế lớn dần.
 
-<span class="bold-red">「東京にあり、超難関国立大でありながら2次記述試験に国語がない」</span>という事実は、自分にとって衝撃であった。
+Sự thật rằng <span class="bold-red">"nó nằm ở Tokyo, là đại học quốc lập siêu khó, vậy mà kỳ thi tự luận vòng hai lại không có môn quốc ngữ"</span> là một cú sốc với tôi.
 
-<span class="fz-28px"><span class="bold-blue">「自分のためにある大学やん」</span></span>
+<span class="fz-28px"><span class="bold-blue">"Đây chẳng phải trường sinh ra dành cho mình sao."</span></span>
 
-直感的にそう確信した自分は、**この時初めて「東工大」という具体的な目標を視界に捉えた。**
+Tin chắc như thế bằng trực giác, **lần đầu tiên trong đời tôi thật sự nhìn thấy một mục tiêu cụ thể mang tên Viện Công nghệ Tokyo.**
 
-### 20分の沈黙――言葉が出口を失った日
+### Hai mươi phút im lặng - Ngày ngôn từ đánh mất lối ra
 
-ていうような進路の話は、ぶっちゃけどうでもいい。
+Mà nói thật, mấy chuyện hướng đi tương lai ấy thực ra cũng chẳng quan trọng đến thế.
 
-実は、この面談の時、**恐ろしい事態**が発生していた。
+Sự thật là ngay trong buổi phỏng vấn đó, **một tình huống đáng sợ** đã xảy ra.
 
-当然、担任からは「志望はあるのか」など、様々な質問が飛んできた。しかし、<span class="bold-red"><span class="fz-20px">何を答えるべきか、どう表現すべきかが、突如として分からなくなり、約20分間にわたって、自分はほぼ完全な沈黙に陥った。</span></span>
+Dĩ nhiên chủ nhiệm ném ra đủ thứ câu hỏi như "em có nguyện vọng nào không". Nhưng <span class="bold-red"><span class="fz-20px">đột nhiên tôi không còn hiểu phải trả lời gì, phải diễn đạt ra sao, và suốt khoảng 20 phút, tôi gần như rơi vào trạng thái im lặng hoàn toàn.</span></span>
 
-**<span class="fz-24px">担任「なぜ何も喋らないのか。不快だ」</span>**
+**<span class="fz-24px">Chủ nhiệm: "Sao em không nói gì cả? Rất khó chịu."</span>**
 
-担任に咎とがめられながらも、言葉は出口を失っていた。自分でも理由が分からず、激しいショックを受け、面談後に半泣き状態で帰宅した。
+Dù bị chủ nhiệm trách như thế, lời nói vẫn đánh mất đường thoát. Chính tôi cũng không hiểu tại sao, bị sốc dữ dội, rồi sau buổi nói chuyện trở về nhà trong trạng thái gần như sắp khóc.
 
-今考えると、その時思った事を素直に答えれば良かったと思うのだが、自分でも気付かぬうちに、自分の内面に完成してしまっていた思考様式は
+Giờ nghĩ lại, có lẽ lúc đó tôi chỉ cần thành thật nói ra điều mình nghĩ là được. Nhưng kiểu tư duy đã hoàn chỉnh trong tôi từ lúc nào chẳng hay lại là:
 
-<span class="bold-blue"><span class="fz-44px">完璧主義</span></span>
+<span class="bold-blue"><span class="fz-44px">Chủ nghĩa hoàn hảo</span></span>
 
-- **定義への固執**：「志望」の定義とは何か。どの程度の確信があれば、「志望」を名乗ってよいのか。
-- **解釈の不一致への恐怖**：相手の質問の意図を、その背景まで含めて、一分の狂いもなく理解できているのか。
-- **不確定要素の排除**：未来のことは不明確なのに、適当な返答をして「嘘」をついていることにならないか。
+- **Ám chặt vào định nghĩa**: rốt cuộc "nguyện vọng" là gì? Phải chắc chắn đến mức nào mới được phép gọi đó là "nguyện vọng"?
+- **Sợ sai lệch trong diễn giải**: liệu tôi đã hiểu chính xác tuyệt đối ý đồ câu hỏi của đối phương, kể cả bối cảnh phía sau nó, hay chưa?
+- **Loại bỏ yếu tố bất định**: tương lai vốn không rõ ràng, vậy nếu tôi trả lời qua loa thì có thành ra đang nói dối không?
 
-<span class="cocoon-custom-text-1"><span class="fz-20px">頭の中でこれらの思考が多発的に連鎖し、論理的な整合性を構築している間に、時間は過ぎ去る。焦燥の中で次の質問が重なり、思考はさらに複雑化して飽和する。</span></span>
+<span class="cocoon-custom-text-1"><span class="fz-20px">Khi những luồng suy nghĩ này bùng nổ dây chuyền trong đầu và tôi còn đang dựng sự nhất quán logic cho chúng, thời gian cứ thế trôi qua. Trong cơn sốt ruột, câu hỏi tiếp theo chồng lên, khiến tư duy thêm rối và quá tải.</span></span>
 
-いつの間にか自分は、<span class="bold-red"><span class="fz-22px">日常会話にすら、数学的な証明と同等の厳密さを求める</span></span>ようになっていたのである。
+Không biết từ lúc nào, tôi đã bắt đầu <span class="bold-red"><span class="fz-22px">đòi hỏi ngay cả với hội thoại đời thường một mức nghiêm ngặt ngang với chứng minh toán học</span></span>.
 
-### 社交性の崩壊
+### Sự sụp đổ của tính xã giao
 
-小中時代の自分は、どちらかと言えば饒舌じょうぜつで、人前で目立つことを好む性格だった。
+Thời tiểu học và trung học cơ sở, nếu phải nói thì tôi là kiểu khá hoạt ngôn, thích nổi bật trước mặt người khác.
 
-しかし、この時期を境に、<span class="bold-red"><span class="fz-20px">他者とのコミュニケーション全般に対して、猛烈な億劫おっくうさを感じるようになり、気心の知れた友人以外とは、家族とも他人とも、挨拶あいさつすらまともに交わさなくなった。</span></span>
+Nhưng kể từ giai đoạn này, tôi bắt đầu thấy <span class="bold-red"><span class="fz-20px">việc giao tiếp với người khác nói chung trở nên cực kỳ phiền mệt; ngoại trừ mấy đứa bạn thật thân, tôi dần chẳng còn trao nổi lấy một lời chào cho ra hồn với cả gia đình lẫn người ngoài.</span></span>
 
-当時は、それを「思春期の訪れ」と認識していた。
+Hồi đó tôi chỉ nghĩ đó là "tuổi dậy thì đang tới".
 
-## 確率への畏怖いふ――死はどこかで必ず収束する
+## Nỗi khiếp sợ trước xác suất - Cái chết rồi sẽ hội tụ ở đâu đó
 
-数学における<span class="bold-red">確率論</span>、そして物理学を本格的に学び始めた頃からだろうか。
+Có lẽ là từ khoảng khi tôi bắt đầu học một cách bài bản <span class="bold-red">lý thuyết xác suất</span> trong toán, và cả vật lý học.
 
-**「ミクロの世界において、粒子の位置は確率的にしか決定できない」**という<span class="bold-red">量子力学的観点</span>も、多分に影響していたのだと思う。
+Tôi nghĩ rằng quan điểm <span class="bold-red">cơ học lượng tử</span> kiểu **"trong thế giới vi mô, vị trí của hạt chỉ có thể được quyết định theo xác suất"** cũng đã ảnh hưởng đến tôi không ít.
 
-自分の中に強固に形成されていったのは
+Thứ dần dần hình thành vững chắc trong tôi là
 
 <style>
 .prob-madness-box {
@@ -2101,7 +2098,7 @@ $`E=mc^2`$ は、その恐るべき原理を理論的に裏付けていた。
 
 <div class="prob-madness-bg">
 
-確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率 確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率 確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率 確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率 確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率 確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率 確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率確率
+Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất Xác suất
 
 </div>
 
@@ -2109,7 +2106,7 @@ $`E=mc^2`$ は、その恐るべき原理を理論的に裏付けていた。
 
 <div class="prob-madness-title">
 
-確率的世界観
+Thế giới quan xác suất
 
 </div>
 
@@ -2117,89 +2114,89 @@ $`E=mc^2`$ は、その恐るべき原理を理論的に裏付けていた。
 
 </div>
 
-この世界は、**本質的に確率の集合体である**
+Thế giới này, **về bản chất, là một tập hợp của xác suất**
 
 </div>
 
 </div>
 
-確率の理解が深まるにつれ、<span class="cocoon-custom-text-1">現実の社会的事象や、自らの人生における出来事までも、確率的・統計的に思考するようになった。</span>
+Khi mức độ hiểu biết của tôi về xác suất ngày một sâu hơn, <span class="cocoon-custom-text-1">ngay cả những hiện tượng xã hội ngoài đời thực, và cả những chuyện xảy ra trong chính cuộc đời tôi, cũng bắt đầu được tôi suy nghĩ theo lối xác suất và thống kê.</span>
 
-特筆すべきは、自分が<span class="bold-red"><span class="fz-22px">「極めて低い確率」に対して、異常なまでの感受性を持つ</span></span>ようになったことである。
+Điều đáng nói nhất là tôi bắt đầu mang một độ nhạy gần như bất thường với <span class="bold-red"><span class="fz-22px">"những xác suất cực thấp"</span></span>.
 
-中学生までの自分は、交差点で左右を確認せず、赤信号でも自転車で突き進むような無謀な行動を、平然と繰り返していた。
+Cho tới tận trung học cơ sở, tôi vẫn thản nhiên lặp đi lặp lại những hành vi liều lĩnh kiểu đạp xe lao băng qua giao lộ mà không thèm nhìn trái phải, thậm chí vượt cả đèn đỏ.
 
-当時、事故に遭わなかったのは、単に運が良かったという結果論に過ぎない。しかし、**低確率の事象であっても「現実に起こり得る」という認識を持ってからは、慎重にも慎重を期す、石橋を叩いて渡るような行動原理**へと転換していった。
+Chuyện hồi đó tôi không gặp tai nạn, suy cho cùng chỉ là kết luận sau khi đã may mắn sống sót. Nhưng từ khi tôi hiểu rằng **ngay cả sự kiện có xác suất thấp cũng "có thể xảy ra ngoài đời thật"**, nguyên lý hành động của tôi đã chuyển thành kiểu thận trọng chồng thêm thận trọng, như kẻ gõ thử cây cầu đá rồi mới dám bước qua.
 
-やがて自分の思考は、<span class="cocoon-custom-text-1"><span class="fz-20px">低確率の究極形ともいえる事象の本質</span></span>へと向かっていった。
+Rồi suy nghĩ của tôi dần hướng về <span class="cocoon-custom-text-1"><span class="fz-20px">bản chất của những hiện tượng có thể gọi là hình thái cực hạn của xác suất thấp</span></span>.
 
 <div class="generic-elegant-title">
 
 <div class="generic-elegant-title__inner">
 
-<span class="generic-elegant-title__label">◇ 本質の探究 ◇</span>
+<span class="generic-elegant-title__label">◇ Truy tìm bản chất ◇</span>
 
 <div class="generic-elegant-title__divider">
 
 </div>
 
-<span class="generic-elegant-title__main">そもそも<span class="generic-elegant-title__accent">死</span>とは何か</span>
+<span class="generic-elegant-title__main">Rốt cuộc <span class="generic-elegant-title__accent">cái chết</span> là gì</span>
 
 </div>
 
 </div>
 
-<span class="bold-red"><span class="fz-20px">「死」は、至る所に確率的な波として存在しており、ある瞬間の観測、すなわち事象の発生によって収束し、現実の「死」として観測されるだけではないか。</span></span>
+<span class="bold-red"><span class="fz-20px">Phải chăng "cái chết" tồn tại ở khắp nơi dưới dạng những làn sóng xác suất, rồi chỉ hội tụ lại trong một khoảnh khắc quan sát nào đó, tức khoảnh khắc sự kiện phát sinh, để rồi được quan sát như cái chết hiện thực mà thôi?</span></span>
 
-そう考えるようになると、死は突如として、身近で恐ろしい重みを持ち始めた。
+Kể từ lúc bắt đầu nghĩ như vậy, cái chết bỗng dưng mang lấy một sức nặng gần gũi và khủng khiếp.
 
-30年前、日本で1年間に交通事故で命を落とす確率は、概算で 1/10000 であった。自分は、この数字の背後にある意味に震え上がっていた。
+Ba mươi năm trước, xác suất một người chết vì tai nạn giao thông trong vòng một năm ở Nhật Bản được ước tính vào khoảng 1/10000. Tôi đã run lên trước ý nghĩa nằm phía sau con số đó.
 
-なぜなら、この 1/10000 は、「数学的確率」ではなく、<span class="bold-red">「統計的確率」</span>だったからである。
+Bởi vì 1/10000 ấy không phải là <span class="bold-red">"xác suất toán học"</span>, mà là **"xác suất thống kê"**.
 
-サイコロにおける 1/6 は数学的確率であり、6回振ったからといって必ずしも「１」の目が出るわけではない。しかし、統計における 1/10000 は、「昨年、1万人あたり1人の割合で、死というハズレくじを引かされた人間が確実に存在した」という紛れもない現実を示している。
+Con số 1/6 khi tung xúc xắc là xác suất toán học, và không phải cứ tung 6 lần là chắc chắn xuất hiện mặt 1. Nhưng 1/10000 trong thống kê lại cho thấy một hiện thực trần trụi: "năm ngoái, chắc chắn đã có những con người bị bắt trúng lá thăm thua mang tên cái chết, với tỷ lệ cứ 10.000 người thì có 1 người".
 
-仮に、1/10000 が数学的確率であったとしても、日本には1億人以上の人間が存在し、それぞれが移動し、偶然と接触し続けている。<span class="bold-red"><span class="fz-20px">その膨大な試行回数の前では、どんなに小さな確率であっても「無」ではなくなり、ほぼ確実にどこかで現実化する。</span></span>
+Ngay cả nếu giả sử 1/10000 cũng là xác suất toán học đi nữa, thì ở Nhật vẫn có hơn một trăm triệu con người, mỗi người đều dịch chuyển, đều không ngừng tiếp xúc với ngẫu nhiên. <span class="bold-red"><span class="fz-20px">Trước số lần thử khổng lồ ấy, dù xác suất có nhỏ đến đâu cũng không còn là "số không", mà gần như chắc chắn sẽ hiện thực hóa ở đâu đó.</span></span>
 
-確率が小さいことは、起こらないことを意味しない。**たとえ善行や努力を積み重ねてきた人間であったとしても、確率という冷酷な神の裁きから逃れる術はない。**
+Xác suất nhỏ không có nghĩa là nó sẽ không xảy ra. **Dù đó là người đã tích đức hay nỗ lực bao nhiêu đi nữa, cũng không có cách nào trốn khỏi phán quyết của vị thần lạnh lùng mang tên xác suất.**
 
-自分は、この確率の真の恐ろしさを理解し始めていた。
+Tôi đã bắt đầu hiểu ra nỗi đáng sợ thật sự của xác suất.
 
-そして、自分が今日まで生き長らえているという事実は、常に 9999/10000 の側に入り続けてきたことを意味する。だがその事実は同時に、見知らぬ誰かが 1/10000 の側を引き受けてきたという、<span class="cocoon-custom-text-1"><span class="fz-20px">残酷な等価交換の存在</span></span>を意味している。
+Và sự thật rằng tôi vẫn kéo dài mạng sống đến tận hôm nay có nghĩa là tôi luôn đứng về phía 9999/10000. Nhưng đồng thời, điều đó cũng có nghĩa là ở đâu đó, một kẻ xa lạ đã thay tôi gánh phần 1/10000, một <span class="cocoon-custom-text-1"><span class="fz-20px">sự trao đổi ngang giá tàn nhẫn</span></span>.
 
-<span class="bold-red"><span class="fz-28px">「自分の幸せって、誰かの不幸なんだな」</span></span>
+<span class="bold-red"><span class="fz-28px">"Hóa ra hạnh phúc của mình lại là bất hạnh của ai đó."</span></span>
 
-<span class="cocoon-custom-text-1"><span class="fz-20px">確率は、この現実世界の薄情さ、残酷さ、不公平さ、不平等さ、理不尽さを、冷酷なほど正確に、数学という言語で記述している。</span></span>
+<span class="cocoon-custom-text-1"><span class="fz-20px">Xác suất, bằng ngôn ngữ mang tên toán học, đang mô tả một cách lạnh lùng đến chính xác sự bạc bẽo, tàn nhẫn, bất công, bất bình đẳng và phi lý của thế giới hiện thực này.</span></span>
 
-自分はその事実を思い知らされたのだった。
+Tôi đã bị ép phải nhận ra sự thật đó.
 
-同時に、この確率的に考えるからこそ、**この無常ともいえる現実世界で、自分がいかに恵まれた環境に置かれているかを理解し始めた。**
+Đồng thời, chính vì biết nghĩ theo xác suất nên tôi cũng bắt đầu hiểu được rằng **trong cái thế giới gần như vô thường này, bản thân mình đã được đặt vào một môi trường thuận lợi đến nhường nào.**
 
-<span class="bold-red"><span class="fz-22px">「自分が、この</span></span><span class="bold-red"><span class="fz-22px">平和な</span></span><span class="bold-red"><span class="fz-22px">時代の日本に、教育の重要性を理解しているこの両親のもとに、障害をもたず生まれてこれたこと。これまで大きな事故や病にも見舞われず、普通に生きていること。この当たり前の日常そのものが、奇跡に近い確率なのではないか？」</span></span>
+<span class="bold-red"><span class="fz-22px">"Việc tôi được sinh ra tại</span></span><span class="bold-red"><span class="fz-22px"> một Nhật Bản yên bình</span></span><span class="bold-red"><span class="fz-22px"> của thời đại này, dưới mái nhà của cặp cha mẹ hiểu tầm quan trọng của giáo dục, lại còn sinh ra không mang khuyết tật. Việc từ trước đến nay tôi vẫn sống bình thường mà chưa từng vướng phải tai nạn lớn hay bệnh nặng nào. Chẳng phải chính cuộc sống hằng ngày tưởng như hiển nhiên này mới là một xác suất gần với kỳ tích hay sao?"</span></span>
 
-## ランダムへの畏怖 ――偏りを生む公平
+## Nỗi khiếp sợ trước ngẫu nhiên - Sự công bằng sinh ra thiên lệch
 
 <div class="generic-elegant-title">
 
 <div class="generic-elegant-title__inner">
 
-<span class="generic-elegant-title__label">◇ 本質の探究 ◇</span>
+<span class="generic-elegant-title__label">◇ Truy tìm bản chất ◇</span>
 
 <div class="generic-elegant-title__divider">
 
 </div>
 
-<span class="generic-elegant-title__main">そもそも<span class="generic-elegant-title__accent">公平</span>とは何か</span>
+<span class="generic-elegant-title__main">Rốt cuộc <span class="generic-elegant-title__accent">công bằng</span> là gì</span>
 
 </div>
 
 </div>
 
-高校で確率を学ぶまで、自分は漠然と**「ランダムならば公平である」**と信じていた。
+Cho tới khi học xác suất ở cao trung, tôi vẫn mơ hồ tin rằng **"nếu là ngẫu nhiên thì sẽ công bằng"**.
 
-しかし、<span class="bold-red">自分が当時思い描いていた「公平」とは、「結果に偏りがない」という意味合いであり、数学が定義する「ランダム」の本質とは、決定的に異なっていた。</span>
+Nhưng <span class="bold-red">"công bằng" mà tôi hình dung khi ấy lại mang nghĩa "kết quả không bị thiên lệch", và điều đó khác một trời một vực với bản chất của "ngẫu nhiên" theo định nghĩa của toán học.</span>
 
-次の二つの数列のうち、<span class="bold-blue">真にランダムなのはどちらだろうか。</span>
+Trong hai dãy số sau, <span class="bold-blue">đâu mới thật sự là ngẫu nhiên?</span>
 
 ①　<span style="color:#2f6fd6; font-weight:700;">1</span>, <span style="color:#d94141; font-weight:700;">3</span>, <span style="color:#d68a00; font-weight:700;">2</span>, <span style="color:#d68a00; font-weight:700;">2</span>, <span style="color:#2f6fd6; font-weight:700;">1</span>, <span style="color:#d94141; font-weight:700;">3</span>, <span style="color:#d68a00; font-weight:700;">2</span>, <span style="color:#2f6fd6; font-weight:700;">1</span>, <span style="color:#d94141; font-weight:700;">3</span>, <span style="color:#d94141; font-weight:700;">3</span>, <span style="color:#d68a00; font-weight:700;">2</span>, <span style="color:#2f6fd6; font-weight:700;">1</span>, <span style="color:#d68a00; font-weight:700;">2</span>, <span style="color:#d94141; font-weight:700;">3</span>, <span style="color:#2f6fd6; font-weight:700;">1</span>, <span style="color:#d68a00; font-weight:700;">2</span>, <span style="color:#d68a00; font-weight:700;">2</span>, <span style="color:#d94141; font-weight:700;">3</span>, <span style="color:#2f6fd6; font-weight:700;">1</span>, <span style="color:#d68a00; font-weight:700;">2</span>, <span style="color:#d94141; font-weight:700;">3</span>, <span style="color:#2f6fd6; font-weight:700;">1</span>, <span style="color:#d94141; font-weight:700;">3</span>, <span style="color:#d68a00; font-weight:700;">2</span>, <span style="color:#2f6fd6; font-weight:700;">1</span>, <span style="color:#2f6fd6; font-weight:700;">1</span>, <span style="color:#d94141; font-weight:700;">3</span>, <span style="color:#d68a00; font-weight:700;">2</span>, <span style="color:#d94141; font-weight:700;">3</span>, <span style="color:#d68a00; font-weight:700;">2</span>\
 \
@@ -2209,104 +2206,104 @@ $`E=mc^2`$ は、その恐るべき原理を理論的に裏付けていた。
 
 |     |  1   |  2   |  3   |
 |-----|:----:|:----:|:----:|
-| ①   | 9回  | 11回 | 10回 |
-| ②   | 10回 | 10回 | 10回 |
+| ①   | 9 lần  | 11 lần | 10 lần |
+| ②   | 10 lần | 10 lần | 10 lần |
 
 </div>
 
-一見すると、各数字の出現回数が均等で、同じ数字の連続もない②の方が「ランダムらしく」見える。
+Thoạt nhìn, phương án ② có vẻ "giống ngẫu nhiên hơn" vì số lần xuất hiện của các con số đều nhau, lại không có trường hợp lặp cùng một số liên tiếp.
 
-しかし、数学的に不自然なのは、むしろ②の方である。
+Nhưng xét theo toán học, thứ không tự nhiên lại chính là ②.
 
-**真にランダムであるならば、各試行は「独立」**であり、直前に何が出たかは、次に出る数字に何の影響も与えない。毎回すべての数字が 1/3 の確率で等しく出現するのであれば、同じ数字が連続することも、特定の数字が部分的に偏ることも、極めて自然な現象である。その意味で、①のほうがランダム的である。
+**Nếu thật sự là ngẫu nhiên, thì mỗi lần thử phải là "độc lập"**, nghĩa là thứ vừa xuất hiện trước đó không ảnh hưởng gì đến con số sẽ xuất hiện tiếp theo. Nếu mỗi lần tất cả các số đều xuất hiện với xác suất bằng nhau là 1/3, thì việc cùng một số lặp lại liên tiếp hay một số nào đó tạm thời nghiêng về một phía là hiện tượng hết sức tự nhiên. Theo nghĩa đó, ① mới ngẫu nhiên hơn.
 
-<span class="bold-red"><span class="fz-22px">ランダムなればこそ、部分的には「偏り」が生じる。</span></span>\
-<span class="bold-red"><span class="fz-22px">しかし、試行回数が多くなると、全体的には偏りが薄れていく。</span></span>
+<span class="bold-red"><span class="fz-22px">Chính vì là ngẫu nhiên, nên ở từng đoạn nhỏ sẽ phát sinh "thiên lệch".</span></span>\
+<span class="bold-red"><span class="fz-22px">Nhưng khi số lần thử tăng lên, thiên lệch trên toàn thể sẽ dần mờ đi.</span></span>
 
-多くの高校生は、この性質を知識として受け流すだろうが、自分はこれを現実社会に適用し、愕然がくぜんとした思いに囚われていた。
+Phần lớn học sinh cao trung hẳn chỉ lướt qua tính chất này như một mẩu kiến thức, nhưng tôi lại đem nó áp vào xã hội hiện thực và rơi vào trạng thái bàng hoàng.
 
-確率の恩恵を受け、富裕な家庭に、端麗な容姿と高い知能、そして健常な肉体を持って生まれた者Ａがいたとする。<span class="bold-red">ランダムな試行が繰り返されるこの世界において、Ａという「極端な幸運」が存在するならば、その対極には、「極端な不運」が存在するはずである。</span>すなわち、貧困な家庭に、醜悪な容姿と低い知能、そして重い障害を背負って生まれた者Ｂが、どこかに存在する。そうでなければ、世界全体としての確率の整合性は保たれない。
+Giả sử có một người A, nhờ ơn xác suất, được sinh ra trong gia đình giàu có, với ngoại hình ưa nhìn, trí thông minh cao và một cơ thể lành lặn. <span class="bold-red">Trong cái thế giới mà những phép thử ngẫu nhiên cứ lặp đi lặp lại này, nếu tồn tại một "vận may cực đoan" như A, thì ở cực đối diện hẳn cũng phải tồn tại một "vận rủi cực đoan".</span> Nghĩa là, ở đâu đó sẽ có một kẻ B sinh ra trong nghèo khó, với ngoại hình xấu xí, trí tuệ thấp và gánh trên lưng một khuyết tật nặng nề. Nếu không có kẻ đó, tính nhất quán của xác suất trên toàn thế giới sẽ không còn được giữ vững.
 
-<span class="cocoon-custom-text-1"><span class="fz-20px">全体として平滑化されたとしても、各当人にとっては、その「偏り」こそが紛れもない現実に他ならない。</span></span>
+<span class="cocoon-custom-text-1"><span class="fz-20px">Dù nhìn từ tổng thể thì mọi thứ có được làm phẳng đi chăng nữa, với từng cá nhân, chính cái "thiên lệch" ấy mới là hiện thực không thể chối cãi.</span></span>
 
-**このランダムゆえに生じる不公平さが、自分にはどうしても納得いかなかった。**
+**Sự bất công sinh ra từ chính tính ngẫu nhiên ấy là thứ tôi không sao chấp nhận nổi.**
 
-<span class="bold-red"><span class="fz-22px">「なぜ、現実世界はこんなにも不公平なのか」</span></span>
+<span class="bold-red"><span class="fz-22px">"Tại sao thế giới hiện thực lại bất công đến mức này?"</span></span>
 
-**自分は間違いなく、確率的に「大得をした側」の人間である。ならばその反対に、確率的に大損をした人が存在する。**
+**Không còn nghi ngờ gì nữa, tôi là con người đã "hời lớn" về mặt xác suất. Nếu vậy, ở phía đối diện ắt phải tồn tại kẻ đã thua thiệt lớn về mặt xác suất.**
 
-<span class="cocoon-custom-text-1"><span class="fz-20px">まるで、自分の負の部分を身代わりとしてすべて引き受けたような人間が、この世界のどこかに存在する。</span></span>
+<span class="cocoon-custom-text-1"><span class="fz-20px">Cứ như thể ở đâu đó trên thế giới này đang tồn tại một con người đã gánh thay toàn bộ phần tối tăm đáng lẽ thuộc về tôi.</span></span>
 
-いつしか、自分の中に、切実な願望が芽生え始めていた。
+Từ lúc nào đó, trong tôi bắt đầu nảy sinh một khát vọng day dứt.
 
-<span class="fz-22px"><span class="bold-red">「自分の身代わりに、確率的に損をした人達を救いたい」\
-「確率的な理不尽さを、少しでも減らしたい」</span></span>\
-<span class="bold-red"><span class="fz-22px">「ランダムが生んだ不公平を、人間の意志によって是正ぜせいしたい」</span></span><span class="fz-22px"><span class="bold-red">\
-「真に公平な世界を目指して」</span></span>
+<span class="fz-22px"><span class="bold-red">"Tôi muốn cứu những người đã chịu thiệt về xác suất thay cho mình."\
+"Tôi muốn dù chỉ một chút thôi cũng làm giảm bớt cái phi lý của xác suất."</span></span>\
+<span class="bold-red"><span class="fz-22px">"Tôi muốn sửa lại sự bất công do ngẫu nhiên sinh ra bằng ý chí của con người."</span></span><span class="fz-22px"><span class="bold-red">\
+"Hướng tới một thế giới thật sự công bằng"</span></span>
 
-## 歪んだユートピア――障害なき世界への危険な憧憬しょうけい
+## Không tưởng méo mó - Sự khao khát nguy hiểm về một thế giới không có khuyết tật
 
-確率的な理不尽さについて思索を深めていくと、自分は避けては通れない一つの「壁」に突き当たった。
+Khi đào sâu hơn vào cái phi lý của xác suất, tôi đã đâm sầm vào một "bức tường" không thể tránh né.
 
-それは、<span class="bold-red"><span class="fz-20px">知的障害者の存在</span></span>である。
+Đó là <span class="bold-red"><span class="fz-20px">sự tồn tại của người khuyết tật trí tuệ (intellectual disability / 知的障害)</span></span>.
 
-先天的にせよ後天的にせよ、不運にも身体や精神に障害を負ったとしても、知的能力さえ担保されていれば、社会の中で価値を創造し、活躍する道はいくらでもある。しかし、その「知的能力」そのものに欠損があるという状態は、あまりに絶望的な確率的敗北であるように思えた。
+Dù là bẩm sinh hay mắc phải về sau, cho dù chẳng may cơ thể hay tinh thần mang khuyết tật, thì chỉ cần năng lực trí tuệ vẫn được đảm bảo, con đường tạo ra giá trị và sống có vai trò trong xã hội vẫn còn vô số. Nhưng trạng thái mà chính bản thân cái gọi là "năng lực trí tuệ" bị sứt mẻ, trong mắt tôi khi ấy, dường như là một thất bại xác suất tuyệt vọng đến cùng cực.
 
-**「知能面において確率的に損をすることは、人間として致命的ではないか？」\
-「自立すら叶わない重度の知的障害者は、果たして人間と言えるのか？」\
-「知的障害者は、社会にとって単なる『お荷物』ではないか？」**
+**"Việc thua thiệt về mặt trí tuệ trên bàn xác suất chẳng phải là chí mạng với tư cách con người sao?"\
+"Một người khuyết tật trí tuệ nặng đến mức ngay cả tự lập cũng không thể, rốt cuộc còn có thể gọi là con người không?"\
+"Người khuyết tật trí tuệ, với xã hội, chẳng phải chỉ là một thứ 'gánh nặng' sao?"**
 
-若き日の自分の問いは、残酷なまでに純化され、一つの地点へと集約されていった。
+Những câu hỏi của tôi thời trẻ cứ bị tinh lọc tới tàn nhẫn, rồi dồn cả lại vào một điểm.
 
 <div class="generic-elegant-title">
 
 <div class="generic-elegant-title__inner">
 
-<span class="generic-elegant-title__label">◇ 本質の探究 ◇</span>
+<span class="generic-elegant-title__label">◇ Truy tìm bản chất ◇</span>
 
 <div class="generic-elegant-title__divider">
 
 </div>
 
-<span class="generic-elegant-title__main"><span class="generic-elegant-title__accent">知的障害者の存在価値</span>は何か</span>
+<span class="generic-elegant-title__main">Giá trị tồn tại của <span class="generic-elegant-title__accent">người khuyết tật trí tuệ</span> là gì</span>
 
 </div>
 
 </div>
 
-当時の自分は、知的障害者に本質的な存在価値を見出すことができずにいた。
+Hồi đó tôi không sao tìm ra được giá trị tồn tại mang tính bản chất ở người khuyết tật trí tuệ.
 
-<span class="cocoon-custom-text-1">人道上、あるいは憲法上の観点から抹殺するわけにもいかないから、社会的な「綺麗事」として生かされているに過ぎないのだろう。</span>
+<span class="cocoon-custom-text-1">Có lẽ chỉ vì trên phương diện nhân đạo, hoặc trên phương diện hiến pháp, người ta không thể thủ tiêu họ, nên họ đơn thuần được để sống như một thứ "lời đẹp đẽ" của xã hội mà thôi.</span>
 
-そんな冷淡な仮説を抱いていた。\
-その裏側にあったのは、**「障害者のいない、真に公平な世界」という、極めて純粋で、歪いびつな理想**であった。
+Tôi đã ôm một giả thuyết lạnh lùng như vậy.\
+Thứ nằm phía sau nó lại là **một lý tưởng vô cùng thuần khiết nhưng méo mó, mang tên "một thế giới thật sự công bằng, không có người khuyết tật"**.
 
-<span class="bold-red"><span class="fz-32px">「この世界から障害者を完全に駆逐したい」</span></span>
+<span class="bold-red"><span class="fz-32px">"Tôi muốn quét sạch hoàn toàn người khuyết tật khỏi thế giới này."</span></span>
 
-これを可能にするのは
+Thứ có thể làm được điều đó là
 
-<span class="bold-blue"><span class="fz-36px">医学</span></span>
+<span class="bold-blue"><span class="fz-36px">y học</span></span>
 
-<span class="cocoon-custom-text-1"><span class="fz-20px">医学が進歩すれば、確率の偏りが生んだ不幸なバグを、すべて修正できるはずだ。</span></span>
+<span class="cocoon-custom-text-1"><span class="fz-20px">Nếu y học tiến bộ, hẳn nó sẽ sửa được hết những lỗi bất hạnh do sự thiên lệch của xác suất sinh ra.</span></span>
 
-そう信じる自分にとって、「医師」という存在は、憧れと尊敬の対象だった。
+Với tôi của khi ấy, vì tin như thế nên "bác sĩ" là một đối tượng vừa để ngưỡng mộ vừa để kính trọng.
 
-しかし、実際に「医師になりたい」とは全く思わなかった。自分には「他者の生命を直接背負う」という重圧に耐えうるメンタリティが欠如していることを、何となく感じていたからである。
+Nhưng bản thân tôi lại hoàn toàn không hề nghĩ mình muốn trở thành bác sĩ. Bởi tôi lờ mờ cảm thấy trong mình thiếu mất thứ tâm thế có thể chịu nổi sức nặng của việc trực tiếp gánh mạng sống của người khác.
 
-<span class="bold-red"><span class="fz-24px">すべての自然科学は、根底で繋がっている。</span></span>
+<span class="bold-red"><span class="fz-24px">Mọi ngành khoa học tự nhiên, ở tầng gốc, đều nối liền với nhau.</span></span>
 
-ならば、**「自分が物理の道に進んだとしても、間接的にでも医学に貢献できるはずだ」**と、漠然と考えていた。
+Vậy nên tôi đã nghĩ mơ hồ rằng, **"ngay cả nếu mình đi theo con đường vật lý, biết đâu vẫn có thể đóng góp cho y học theo cách gián tiếp"**.
 
-## 超絶なる抽象世界
+## Thế giới trừu tượng đến cực hạn
 
-自分の思考は、かつての「悪」や「死」といった実感の伴う事象から、より形而上けいじじょう的な領域へと昇華していった。
+Tư duy của tôi đã thăng hoa khỏi những hiện tượng còn mang cảm giác thực như "cái ác" hay "cái chết", để đi vào một tầng mang tính siêu hình hơn.
 
-この時期、<span class="bold-red"><span class="fz-20px">自分の抽象的思考は、人生における一つの極致に達していた</span></span>と言える。
+Có thể nói rằng ở giai đoạn này, <span class="bold-red"><span class="fz-20px">tư duy trừu tượng của tôi đã chạm đến một cực điểm trong đời</span></span>.
 
-**<span class="fz-22px">「答えなど出るはずがない」</span>\
-<span class="fz-22px">「考えること自体が無意味ではないか」</span>**
+**<span class="fz-22px">"Vốn dĩ làm gì có đáp án nào cho những thứ này."</span>\
+<span class="fz-22px">"Hay ngay cả việc nghĩ về nó cũng vô nghĩa?"</span>**
 
-そんな冷笑的な自覚がありながらも、思考の加速を止めることはできなかった。
+Dù tự nhận thức một cách mỉa mai như thế, tôi vẫn không thể chặn nổi gia tốc của suy nghĩ.
 
 　
 
@@ -2314,184 +2311,184 @@ $`E=mc^2`$ は、その恐るべき原理を理論的に裏付けていた。
 
 <div class="generic-elegant-title__inner">
 
-<span class="generic-elegant-title__label">◇ 本質の探究 ◇</span>
+<span class="generic-elegant-title__label">◇ Truy tìm bản chất ◇</span>
 
 <div class="generic-elegant-title__divider">
 
 </div>
 
-<span class="generic-elegant-title__main">そもそも<span class="generic-elegant-title__accent">宇宙</span>とは何か</span>
+<span class="generic-elegant-title__main">Rốt cuộc <span class="generic-elegant-title__accent">vũ trụ</span> là gì</span>
 
 </div>
 
 </div>
 
-**「なぜビッグバンは起こった？」**\
-**「宇宙は無から誕生した？」\
-「無って何だ？」\
-「宇宙の誕生以前は、時間も空間も存在しなかった？」\
-「宇宙の真の大きさって、どれくらいだ？」\
-「宇宙の外側ってあるのか？」\
-「宇宙はいつか終焉する？」**
+**"Vì sao Big Bang lại xảy ra?"**\
+**"Vũ trụ được sinh ra từ hư vô sao?"\
+"Hư vô là cái gì?"\
+"Trước khi vũ trụ ra đời, thời gian và không gian đều không tồn tại sao?"\
+"Kích thước thật sự của vũ trụ rốt cuộc lớn tới mức nào?"\
+"Bên ngoài vũ trụ có tồn tại không?"\
+"Rồi một ngày nào đó vũ trụ sẽ đi tới kết thúc sao?"**
 
 <div class="generic-elegant-title">
 
 <div class="generic-elegant-title__inner">
 
-<span class="generic-elegant-title__label">◇ 本質の探究 ◇</span>
+<span class="generic-elegant-title__label">◇ Truy tìm bản chất ◇</span>
 
 <div class="generic-elegant-title__divider">
 
 </div>
 
-<span class="generic-elegant-title__main">そもそも<span class="generic-elegant-title__accent">生命</span>とは何か</span>
+<span class="generic-elegant-title__main">Rốt cuộc <span class="generic-elegant-title__accent">sự sống</span> là gì</span>
 
 </div>
 
 </div>
 
-**「生命はなぜ、どうやって誕生した？」\
-「生命や人類は、何のために存在し、どこへ向かう？」\
-「宇宙がいつか終焉するなら、生命の存続って意味あるのか？」\
-「知性って何だ？」\
-「知性は人類の特権なのか？」**\
-**「この宇宙での知的生命体の誕生確率はどれくらいだ？」\
-「文明レベルが上がると、戦争はなくせるのか？」**
+**"Sự sống vì sao và bằng cách nào mà ra đời?"\
+"Sự sống và nhân loại tồn tại để làm gì, rồi sẽ đi về đâu?"\
+"Nếu một ngày nào đó vũ trụ kết thúc, việc duy trì sự sống còn có ý nghĩa gì không?"\
+"Trí tuệ là gì?"\
+"Trí tuệ có phải là đặc quyền của loài người không?"**\
+**"Trong vũ trụ này, xác suất xuất hiện sinh mệnh có trí tuệ là bao nhiêu?"\
+"Khi mức độ văn minh tăng lên, chiến tranh có thể bị xóa bỏ không?"**
 
 　
 
-この時期、ふと、<span class="cocoon-custom-text-1">自分と周囲との間にある埋めがたい隔へだたり</span>を感じたことが何度かあった。
+Trong giai đoạn này, đã có vài lần tôi chợt cảm thấy một <span class="cocoon-custom-text-1">khoảng cách không thể lấp nổi giữa bản thân và những người xung quanh</span>.
 
-<span class="bold-red"><span class="fz-24px">「自分だけ、思考があまりに純粋で、崇高すうこうすぎやしないか？」</span></span>
+<span class="bold-red"><span class="fz-24px">"Có phải chỉ riêng mình, tư duy đã quá thuần khiết và quá cao khiết hay không?"</span></span>
 
-**宇宙、生命、そして人類――。\
-やがて、その抽象の果てに、自分は自らの進むべき道を明確な確信とともに描き始めていた――。**
+**Vũ trụ, sự sống, và nhân loại...\
+Rồi ở tận cùng của miền trừu tượng ấy, tôi bắt đầu phác họa con đường mình phải đi với một niềm xác tín rõ ràng.**
 
-<span class="bold-blue"><span class="fz-28px">「人類の役に立つ人間になりたい</span></span><span class="bold-blue"><span class="fz-28px">」</span></span>
+<span class="bold-blue"><span class="fz-28px">"Tôi muốn trở thành một con người có ích cho nhân loại</span></span><span class="bold-blue"><span class="fz-28px">"</span></span>
 
-### 理不尽への宣戦布告――悲劇の確率を削る
+### Tuyên chiến với phi lý - Gọt bớt xác suất của bi kịch
 
-<span class="bold-red">人類や地球文明の発展という崇高な理想</span>を仰ぎ見つつ、一方で、<span class="bold-blue">目の前の理不尽な現実を修正したい</span>という情熱が、静かに燃え始めていた。
+Trong khi ngước nhìn <span class="bold-red">lý tưởng cao cả mang tên sự phát triển của nhân loại và của nền văn minh Trái Đất</span>, thì đồng thời, ngọn lửa muốn <span class="bold-blue">sửa lại cái thực tại phi lý ngay trước mắt</span> cũng bắt đầu âm ỉ cháy trong tôi.
 
-現代日本における理不尽な事象は、大きく四つに分類できる。
+Những hiện tượng phi lý trong nước Nhật hiện đại, về đại thể, có thể chia thành bốn loại.
 
-- <span class="fz-24px"><span class="bold-red">自然災害</span></span>
-- <span class="bold-red"><span class="fz-24px">事件</span></span>
-- <span class="bold-red"><span class="fz-24px">事故</span></span>
-- <span class="fz-24px"><span class="bold-red">病気(障害)</span></span>
+- <span class="fz-24px"><span class="bold-red">Thiên tai</span></span>
+- <span class="bold-red"><span class="fz-24px">Vụ án / sự vụ</span></span>
+- <span class="bold-red"><span class="fz-24px">Tai nạn</span></span>
+- <span class="fz-24px"><span class="bold-red">Bệnh tật (khuyết tật)</span></span>
 
-中でも、小学生の頃から自分を苛いら立たせていたのは、「凶悪犯罪」という名の理不尽であった。4つの中でも特に際立つ理不尽さを感じ、<span class="fz-22px"><span class="bold-red">とにかく凶悪犯罪を減らしたい</span></span>と考えていた。
+Trong số đó, thứ đã khiến tôi bứt rứt từ hồi tiểu học là cái phi lý mang tên **tội phạm hung ác**. Trong cả bốn loại, đó là thứ khiến tôi cảm thấy mức độ phi lý nổi bật nhất, nên tôi đã nghĩ rằng <span class="fz-22px"><span class="bold-red">dù sao đi nữa cũng phải làm sao giảm bớt bọn tội phạm hung ác</span></span>.
 
-それを可能にするのは
+Thứ có thể làm được điều đó là
 
-<span class="bold-blue"><span class="fz-48px">科学技術</span></span>
+<span class="bold-blue"><span class="fz-48px">khoa học kỹ thuật</span></span>
 
-**もちろん、政治、司法、社会学、心理学などあらゆる分野からのアプローチも重要だろう。ただ、そちらは文系に任せておけばよい。**
+**Dĩ nhiên, cách tiếp cận từ chính trị, tư pháp, xã hội học, tâm lý học hay mọi lĩnh vực khác cũng quan trọng. Nhưng phần đó cứ để cho dân xã hội lo là được.**
 
-<span class="bold-red"><span class="fz-22px">「理系と文系が力を合わせれば、凶悪犯罪を極限にまで減らせるはずだ」</span></span>
+<span class="bold-red"><span class="fz-22px">"Nếu khối tự nhiên và khối xã hội hợp lực, hẳn có thể đẩy tội phạm hung ác xuống tận sát giới hạn."</span></span>
 
-その時、漠然と抱いていた考えがこうだ。
+Đại ý của suy nghĩ mơ hồ mà tôi ôm khi ấy là thế này.
 
-この世界が本質的に確率的であるならば、<span class="cocoon-custom-text-1">悲劇が起こる確率そのものを削り取っていくべき</span>だ。
+Nếu thế giới này về bản chất là xác suất, thì <span class="cocoon-custom-text-1">điều cần làm là gọt đi chính xác suất để bi kịch phát sinh</span>.
 
-自分は、一つの事件が発生するまでに存在するであろういくつかの分岐点を、<span class="bold-red"><span class="fz-22px">「確率的ターニングポイント」</span></span>と定義した。
+Tôi định nghĩa những điểm rẽ sẽ tồn tại trước khi một vụ việc xảy ra là <span class="bold-red"><span class="fz-22px">"điểm ngoặt xác suất"</span></span>.
 
-ある事件が発生するまで、事象が確率的に「悪い方向」へ転ぶポイントが5回あるとする。もし科学技術の進歩や法整備によって、各ポイントの発生確率をわずか10％ずつ減らすことができたなら、最終的な悲劇の発生確率は劇的に低下する。
+Giả sử trước khi một vụ việc xảy ra, có 5 điểm mà tại đó sự việc có thể ngã theo hướng xấu một cách xác suất. Nếu nhờ tiến bộ khoa học kỹ thuật hay hoàn thiện pháp luật mà xác suất phát sinh ở mỗi điểm chỉ cần giảm đi 10%, thì xác suất cuối cùng để bi kịch xảy ra sẽ giảm một cách ngoạn mục.
 
 $`1\times1\times1\times1\times1=1=100%`$％\
 $`0.9\times0.9\times0.9\times0.9\times0.9\fallingdotseq0.59=59`$％
 
-微細な改善の積み重ねが、最終的な悲劇を4割近くも駆逐する。
+Sự tích lũy của những cải thiện cực nhỏ có thể quét sạch gần 40% bi kịch ở điểm cuối.
 
-<span class="bold-red"><span class="fz-22px">ありとあらゆる手段を講じて、この確率の鎖を断ち切ること。</span></span>
+<span class="bold-red"><span class="fz-22px">Phải dùng mọi phương tiện có thể để chặt đứt chuỗi xích xác suất này.</span></span>
 
-これこそが自分の使命であると感じ始めていた。
+Tôi bắt đầu cảm thấy rằng đó mới chính là sứ mệnh của mình.
 
-### 唯一性への渇望――存在価値を証明するために
+### Cơn khát về tính duy nhất - Để chứng minh giá trị tồn tại
 
-やがて思考の刃は、自分自身へと向けられるようになった。
+Rồi lưỡi dao của suy nghĩ cũng quay về chĩa vào chính tôi.
 
 <div class="generic-elegant-title">
 
 <div class="generic-elegant-title__inner">
 
-<span class="generic-elegant-title__label">◇ 本質の探究 ◇</span>
+<span class="generic-elegant-title__label">◇ Truy tìm bản chất ◇</span>
 
 <div class="generic-elegant-title__divider">
 
 </div>
 
-<span class="generic-elegant-title__main">そもそも<span class="generic-elegant-title__accent">自分</span>とは何か</span>
+<span class="generic-elegant-title__main">Rốt cuộc <span class="generic-elegant-title__accent">bản thân mình</span> là gì</span>
 
 </div>
 
 </div>
 
-**<span class="fz-22px">「自分はなぜ生まれてきた？」\
-「自分は何のために存在している？」\
-「自分の存在価値は何だ？」</span>**
+**<span class="fz-22px">"Tại sao mình lại được sinh ra?"\
+"Mình tồn tại để làm gì?"\
+"Giá trị tồn tại của mình là gì?"</span>**
 
-――これらの問いの先に辿り着いた答え――
+-- Đáp án mà tôi chạm tới ở cuối những câu hỏi ấy --
 
-<span class="bold-red"><span class="fz-36px">唯一性</span></span>
+<span class="bold-red"><span class="fz-36px">Tính duy nhất</span></span>
 
-<span class="fz-28px"><span class="bold-blue">「</span></span><span class="fz-28px"><span class="bold-blue">オンリーワンでありたい」</span></span>
+<span class="fz-28px"><span class="bold-blue">"Tôi muốn là kẻ độc nhất"</span></span>
 
-<span class="bold-blue"><span class="fz-28px">「世界で自分にしか成し得ない人類貢献をしたい」</span></span>
+<span class="bold-blue"><span class="fz-28px">"Tôi muốn thực hiện một sự cống hiến cho nhân loại mà trên thế giới này chỉ mình tôi mới có thể làm được"</span></span>
 
-<span class="bold-blue"><span class="fz-28px">「そうでなければ、自分がこの世界に存在している意味が無い」</span></span>
+<span class="bold-blue"><span class="fz-28px">"Nếu không làm được như thế, thì việc mình tồn tại trên đời này chẳng còn ý nghĩa gì"</span></span>
 
 　
 
-<span class="bold-red"><span class="fz-22px">この頃、自分の精神は、多くの</span></span><span class="bold-red"><span class="fz-22px">人間</span></span><span class="bold-red"><span class="fz-22px">が一生をかけても到達し得ない、超絶別次元の高みへと到達しつつあった。</span></span>
+<span class="bold-red"><span class="fz-22px">Vào khoảng thời gian này, tinh thần của tôi đang vươn tới một tầm cao siêu tuyệt khác hẳn chiều không gian thông thường, thứ mà phần lớn con người dù có dốc cả đời cũng không thể chạm tới.</span></span>
 
-## 大学受験――才能だけでは届かない世界
+## Kỳ thi đại học - Thế giới không thể chạm tới chỉ bằng tài năng
 
-高校3年生となり、センター試験に向けたマーク模試が本格化する中、自分は明確に第一志望を定めた。
+Khi lên năm ba cao trung, trong lúc các kỳ thi thử trắc nghiệm cho kỳ Center bắt đầu bước vào giai đoạn thật sự nghiêm túc, tôi đã xác định rõ ràng nguyện vọng số một của mình.
 
-<span class="fz-22px">**第一志望**：<span class="bold-blue">東京工業大学第１類理学部物理学科</span></span>
+<span class="fz-22px">**Nguyện vọng 1**: <span class="bold-blue">Viện Công nghệ Tokyo - Nhóm 1, khoa Vật lý, khối Khoa học tự nhiên</span></span>
 
-2年生の面談時に感じた運命的な直感は揺るぎなく、他の大学は眼中になかった。第二志望という概念すら希薄であり、滑り止めとして慶應義塾大学や早稲田大学を念頭に置く程度であった。
+Cảm giác trực giác mang màu sắc định mệnh mà tôi từng có ở cuộc phỏng vấn năm hai vẫn không hề lay chuyển, và các trường khác gần như không còn lọt vào mắt tôi. Khái niệm nguyện vọng hai cũng rất mờ nhạt, tôi chỉ nghĩ tới Keio hay Waseda như các lựa chọn an toàn phòng khi trượt.
 
-ただ、東工大合格という目標を掲げながらも、**自分の中に「受験生」としての真摯しんしな覚悟は芽生えていなかった。**受験勉強したくないということではなく、<span class="bold-red">親元を離れて</span><span class="bold-red">大学という新たな環境に飛び出すことへの不安が大きく、最初から浪人したいと思っていた。</span>同級生たちが自習時間中に必死に勉強しているのを横目に、自分は密かに持ち込んだゲームボーイアドバンスで、ポケモンの育成に精を出していた。
+Nhưng dù đã treo lên mục tiêu phải đỗ Viện Công nghệ Tokyo, **trong tôi vẫn chưa nảy ra cái quyết tâm nghiêm cẩn của một "thí sinh" đúng nghĩa.** Không phải là tôi ghét học thi, mà là <span class="bold-red">nỗi bất an phải rời xa cha mẹ</span><span class="bold-red"> để lao vào một môi trường mới mang tên đại học quá lớn, đến mức ngay từ đầu tôi đã muốn ôn thêm một năm.</span> Trong khi bạn bè cùng lớp cắm đầu học trong giờ tự học, tôi lại lén đem theo máy Game Boy Advance để miệt mài luyện Pokemon.
 
-自分の受験生時代の成績は、母親が律儀にファイリングしてくれていたおかげで、すべて確認できる。
+Thành tích của tôi trong thời kỳ ôn thi đại học, nhờ mẹ cẩn thận lưu lại đầy đủ thành từng tập hồ sơ, nên giờ đây có thể xem lại toàn bộ.
 
 <figure class="wp-block-table" style="max-width:100%; overflow:visible;">
 <div class="scrollable-table">
 <table style="table-layout:fixed; width:100%; max-width:100%;">
 <thead>
 <tr>
-<th style="width: 5.5em; white-space: nowrap">科目</th>
-<th style="text-align: center; width: 8em; white-space: nowrap;">マーク模試</th>
-<th style="white-space: normal; word-break: normal; overflow-wrap: break-word; overflow: visible">評価と分析</th>
+<th style="width: 5.5em; white-space: nowrap">Môn</th>
+<th style="text-align: center; width: 8em; white-space: nowrap;">Thi thử trắc nghiệm</th>
+<th style="white-space: normal; word-break: normal; overflow-wrap: break-word; overflow: visible">Đánh giá và phân tích</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="white-space: nowrap">数学</td>
-<td style="text-align: center; white-space: nowrap;">160～195点</td>
-<td style="white-space: normal; word-break: normal; overflow-wrap: break-word; overflow: visible">最高校内9位。進研記述模試では最高校内4位。</td>
+<td style="white-space: nowrap">Toán</td>
+<td style="text-align: center; white-space: nowrap;">160-195 điểm</td>
+<td style="white-space: normal; word-break: normal; overflow-wrap: break-word; overflow: visible">Cao nhất đứng thứ 9 trong trường. Ở thi tự luận Shinken thì cao nhất đứng thứ 4 trong trường.</td>
 </tr>
 <tr>
-<td style="white-space: nowrap">英語</td>
-<td style="text-align: center; white-space: nowrap;">120〜175点</td>
-<td style="white-space: normal; word-break: normal; overflow-wrap: break-word; overflow: visible">長文問題の戦略皆無で、馬鹿正直に全文を読んでいた結果、校内平均を下回る。</td>
+<td style="white-space: nowrap">Tiếng Anh</td>
+<td style="text-align: center; white-space: nowrap;">120-175 điểm</td>
+<td style="white-space: normal; word-break: normal; overflow-wrap: break-word; overflow: visible">Không có chiến lược làm bài đọc dài, cứ ngu ngơ đọc toàn bộ từ đầu tới cuối nên điểm thấp hơn trung bình của trường.</td>
 </tr>
 <tr>
-<td style="white-space: nowrap">国語</td>
-<td style="text-align: center; white-space: nowrap;">110〜150点</td>
-<td style="white-space: normal; word-break: normal; overflow-wrap: break-word; overflow: visible">評論と漢文は割とよかったが、小説と古文が苦手。当然、校内平均を下回る。</td>
+<td style="white-space: nowrap">Quốc ngữ</td>
+<td style="text-align: center; white-space: nowrap;">110-150 điểm</td>
+<td style="white-space: normal; word-break: normal; overflow-wrap: break-word; overflow: visible">Phần nghị luận và Hán văn khá ổn, nhưng yếu tiểu thuyết và cổ văn. Dĩ nhiên điểm dưới trung bình của trường.</td>
 </tr>
 <tr>
-<td style="white-space: nowrap">物理化学</td>
-<td style="text-align: center; white-space: nowrap;">110〜180点</td>
-<td style="white-space: normal; word-break: normal; overflow-wrap: break-word; overflow: visible">物理60～100点、化学50～85点。基礎力不足で安定せず。</td>
+<td style="white-space: nowrap">Lý - Hóa</td>
+<td style="text-align: center; white-space: nowrap;">110-180 điểm</td>
+<td style="white-space: normal; word-break: normal; overflow-wrap: break-word; overflow: visible">Vật lý 60-100 điểm, hóa học 50-85 điểm. Nền tảng thiếu hụt nên không ổn định.</td>
 </tr>
 <tr>
-<td style="white-space: nowrap">現代社会</td>
-<td style="text-align: center; white-space: nowrap;">55～75点</td>
-<td style="white-space: normal; word-break: normal; overflow-wrap: break-word; overflow: visible">「無勉でもほぼ中学知識で解ける(当時)」という理由で選択。</td>
+<td style="white-space: nowrap">Xã hội hiện đại</td>
+<td style="text-align: center; white-space: nowrap;">55-75 điểm</td>
+<td style="white-space: normal; word-break: normal; overflow-wrap: break-word; overflow: visible">Chọn vì nghĩ rằng "ngay cả không học cũng gần như giải được bằng kiến thức cấp 2 (ở thời đó)".</td>
 </tr>
 </tbody>
 </table>
@@ -2500,59 +2497,59 @@ $`0.9\times0.9\times0.9\times0.9\times0.9\fallingdotseq0.59=59`$％
 
 　
 
-指導者の立場となった今振り返ると、どの科目においても<span class="bold-red">自分の勉強法が正しくなかった</span>ことが、痛いほどわかる。しかし当時は、それを改善するきっかけが全く存在していなかった。
+Giờ đây, khi nhìn lại với tư cách người đứng ở vị trí dạy học, tôi đau đớn thấy rõ rằng ở môn nào thì <span class="bold-red">cách học của mình cũng đều sai</span>. Nhưng lúc ấy, tôi hoàn toàn không có lấy một cú hích nào để sửa nó.
 
-- **向上心の欠如**：学力面や学歴面での上昇志向が皆無に近く、現状に不満がなかった。
-- **方法論への無知**：各科目ごとに「正しい勉強法」が存在すること自体を理解していなかった。
-- **客観的視点の欠如**：塾にも通っておらず、自分の学習法に対してアドバイスをくれる大人が周囲にいなかった。
-- **情報の不在**：まだインターネットが一般的ではなく、他者の学習スタイルを知る術も、有益な受験情報も皆無だった。
+- **Thiếu ý chí vươn lên**: gần như không có khát vọng đi lên về học lực hay học lịch, nên tôi cũng chẳng bất mãn gì với hiện trạng.
+- **Mù mờ về phương pháp**: tôi còn không hiểu rằng mỗi môn lại có một "phương pháp học đúng" riêng.
+- **Thiếu góc nhìn khách quan**: tôi không đi học thêm, cũng chẳng có người lớn nào quanh đó góp ý cho phương pháp học của tôi.
+- **Thiếu thông tin**: hồi ấy Internet vẫn chưa phổ biến, nên không có cách nào biết được phong cách học của người khác, cũng chẳng có nguồn thông tin luyện thi hữu ích.
 
-自分は、「テレビを見ながら問題集を眺めるだけ」という極端な学習方法で、このレベルを維持していた。そして、<span class="cocoon-custom-text-1">マーク模試・記述模試ともに、東工大の判定は常にBまたはC</span>だった。
+Tôi giữ được mức đó bằng một phương pháp học cực đoan: "chỉ cần ngó sách bài tập trong lúc xem TV". Và trong cả thi thử trắc nghiệm lẫn thi thử tự luận, <span class="cocoon-custom-text-1">mức đánh giá của tôi với Viện Công nghệ Tokyo luôn là B hoặc C</span>.
 
-そして本番。
+Rồi đến ngày thi thật.
 
-<span class="bold-red">前期・後期ともに東工大、私立は慶應理工・早稲田理工を受験するも、結果はすべて「不合格」。</span>
+<span class="bold-red">Cả kỳ đầu lẫn kỳ sau tôi đều thi Viện Công nghệ Tokyo, còn trường tư thì thi Keio Khoa học Kỹ thuật và Waseda Khoa học Kỹ thuật, nhưng kết quả tất cả đều là "trượt".</span>
 
-<span class="bold-red">予定通り浪人することになった。</span>
+<span class="bold-red">Đúng như đã dự tính từ đầu, tôi bước vào một năm ôn lại.</span>
 
-## 浪人生活――効率と執念の一年
+## Đời sống ôn thi - Một năm của hiệu suất và cố chấp
 
-浪人生活の舞台は、高岡市内の河合塾提携の予備校へと移った。
+Sân khấu của một năm ôn lại chuyển sang một lò luyện thi liên kết với Kawai Juku trong thành phố Takaoka.
 
-入塾時の成績が優秀であったため、授業料のうち5万円が返還された。高校時代に最も親しかった友人も同じ学び舎におり、共に授業を受ける時間は楽しかった。
+Vì thành tích đầu vào khá tốt, tôi được hoàn lại 50.000 yên tiền học phí. Người bạn thân nhất thời cao trung của tôi cũng học cùng ở đó, nên khoảng thời gian cùng nhau nghe giảng cũng rất vui.
 
-**さすがに二浪は選択肢になく、現役時とは違って東工大合格への想いが非常に強くなっていたため、人生で初めて100%の熱量で受験勉強に身を投じた。**その時、常に考えていたことは
+**Đến mức này thì chuyện ôn thêm năm thứ hai hoàn toàn không còn là lựa chọn, và khác với lúc còn là học sinh khóa chính, khát vọng đỗ Viện Công nghệ Tokyo trong tôi đã mạnh lên dữ dội, đến mức lần đầu tiên trong đời tôi ném trọn 100% nhiệt lượng vào việc ôn thi.** Điều tôi luôn nghĩ khi đó là:
 
-<span class="bold-blue"><span class="fz-28px">「日本で一番楽に合格してやる」</span></span>
+<span class="bold-blue"><span class="fz-28px">"Mình sẽ đỗ bằng cách nhàn nhất Nhật Bản."</span></span>
 
-それは怠惰ではなく、<span class="bold-red">徹底した「効率」への執着</span>であった。
+Đó không phải lười biếng, mà là <span class="bold-red">sự cố chấp triệt để với hai chữ "hiệu suất"</span>.
 
-<span class="bold-blue"><span class="fz-24px">「受験の王道を歩むことこそが、最短距離である」</span></span>
+<span class="bold-blue"><span class="fz-24px">"Đi theo con đường chính đạo của luyện thi mới chính là quãng đường ngắn nhất."</span></span>
 
-そう確信する自分にとって、「事前に問題を解き、授業でそのエッセンスを回収する」という予備校のスタイルは、かつて自分が学校教育に求めていた理想の形であった。
+Với tôi, kẻ tin chắc điều đó, phong cách của lò luyện thi là "giải bài trước, rồi lên lớp thu về tinh chất của nó" chính là hình thái lý tưởng mà ngày trước tôi từng đòi hỏi ở giáo dục nhà trường.
 
-### 物理学への開眼――数式から現象へ
+### Khai nhãn với vật lý - Từ công thức tới hiện tượng
 
-高校2年生以来、自分の中で「物理」と「数学」は未分化のままだった。物理を、数式をこねくり回すだけの科目として捉え、「解法暗記」に頼っていたため、物理の成績は常に不安定であった。
+Từ năm hai cao trung trở đi, trong tôi, "vật lý" và "toán" vẫn chưa thật sự được phân tách. Vì tôi nhìn vật lý như một môn chỉ biết xoay vặn công thức và sống dựa vào "học thuộc cách giải", nên điểm số vật lý của tôi lúc nào cũng chập chờn.
 
-その混迷を打ち破ったのが、一冊の参考書――<span class="bold-blue">『橋元流解法の大原則』</span>との出会いであった。
+Thứ phá tung màn hỗn mang đó là cuộc gặp với một cuốn sách tham khảo - <span class="bold-blue">`橋元流解法の大原則`</span>.
 
-<span class="fz-22px"><span class="bold-red">「物理は、単なる数式の操作ではない」</span>\
-<span class="bold-red">「現実の物理現象をイメージし、それを数式へと翻訳する学問である」</span></span>
+<span class="fz-22px"><span class="bold-red">"Vật lý không phải chỉ là thao tác công thức đơn thuần."</span>\
+<span class="bold-red">"Nó là môn học tưởng tượng ra hiện tượng vật lý trong hiện thực rồi dịch nó sang ngôn ngữ công thức."</span></span>
 
-この本質を悟った瞬間、物理という科目は、自分の中で不動の得点源へと昇華した。
+Khoảnh khắc lĩnh ngộ được bản chất ấy, môn vật lý trong tôi đã thăng hoa thành nguồn điểm số bất động.
 
-その結実として、**河合塾の東工大オープン模試では9割の得点を叩き出し、全国12位として冊子掲載される**に至った。
+Kết quả kết tinh là, **trong kỳ thi thử Open của Kawai Juku dành cho Viện Công nghệ Tokyo, tôi nện ra được 90% số điểm và được đăng tên ở vị trí thứ 12 toàn quốc trên tập san.**
 
-### センターの妥協と二次の逆転戦略
+### Sự thỏa hiệp ở kỳ Center và chiến lược lật kèo ở kỳ tự luận vòng hai
 
-当時の東工大第1類は倍率が約5倍で、センター試験と2次記述試験の配点比率がおよそ１：３。
+Hồi đó, Nhóm 1 của Viện Công nghệ Tokyo có tỷ lệ chọi khoảng 5 lần, còn tỷ trọng điểm giữa kỳ thi Center và kỳ tự luận vòng hai rơi vào khoảng 1:3.
 
-東工大合格者のセンター平均は8割5分ほどだったが、文系科目が苦手な自分は、**センター試験を8割で耐え、2次記述試験で逆転合格する戦略**を取った。
+Điểm Center trung bình của người đỗ Viện Công nghệ Tokyo thường ở mức 85%, nhưng vì tôi yếu các môn xã hội, nên tôi chọn **chiến lược cầm cự Center ở mốc 80% rồi lật ngược bằng bài tự luận vòng hai**.
 
-高得点を狙っていなかったこともあり、センター試験はほぼ平常心で受けることができた。
+Có lẽ cũng vì ngay từ đầu tôi không nhắm tới điểm quá cao, nên khi thi Center tôi giữ được trạng thái tinh thần gần như bình thường.
 
-センター試験の結果(一浪)は、ほぼ予定通り <span class="bold-red">635/800</span> だった(当時は5教科6科目で理科は１科目のみ計算）。
+Kết quả kỳ Center sau một năm ôn lại gần như đúng y dự tính: <span class="bold-red">635/800</span> (thời đó tính 5 môn 6 phần, khoa học tự nhiên chỉ tính 1 môn).
 
 <style data-wp-block-html="css">
 /* =========================
@@ -2601,19 +2598,19 @@ figure.wp-block-table.score-table-pc {
 <table class="has-fixed-layout">
 <thead>
 <tr>
-<th>科目</th>
+<th>Môn</th>
 <th>ⅠA</th>
 <th>ⅡB</th>
-<th>英語</th>
-<th>国語</th>
-<th>物理</th>
-<th>化学</th>
-<th>現社</th>
+<th>Tiếng Anh</th>
+<th>Quốc ngữ</th>
+<th>Vật lý</th>
+<th>Hóa học</th>
+<th>Xã hội hiện đại</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<th>点数</th>
+<th>Điểm</th>
 <td><strong>90</strong></td>
 <td><strong>94</strong></td>
 <td><strong>139</strong></td>
@@ -2632,8 +2629,8 @@ figure.wp-block-table.score-table-pc {
 <table>
 <thead>
 <tr>
-<th>科目</th>
-<th>点数</th>
+<th>Môn</th>
+<th>Điểm</th>
 </tr>
 </thead>
 <tbody>
@@ -2646,23 +2643,23 @@ figure.wp-block-table.score-table-pc {
 <td><strong>94</strong></td>
 </tr>
 <tr>
-<th>英語</th>
+<th>Tiếng Anh</th>
 <td><strong>139</strong></td>
 </tr>
 <tr>
-<th>国語</th>
+<th>Quốc ngữ</th>
 <td><strong>139</strong></td>
 </tr>
 <tr>
-<th>物理</th>
+<th>Vật lý</th>
 <td><strong>100</strong></td>
 </tr>
 <tr>
-<th>化学</th>
+<th>Hóa học</th>
 <td><strong>89</strong></td>
 </tr>
 <tr>
-<th>現社</th>
+<th>Xã hội hiện đại</th>
 <td><strong>73</strong></td>
 </tr>
 </tbody>
@@ -2670,57 +2667,57 @@ figure.wp-block-table.score-table-pc {
 </div>
 </figure>
 
-### 東工大という唯一の聖域
+### Viện Công nghệ Tokyo - Thánh địa duy nhất
 
-自分が東工大を志望した真の理由は、世俗的な学歴への渇望ではない。親を喜ばせたいという報恩の念でもない。
+Lý do thật sự khiến tôi nguyện vọng vào Viện Công nghệ Tokyo không phải là cơn khát học lịch theo kiểu thế tục. Cũng không phải vì muốn báo hiếu làm cha mẹ vui lòng.
 
-それは、<span class="bold-red"><span class="fz-22px">他ならぬ「人類に貢献したい」という、純粋で、かつ一点の曇りもない決意</span></span>からであった。
+Nó bắt nguồn từ chính <span class="bold-red"><span class="fz-22px">quyết tâm thuần khiết và không gợn một hạt bụi nào mang tên "muốn cống hiến cho nhân loại"</span></span>.
 
-何の根拠もないが、慶應や早稲田では駄目だと思っていた。
+Tôi chẳng có căn cứ nào rõ ràng, nhưng vẫn nghĩ rằng nếu là Keio hay Waseda thì không được.
 
-東工大で物理を極めてこそ、はじめて人類に資する知を生み出せる、そう盲信していた。
+Tôi đã mù quáng tin rằng chỉ khi vào Viện Công nghệ Tokyo, mài cho tận cùng con đường vật lý, tôi mới có thể lần đầu sản sinh ra tri thức có ích cho nhân loại.
 
-<span class="bold-blue"><span class="fz-20px">「自分よりも東工大合格に対して強い意志を持っている受験生など、この世に存在しない」</span></span>
+<span class="bold-blue"><span class="fz-20px">"Trên đời này không tồn tại thí sinh nào có ý chí phải đỗ Viện Công nghệ Tokyo mạnh hơn mình."</span></span>
 
-それほどの自負を抱き、自分は己の全存在を賭けて試験に臨んでいた。
+Mang trong lòng sự tự phụ ấy, tôi đặt cược toàn bộ sự tồn tại của mình vào kỳ thi.
 
-### 審判の日――東工大2次試験
+### Ngày phán quyết - Kỳ thi vòng hai của Viện Công nghệ Tokyo
 
-2次試験前の一週間、自分は都内のホテルに居を構えた。
+Trong tuần trước kỳ thi vòng hai, tôi trụ lại trong một khách sạn ở Tokyo.
 
-その間に滑り止めとして、慶應・早稲田に加え、東京理科大、上智大、立教大を受験した。慶應・早稲田以外は余裕のつもりだったが、初戦の立教大学でまさかの「補欠合格」を食らう。二浪の影が脳裏を掠かすめ、一瞬の焦燥が走ったが、最終的には慶應・早稲田を含む全ての私立大学から合格通知を勝ち取った。
+Trong khoảng thời gian đó, như các lựa chọn an toàn, ngoài Keio và Waseda, tôi còn thi cả Đại học Khoa học Tokyo, Sophia và Rikkyo. Tôi vốn nghĩ ngoài Keio với Waseda ra thì những trường kia là cửa khá thoáng, vậy mà ngay trận đầu ở Rikkyo tôi đã dính kết quả "đỗ dự bị". Bóng ma của năm ôn thứ hai lướt ngang óc tôi, khiến một cơn loé sợ chạy vụt qua, nhưng cuối cùng tôi vẫn giành được giấy báo đỗ từ toàn bộ các trường tư, kể cả Keio và Waseda.
 
-そして迎えた、東工大の2次記述試験。\
-物理の試験終了後、解答が回収される瞬間に周囲5,6人の第1問の答案が視界に入った。
+Rồi cũng đến kỳ thi tự luận vòng hai của Viện Công nghệ Tokyo.\
+Ngay sau khi hết giờ vật lý, vào khoảnh khắc người ta thu bài, tôi lướt thấy đáp án câu 1 của khoảng 5-6 thí sinh xung quanh.
 
-**<span class="fz-22px">「え、みんなそれぞれ解答が違う･･･」</span>**
+**<span class="fz-22px">"Ủa, sao đáp án của mỗi đứa lại khác nhau hết vậy..."</span>**
 
-その瞬間、自分は「落ちた」と確信した。ショックのあまり、幼少期の母親との歩みから始まったこれまでの人生の断片が、走馬燈のように脳裏を駆け巡った。
+Khoảnh khắc đó, tôi chắc mẩm rằng mình trượt rồi. Quá sốc, những mảnh vỡ cuộc đời của tôi bắt đầu từ tuổi thơ cùng mẹ cứ thế quét qua đầu như đèn kéo quân.
 
-**<span class="fz-22px">「駄目だったか……」</span>**
+**<span class="fz-22px">"Thế là xong rồi sao..."</span>**
 
-<span class="cocoon-custom-text-1">志望動機が純粋であったからこそ、喪失の予感は耐えがたい重圧となって、自分を押し潰した。</span>
+<span class="cocoon-custom-text-1">Chính vì động cơ nguyện vọng của tôi thuần khiết đến vậy, nên cảm giác báo trước mất mát đã biến thành một sức nặng không sao chịu nổi và nghiền nát tôi.</span>
 
-<span class="cocoon-custom-text-1">東工大でなければ、自分は人類に貢献する道すら閉ざされてしまう。涙目で帰宅し、予備校の解答速報も見る気になれなかった。</span>
+<span class="cocoon-custom-text-1">Nếu không phải Viện Công nghệ Tokyo, ngay cả con đường cống hiến cho nhân loại của tôi cũng sẽ bị đóng lại. Tôi về nhà mắt ngân ngấn, đến cả bảng đáp án nhanh của lò luyện thi cũng chẳng buồn xem.</span>
 
-後日、自宅に合否を知らせる封筒が届いた。家族も見つめる中で確認。
+Vài hôm sau, phong bì báo kết quả được gửi tới nhà. Cả gia đình cùng nhìn tôi mở ra.
 
-**<span class="fz-28px">「あ、受かった」</span>**
+**<span class="fz-28px">"À, đỗ rồi."</span>**
 
-不合格をほぼ確信していたので、第一声は落ち着いていたが、直後に喜びが爆発。
+Vì gần như đã chắc mẩm là trượt, nên câu đầu tiên bật ra khá bình tĩnh. Nhưng ngay sau đó niềm vui bùng nổ.
 
-<span class="bold-blue"><span class="fz-32px">「やった！やったー！」</span></span>
+<span class="bold-blue"><span class="fz-32px">"Được rồi! Được rồi!!"</span></span>
 
-今更ながら予備校の解答速報を確認してみると、自分の解答こそが正解であった。
+Lúc ấy tôi mới quay lại kiểm tra bảng đáp án nhanh của lò luyện thi, và hóa ra đáp án của chính tôi mới là đáp án đúng.
 
-東大には届かなかった(目指してもいなかった)。\
-それでも、**超難関大学に分類される大学に合格できたことは、言うまでもなく自分の人生における最大級の喜びであった。**
+Tôi không với tới Đại học Tokyo - mà thật ra cũng chẳng nhắm tới.\
+Nhưng dẫu vậy, **việc đỗ vào một trường được xếp vào hàng siêu khó, không cần phải nói, vẫn là một trong những niềm vui lớn nhất cuộc đời tôi.**
 
 ------------------------------------------------------------------------
 
-<span class="fz-20px"><span class="cocoon-custom-text-1">このとき自分は、「日本トップクラスの大学で物理を学び、人類の発展に貢献できる」と、夢と希望に満ち溢あふれていた。</span></span>
+<span class="fz-20px"><span class="cocoon-custom-text-1">Khi ấy, tôi tràn ngập mộng tưởng và hy vọng rằng mình sẽ học vật lý ở một trường thuộc top đầu Nhật Bản và góp phần vào sự phát triển của nhân loại.</span></span>
 
-<span class="bold-red"><span class="fz-24px">しかし、自分が歩もうとしていた</span></span><span class="bold-red"><span class="fz-24px">輝かしい</span></span><span class="bold-red"><span class="fz-24px">道の先に、まさか「仙水ルート」が存在していようなど、当時の自分には知る由もなかった。</span></span>
+<span class="bold-red"><span class="fz-24px">Nhưng vào thời điểm đó, không đời nào tôi có thể biết rằng ở cuối con đường</span></span><span class="bold-red"><span class="fz-24px"> rực sáng</span></span><span class="bold-red"><span class="fz-24px"> mà mình đang định bước đi, lại tồn tại một "con đường Sensui".</span></span>
 
 <style>
 .chapter-nav-light {
@@ -2843,7 +2840,7 @@ figure.wp-block-table.score-table-pc {
 
 <div class="chapter-nav-light">
 
-<a href="https://examist.jp/category/light-dark/" class="prev" target="_self">「光と闇」トップ</a> <a href="https://examist.jp/light-dark/light-dark2/" class="next" target="_self">第２章　光と闇の臨界点</a>
+<a href="https://examist.jp/category/light-dark/" class="prev" target="_self">Trang đầu "Ánh sáng và bóng tối"</a> <a href="https://examist.jp/light-dark/light-dark2/" class="next" target="_self">Chương 2 - Điểm tới hạn của ánh sáng và bóng tối</a>
 
 </div>
 
@@ -2853,7 +2850,7 @@ figure.wp-block-table.score-table-pc {
 
 <div class="entry-categories">
 
-<a href="https://examist.jp/category/light-dark/" class="cat-link cat-link-1554"><span class="fas fa-folder cat-icon tax-icon" aria-hidden="true"></span>光と闇 ―恐るべき管理人の正体と悍ましきサイト誕生の背景―</a>
+<a href="https://examist.jp/category/light-dark/" class="cat-link cat-link-1554"><span class="fas fa-folder cat-icon tax-icon" aria-hidden="true"></span>Ánh sáng và bóng tối - Chân tướng đáng sợ của quản trị viên và bối cảnh ghê tởm đằng sau sự ra đời của trang web</a>
 
 </div>
 
@@ -2863,13 +2860,13 @@ figure.wp-block-table.score-table-pc {
 
 <div class="sns-share-message">
 
-シェアする
+Chia sẻ
 
 </div>
 
 <div class="sns-share-buttons sns-buttons">
 
-<a href="https://x.com/intent/tweet?text=%E7%AC%AC%EF%BC%91%E7%AB%A0%E3%80%80%E5%A4%A9%E8%B3%A6%E3%81%AE%E5%85%89&amp;url=https%3A%2F%2Fexamist.jp%2Flight-dark%2Flight-dark1%2F" class="sns-button share-button twitter-button twitter-share-button-sq x-corp-button x-corp-share-button-sq" target="_blank" rel="nofollow noopener noreferrer" aria-label="Xでシェア" title="Xでシェア"><span class="social-icon icon-x-corp"></span><span class="button-caption">X</span><span class="share-count twitter-share-count x-share-count"></span></a> <a href="//b.hatena.ne.jp/entry/s/examist.jp/light-dark/light-dark1/" class="sns-button share-button hatebu-button hatena-bookmark-button hatebu-share-button-sq" data-hatena-bookmark-layout="simple" target="_blank" rel="nofollow noopener noreferrer" aria-label="はてブでブックマーク" title="はてブでブックマーク"><span class="social-icon icon-hatena"></span><span class="button-caption">はてブ</span><span class="share-count hatebu-share-count"></span></a> <a href="//timeline.line.me/social-plugin/share?url=https%3A%2F%2Fexamist.jp%2Flight-dark%2Flight-dark1%2F" class="sns-button share-button line-button line-share-button-sq" target="_blank" rel="nofollow noopener noreferrer" aria-label="LINEでシェア" title="LINEでシェア"><span class="social-icon icon-line"></span><span class="button-caption">LINE</span><span class="share-count line-share-count"></span></a> <span class="sns-button share-button copy-button copy-share-button-sq" role="button" tabindex="0" data-clipboard-text="第１章　天賦の光 https://examist.jp/light-dark/light-dark1/" aria-label="タイトルとURLをコピーする"><span class="social-icon icon-copy"></span><span class="button-caption">コピー</span><span class="share-count copy-share-count"></span></span>
+<a href="https://x.com/intent/tweet?text=%E7%AC%AC%EF%BC%91%E7%AB%A0%E3%80%80%E5%A4%A9%E8%B3%A6%E3%81%AE%E5%85%89&amp;url=https%3A%2F%2Fexamist.jp%2Flight-dark%2Flight-dark1%2F" class="sns-button share-button twitter-button twitter-share-button-sq x-corp-button x-corp-share-button-sq" target="_blank" rel="nofollow noopener noreferrer" aria-label="Xでシェア" title="Xでシェア"><span class="social-icon icon-x-corp"></span><span class="button-caption">X</span><span class="share-count twitter-share-count x-share-count"></span></a> <a href="//b.hatena.ne.jp/entry/s/examist.jp/light-dark/light-dark1/" class="sns-button share-button hatebu-button hatena-bookmark-button hatebu-share-button-sq" data-hatena-bookmark-layout="simple" target="_blank" rel="nofollow noopener noreferrer" aria-label="はてブでブックマーク" title="はてブでブックマーク"><span class="social-icon icon-hatena"></span><span class="button-caption">Hatena</span><span class="share-count hatebu-share-count"></span></a> <a href="//timeline.line.me/social-plugin/share?url=https%3A%2F%2Fexamist.jp%2Flight-dark%2Flight-dark1%2F" class="sns-button share-button line-button line-share-button-sq" target="_blank" rel="nofollow noopener noreferrer" aria-label="LINEでシェア" title="LINEでシェア"><span class="social-icon icon-line"></span><span class="button-caption">LINE</span><span class="share-count line-share-count"></span></a> <span class="sns-button share-button copy-button copy-share-button-sq" role="button" tabindex="0" data-clipboard-text="第１章　天賦の光 https://examist.jp/light-dark/light-dark1/" aria-label="タイトルとURLをコピーする"><span class="social-icon icon-copy"></span><span class="button-caption">Sao chép</span><span class="share-count copy-share-count"></span></span>
 
 </div>
 
@@ -2879,7 +2876,7 @@ figure.wp-block-table.score-table-pc {
 
 <div class="sns-follow-message">
 
-受験の月をフォローする
+Theo dõi Juken no Tsuki
 
 </div>
 
@@ -2897,7 +2894,7 @@ figure.wp-block-table.score-table-pc {
 
 <span class="fas fa-pencil-alt" aria-hidden="true"></span> <a href="https://examist.jp" class="author-link"><span class="post-author vcard author" itemprop="editor author creator copyrightHolder" itemscope="" itemtype="https://schema.org/Person"> </span></a>
 
-<span class="author-name fn" itemprop="name">受験の月</span>
+<span class="author-name fn" itemprop="name">Juken no Tsuki</span>
 
 </div>
 
