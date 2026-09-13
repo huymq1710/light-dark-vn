@@ -48,6 +48,8 @@ Sau khi tốt nghiệp cấp ba, nó đi làm nhân viên chính thức ở cây
 
 Ngồi ở ghế phụ, **ngoài mặt tôi làm như bình thản, nhưng trong lòng thì bị đè bẹp hoàn toàn.**
 
+<img width="670" height="183" alt="image" src="https://github.com/user-attachments/assets/91deb7e2-cd47-4ce1-ac6f-b9e9481a8d72" />
+
 **"Vớ vẩn... Thằng như mình lẽ ra phải vượt xa nó về năng lực trí tuệ, vậy mà lại thua trắng về tuổi tinh thần..."**
 
 **"Tại sao!!!"**
@@ -67,6 +69,9 @@ Khác với thời phổ thông, ở đại học mối liên hệ giữa từng
 Có một nam sinh đi quanh thu của mỗi người 500 yên làm tiền phúng viếng để tưởng niệm cái chết ấy. Nhưng câu hắn buông ra lúc đó khiến tôi không thể không cảm thấy vừa ghê tởm vừa lạc điệu dữ dội.
 
 **"Tao có giết đâu mà (cười)."**
+
+<img width="362" height="42" alt="image" src="https://github.com/user-attachments/assets/5a658f08-e2ec-46ec-8181-76a17119f5cf" />
+
 
 Một người bạn cùng khóa đã vĩnh viễn biến mất khỏi thế giới này rồi, vậy mà tại sao hắn vẫn có thể cư xử nhẹ hẫng, vô thần kinh đến thế? Cách tồn tại tinh thần ấy vang lên trong tôi như một thứ tạp âm chỏi tai khó hiểu.
 
@@ -100,13 +105,13 @@ Câu trả lời ấy tự nhiên trồi lên khi tôi lần tìm mẫu số chu
 
 Điểm chung của chúng là
 
-**chiến đấu**
+**chiến đấu (戦闘)**
 
 **Thứ tôi thật sự tìm kiếm trong những câu chuyện ấy -**
 
 **không phải "moe~", mà là**
 
-### chính nghĩa
+### chính nghĩa（正義)
 
 Đó mới chính là hạt nhân mà tôi đòi hỏi ở một câu chuyện.
 
@@ -153,21 +158,21 @@ Phương pháp học vẫn y như thời cấp ba: vừa nhìn TV vừa học th
 
 Lên năm ba, để chuẩn bị cho nghiên cứu tốt nghiệp năm tư, thứ đầu tiên tôi đưa vào căn phòng trọ của mình là
 
-**internet**
+> **internet**
 
 Trước đó, ngoài những lúc phải nộp báo cáo, tôi hầu như không động đến máy tính, thỉnh thoảng chỉ lên máy ở thư viện trường để tìm kiếm một chút mà thôi.
 
 Thế nhưng với cái tạng otaku của mình, tôi gần như lập tức lao đầu vào cái vực sâu ấy. Một khi hiểu được internet ghê gớm đến thế nào, tôi bắt đầu biết dùng đủ thứ phần mềm.
 
-**"Từ nay trở đi sẽ là thời đại mà internet trở thành điều hiển nhiên."**
+> **"Từ nay trở đi sẽ là thời đại mà internet trở thành điều hiển nhiên."**
 
 Và trong cái cảm giác ấy, đích đến tất yếu của tôi là nơi đang ở thời kỳ cực thịnh khi đó:
 
-**diễn đàn khổng lồ 2channel (2ちゃんねる)**
+> **diễn đàn khổng lồ 2channel (2ちゃんねる)**
 
 　
 
-**Mùa thu năm ba, trong cái đời sống chẳng có gì đặc biệt ngoài việc vừa xem TV mình yêu vừa lướt bảng tường thuật trực tiếp trên 2channel, cái "ngày định mệnh" ấy đột ngột ập đến mà không hề báo trước.**
+> **Mùa thu năm ba, trong cái đời sống chẳng có gì đặc biệt ngoài việc vừa xem TV mình yêu vừa lướt bảng tường thuật trực tiếp trên 2channel, cái "ngày định mệnh" ấy đột ngột ập đến mà không hề báo trước.**
 
 Tôi không còn nhớ rõ mình đã lần tới đó bằng đường nào. Có thể là tình cờ vướng phải trong lúc tìm kiếm gì đó, cũng có thể là qua một đoạn copypasta trên 2channel.
 
@@ -187,7 +192,7 @@ Nhưng đổi lại, những vụ án trong nước xảy ra trước khi tôi l
 
 　
 
-**Năm 1988vụ án sát hại nữ sinh trung học rồi đổ bê tông (女子高生コンクリート詰め殺人事件)**
+> **Năm 1988vụ án sát hại nữ sinh trung học rồi đổ bê tông (女子高生コンクリート詰め殺人事件)**
 
 　
 
@@ -203,13 +208,13 @@ Thế nhưng sau khi nắm đại khái toàn bộ vụ án, bây giờ nhìn l�
 
 　
 
-**Bởi vì... bởi vì...**
+> **Bởi vì... bởi vì...**
 
-**cho đến khoảnh khắc đó...**
+> **cho đến khoảnh khắc đó...**
 
-**tôi vẫn luôn luôn tin mà...**
+> **tôi vẫn luôn luôn tin mà...**
 
-### vào chính nghĩa của đất nước này
+> ### vào chính nghĩa của đất nước này
 
 　
 
@@ -222,15 +227,15 @@ Thế nhưng sau khi nắm đại khái toàn bộ vụ án, bây giờ nhìn l�
 
 　
 
-**"Cái... gì... cơ...?"**\
-**"Chuyện này ... rốt cuộc là cái quái gì đang xảy ra vậy...?"**
+> **"Cái... gì... cơ...?"**\
+> **"Chuyện này ... rốt cuộc là cái quái gì đang xảy ra vậy...?"**
 
 　
 
 **Ngay khoảnh khắc đó, mối quan tâm của tôi chuyển từ bản thân vụ án sang phản ứng của đất nước và tư pháp sau vụ án.**
 
-**"Tầng lớp khối xã hội ở đỉnh cao nhất của đất nước này đã nghĩ gì và hành động ra sao trước một vụ như thế?"**\
-**"Chính trị gia thì sao? Thẩm phán? Kiểm sát viên? Luật sư? Truyền thông?"**
+> **"Tầng lớp khối xã hội ở đỉnh cao nhất của đất nước này đã nghĩ gì và hành động ra sao trước một vụ như thế?"**\
+> **"Chính trị gia thì sao? Thẩm phán? Kiểm sát viên? Luật sư? Truyền thông?"**
 
 **Tôi cày sạch những trang hiện lên qua tìm kiếm, nhưng dù hiểu được đại khái vụ án và kết quả xét xử, tôi vẫn hoàn toàn không đọc ra nổi cách suy nghĩ của tầng lớp khối xã hội cao nhất thời đó.**
 
@@ -260,11 +265,11 @@ Bài ấy cũng không viết chi tiết vụ án. Thứ được ghi trong đó
 
 　
 
-### "Uwaaaaaaaaaaaaaaaaaaaaa!"
+## "AUwaaaaaaaaaaaaaaaaaaaaa!"
 
-**"Cái đất nước này đã vứt bỏ cô gái 17 tuổi bị làm nhục, bị hành hạ rồi giết dần giết mòn, cùng với gia quyến của cô ấy rồi sao!!!"**
+> **"Cái đất nước này đã vứt bỏ cô gái 17 tuổi bị làm nhục, bị hành hạ rồi giết dần giết mòn, cùng với gia quyến của cô ấy rồi sao!!!"**
 
-**"Cái quái gì vậy, cái đất nước này!!!"**
+> **"Cái quái gì vậy, cái đất nước này!!!"**
 
 　
 
@@ -411,6 +416,10 @@ Chính suy nghĩ ấy đã gắng gượng chặn tôi lại bên bờ chiến t
 
 　Tại sao gia đình của thẩm phán lại không bị biến thành người daruma?
 
+
+<img width="643" height="405" alt="image" src="https://github.com/user-attachments/assets/8a30cd38-7c11-4537-b8e7-8e8735ab35e0" />
+
+
 **Đương nhiên, tôi tuyệt đối không hé lộ ra ngoài bất cứ điều gì về những câu hỏi ấy hay bối cảnh đã sinh ra chúng.**
 
 **Bề ngoài, tôi vẫn hành xử như một sinh viên giỏi giang và ôn hòa. Nhưng bên trong, để chuẩn bị cho cái "ngày sẽ hiểu được tất cả" có thể một lúc nào đó sẽ đến, tôi bắt đầu sống những ngày liên tục mô phỏng cuộc chiến cuối cùng nhằm quét sạch "khối xã hội" với số lượng lớn và độ chắc ăn tuyệt đối.**
@@ -551,7 +560,8 @@ Tôi đã cày gần 20 cuốn sách bài tập ở từng lĩnh vực, mỗi cu
 
 Để tham khảo, xin đưa ra một câu hỏi hình pháp.
 
-Câu hỏi
+---
+> Câu hỏi (問題)
 
 A với mục đích giết B đã trộn một lượng lớn đường vào đồ uống của B vì tin rằng đó là "chất độc ở liều gây chết". B uống thứ đồ ấy nhưng không chết, sức khỏe cũng không có thay đổi gì. Tội danh nào dưới đây là phù hợp nhất đối với trách nhiệm hình sự của A?
 
@@ -567,6 +577,8 @@ A với mục đích giết B đã trộn một lượng lớn đường vào đ
 | ③ | × | Không còn ở giai đoạn chuẩn bị mà đã đến giai đoạn cho uống, nhưng bản thân phương tiện lại không có tính nguy hiểm. |
 | ④ | ○ | Không có nguy cơ hiện thực và việc phát sinh kết quả là bất khả. |
 
+---
+
 Vài ngày sau, **trên trang công bố kết quả đỗ trực tuyến, số báo danh duy nhất xuất hiện trong số 10 người thi ngạch Vật lý tại hội trường Kanazawa chính là số của tôi.**
 
 ## Kẻ dị thường bị lộ mặt - Tự hủy vì sự thành thật
@@ -580,6 +592,7 @@ Tôi vốn nghĩ rằng phỏng vấn trong các kỳ thi công chức có thi v
 Vài ngày sau, kết quả gửi tới nhà là
 
 **Phỏng vấn**:**xếp loại E (đánh trượt trực tiếp)**
+面接：E判定（失格判定）
 
 **Xếp loại E có nghĩa là, bất kể kết quả bài thi viết ra sao, con người tôi đã bị phán là "không phù hợp để làm công chức".**
 
