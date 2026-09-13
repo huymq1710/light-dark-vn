@@ -383,7 +383,7 @@ Dưới đây tôi sắp xếp những đặc điểm dễ thấy ở ASD.
 
 Bị liệt kê ra như thế này, tôi lại một lần nữa cảm nhận rõ mình đúng là ASD.
 
-**"Mẹ nó, gần như trúng hết luôn rồi còn gì."**
+> **"Mẹ nó, gần như trúng hết luôn rồi còn gì."**
 
 ### Kén ăn――Bản năng phòng vệ mang tên quá mẫn cảm giác
 
@@ -519,6 +519,8 @@ Khi dần hiểu những đặc điểm bề mặt của ASD, mối quan tâm c�
 ◇ Truy tìm bản chất ◇
 
 **Rốt cuộc ASD là gì**
+
+<img width="406" height="152" alt="image" src="https://github.com/user-attachments/assets/aadca35d-91df-4216-91b2-0d6fa9ff1831" />
 
 Chỉ liệt kê những đặc điểm bề mặt như "không đọc được không khí", "cố chấp mạnh", "giao tiếp kém" thì không bao giờ chạm tới bản chất của ASD.
 
@@ -876,6 +878,8 @@ Phân bố trí tuệ không chỉ là một bảng thống kê, mà là một *
 🌈 Ý nghĩa của spectrum
 
 ―― Một dải nối liền liên tục, lan rộng như cầu vồng ――
+
+<img width="686" height="152" alt="Screenshot 2026-09-13 at 19 52 19" src="https://github.com/user-attachments/assets/efa1cb54-9a5f-48d5-a71c-da968b721454" />
 
 　
 
@@ -1446,7 +1450,7 @@ Khi định nghĩa bản chất của khuyết tật là "chỉ số chủ quan 
 
 Ở đất nước này, người ASD nhiều nhan nhản. Chỉ cần tìm trên Internet là chuyện trải nghiệm của người trong cuộc và lời giải thích của chuyên gia đã bão hòa từ lâu.
 
-**"Thật ra tôi là ASD đó nha~♪"**
+> **"Thật ra tôi là ASD đó nha~♪"**
 
 Chỉ để thú nhận một điều tầm thường như vậy mà lại phải rót tài nguyên quý giá vào để viết ra câu chuyện này thì chẳng đáng chút nào.
 
