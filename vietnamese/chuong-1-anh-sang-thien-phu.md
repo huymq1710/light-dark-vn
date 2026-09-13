@@ -471,13 +471,9 @@ Nói trước cho rõ: cả hồi đó lẫn bây giờ, **nhận thức giới 
 
 Và cũng từ khoảng này, **tôi bắt đầu bị hút mạnh bởi vẻ đẹp tạo hình mang tên "phông chữ".** Trong bài thi cuối kỳ môn mỹ thuật có câu yêu cầu: "hãy viết một chữ Hán trong khung cho sẵn, một lần bằng phông Gothic và một lần bằng phông Mincho". Với kinh nghiệm thư pháp, cộng thêm việc tôi vốn ngày nào cũng nghịch trò đó trong lề vở, bài ấy quá dễ. Phần lettering mà tôi vẽ ra hoàn hảo tới mức được điểm tuyệt đối.
 
-美
+<img width="587" height="308" alt="Screenshot 2026-09-13 at 19 36 31" src="https://github.com/user-attachments/assets/633b16c5-9460-487b-8363-e53b74d7603b" />
 
-Phông Gothic
-
-美
-
-Phông Mincho
+Phông Gothic  　-　　Phông Mincho
 
 Sự ám ảnh với cấu trúc của con chữ như thế đến giờ vẫn chưa đổi. Ngay cả hiện tại, đôi khi tôi vẫn dùng iPad để vẽ kiểu Gothic và Mincho giết thời gian.
 
