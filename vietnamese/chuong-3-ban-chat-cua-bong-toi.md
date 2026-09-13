@@ -193,7 +193,7 @@ Hình tượng con người được kể trong video khiến tôi kinh ngạc, 
 
 Những mảnh ghép mang tên "tôi", vốn trước nay rơi rớt tứ tán, bắt đầu khớp vào nhau với tốc độ khủng khiếp.
 
-　
+---
 
 **Thiếu hụt năng lực giao tiếp**
 
@@ -211,7 +211,7 @@ Những mảnh ghép mang tên "tôi", vốn trước nay rơi rớt tứ tán, 
 
 　
 
-**Bản chất của cái "khó sống" mà tôi đã nếm trải**
+**Bản chất thực sự của "sự khó khăn trong cuộc sống" mà tôi đã nếm trải.**
 
 　
 
@@ -219,7 +219,9 @@ Rối loạn phổ tự kỷ (自閉スペクトラム症)
 
 Autism Spectrum Disorder (**ASD**)
 
-　
+<img width="436" height="116" alt="image" src="https://github.com/user-attachments/assets/db168e79-235e-4402-9d70-40a3f5bbf385" />
+
+---
 
 ### Phân tích và xác tín――Khởi đầu của màn gỡ những nút gài từ trước
 
